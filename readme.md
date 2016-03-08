@@ -31,6 +31,25 @@ A curated list of amazingly awesome [Shopify](https://www.shopify.com/) resource
 
 ## Programming Languages
 
+You can use official Shopify libraries or any of the third party libraries below for authenticating and interacting with the Shopify API.
+
+- [C#](https://github.com/nozzlegear/ShopifySharp)
+- PHP
+	- [ShopifyExtras/PHP-Shopify-API-Wrapper](https://github.com/ShopifyExtras/PHP-Shopify-API-Wrapper) - Guzzle-based API client.
+	- [Shopify API Package for Laravel](https://github.com/joshrps/laravel-shopify-API-wrapper)
+- Python
+	- [Shopify Python API](https://github.com/Shopify/shopify_python_api)
+	- [Shopify Django App Example](https://github.com/shopify/shopify_django_app)
+	- [django-shopify-auth](https://github.com/discolabs/django-shopify-auth)
+	- [Django Shopify Webhook](https://github.com/discolabs/django-shopify-webhook)
+
+- [R](https://github.com/charliebone/shopifyr/)
+- Ruby
+	- [Shopify Ruby API](https://github.com/Shopify/shopify_api)
+	- [Shopify App](https://github.com/Shopify/shopify_app) - A Ruby on Rails Engine
+	- [Shopify Sinatra App](https://github.com/kevinhughes27/shopify-sinatra-app)
+	- [Authentication using OmniAuth](https://github.com/Shopify/omniauth-shopify-oauth2)
+
 ## Tools
 
 ### Command Line Tools
