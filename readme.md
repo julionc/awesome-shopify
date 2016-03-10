@@ -36,6 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Others
   - [Cart.js](https://cartjs.org/) - A Javascript library to power your Shopify theme's cart.
   - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
+  - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme.
 
 ## Programming Languages
 
