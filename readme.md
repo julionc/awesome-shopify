@@ -118,7 +118,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [vim-liquid](https://github.com/tpope/vim-liquid) - Vim Liquid runtime files.
 
 ### Utilities
-  - [Ngrok](https://ngrok.com/) -  Ngrok is a tool that makes it easy to expose your development environment to Internet.
+  - [ForwardHQ](https://forwardhq.com/) - Get a public link directly to the web project running on your computer.
+  - [Ngrok](https://ngrok.com/) -  Ngrok is a tool that makes it easy to expose your development environment to Internet.  
   - [RequestBin](http://requestb.in) -  It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://docs.shopify.com/api/reference/webhook) are.
 
 ## License
