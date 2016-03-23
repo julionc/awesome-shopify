@@ -15,7 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Documentation
 
   - [Developer guides](https://docs.shopify.com/api/guides) - If you're new to developing apps for Shopify, take a look at the official guides to get an overview of the process.
-  - [Shopify Authentication Workflow](https://docs.shopify.com/api/guides/authentication/oauth) - This guide will walk you through the OAuth Authorization process.
+  - [Shopify’s OAuth flow for authentication](https://docs.shopify.com/api/guides/authentication/oauth) - This guide will walk you through the OAuth Authorization process.
   - [Shopify Partner Account](https://www.shopify.com/partners) - If you don't have a Shopify Partner account yet head over [here](https://www.shopify.com/partners) and create one, you'll need it before you can start developing apps.
 
 ## Community
@@ -121,6 +121,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [ForwardHQ](https://forwardhq.com/) - Get a public link directly to the web project running on your computer.
   - [Ngrok](https://ngrok.com/) -  Ngrok is a tool that makes it easy to expose your development environment to Internet.  
   - [RequestBin](http://requestb.in) -  It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://docs.shopify.com/api/reference/webhook) are.
+
+## Others
+  - [App requirements checklist for submitting apps to the Shopify App Store](https://docs.shopify.com/api/listing-in-the-app-store/app-review-checklist)
 
 ## License
 
