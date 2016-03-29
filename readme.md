@@ -61,6 +61,7 @@ You can use official Shopify libraries or any of the third party libraries below
   - [shopify_app](https://github.com/Shopify/shopify_app) - A Ruby on Rails Engine.
   - [shopify-sinatra-app](https://github.com/kevinhughes27/shopify-sinatra-app) - Shopify Sinatra App.
   - [omniauth-shopify-oauth2](https://github.com/Shopify/omniauth-shopify-oauth2) - Authentication using OmniAuth.
+  - [lucid_shopify](https://github.com/luciddesign/lucid_shopify) - Basic interfaces to the Shopify API.
 
 ### Python
   - [shopify_python_api](https://github.com/Shopify/shopify_python_api) - Shopify Python API
