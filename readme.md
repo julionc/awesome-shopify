@@ -10,9 +10,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Community](#community)
 - [Front-end Development](#front-end-development)
 - [Libraries](#libraries)
-  - [Ruby](#ruby-libraries)
-  - [Python](#python-libraries)
-  - [Javascript](#javascript-node-libraries)
+  - [Ruby](#ruby)
+  - [Python](#python)
+  - [Javascript](#javascript-node)
   - [.NET](#dotnet)
   - [Elixir](#elixir)
   - [Haskell](#haskell)
@@ -123,15 +123,19 @@ You can use official Shopify libraries or any of the third party libraries below
   - [Shopify Textmate Bundle](https://github.com/meeech/shopify.tmbundle) - A Textmate Bundle for interacting with Shopify Theme Assets.
   - [vim-liquid](https://github.com/tpope/vim-liquid) - Vim Liquid runtime files.
 
-### Utilities
+### Services
   - [ForwardHQ](https://forwardhq.com/) - Get a public link directly to the web project running on your computer.
   - [Ngrok](https://ngrok.com/) -  Ngrok is a tool that makes it easy to expose your development environment to Internet.  
   - [RequestBin](http://requestb.in) -  It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://docs.shopify.com/api/reference/webhook) are.
 
+### Utilities
+  - [Shopify Product CSVs and Images](https://github.com/levinmejia/Shopify-Product-CSVs-and-Images) - Get your Shopify development stores started with great product data.
+  - [Sketch Shopify Data Populator](https://github.com/levinmejia/sketch-shopify-data-populator)
+
 ## Examples
 A Open Source Projects
 
-### Ruby
+### Ruby Examples
   - [shopify-fulfillment-integration](https://github.com/Shopify/shopify-fulfillment-integration) - Example Fulfillment Service Integration with Shopify.
   - [Hosted Payment Simulator](https://github.com/Shopify/hosted-payment-sim) - Example of using the [Hosted Payment SDK](https://docs.shopify.com/api/sdks/hosted-payment-sdk).
   - [ShopifyPrintful](https://github.com/urbandictionary/shopify-printful) - A Ruby gem that synchronizes order item images between Shopify and Printful.
@@ -140,7 +144,7 @@ A Open Source Projects
   - [shopify-tax-receipts](https://github.com/kevinhughes27/shopify-tax-receipts) - Shopify app for automatically sending tax receipts when specified products are purchased.
   - [partner-metrics-for-shopify](https://github.com/forsbergplustwo/partner-metrics-for-shopify) - Metrics Dashboard for Shopify Partners, on Rails.
 
-### Python
+### Python Examples
   - [shopify_django_app](https://github.com/shopify/shopify_django_app) - Shopify Django App Example.
 
 ## License
