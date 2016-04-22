@@ -1,14 +1,17 @@
 # Awesome Shopify [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of amazingly awesome [Shopify](https://www.shopify.com/) resources, libraries and open source projects.
+[<img src="http://i.imgur.com/7hWRhci.png" width="250px" align="right" alt="Shopify">](http://www.shopify.com)
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+> A curated list of awesome [Shopify](https://www.shopify.com/) resources, libraries and open source projects.
+
+If you want to contribute, please read the [contribution guidelines](contributing.md).
 
 ## Table of Contents
 
-- [Documentation](#documentation)
 - [Community](#community)
+- [Documentation](#documentation)
 - [Front-end Development](#front-end-development)
+- [Mobile](#mobile)
 - [Libraries](#libraries)
   - [Ruby](#ruby)
   - [Python](#python)
@@ -20,24 +23,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Golang](#golang)
   - [PHP](#php)
   - [R](#r)
-- [Tools](#tools)
 - [Examples](#examples)
-  - [Ruby](#ruby-1)
-
-## Documentation
-
-  - [Developer guides](https://docs.shopify.com/api/guides) - If you're new to developing apps for Shopify, take a look at the official guides to get an overview of the process.
-  - [Shopify’s OAuth flow for authentication](https://docs.shopify.com/api/guides/authentication/oauth) - This guide will walk you through the OAuth Authorization process.
-  - [Shopify Partner Account](https://www.shopify.com/partners) - If you don't have a Shopify Partner account yet head over [here](https://www.shopify.com/partners) and create one, you'll need it before you can start developing apps.
-  - [App requirements checklist for submitting apps to the Shopify App Store](https://docs.shopify.com/api/listing-in-the-app-store/app-review-checklist)
+  - [Ruby](#ruby-examples)
+  - [Python](#python-examples)
+- [Tools](#tools)
 
 ## Community
-
   - [@ShopifyPartners](https://twitter.com/ShopifyPartners) - The official Shopify Partners Twitter account.
   - [@ShopifyDevs](https://twitter.com/ShopifyDevs) - A Shopify Devs Team Twitter account.
   - [Discussion Forums](https://ecommerce.shopify.com/forums) - Discussing ecommerce best practices and how to have a successful online store.
   - [eCommTalk](http://ecommtalk.com/shopify/) - A Slack Community created to bring Shopify lovers together.
   - [/r/shopify](https://www.reddit.com/r/shopify) - The Shopify Reddit community.
+
+## Documentation
+  - [Developer guides](https://docs.shopify.com/api/guides) - If you're new to developing apps for Shopify, take a look at the official guides to get an overview of the process.
+  - [Shopify’s OAuth flow for authentication](https://docs.shopify.com/api/guides/authentication/oauth) - This guide will walk you through the OAuth Authorization process.
+  - [Shopify Partner Account](https://www.shopify.com/partners) - If you don't have a Shopify Partner account yet head over [here](https://www.shopify.com/partners) and create one, you'll need it before you can start developing apps.
+  - [App requirements checklist](https://docs.shopify.com/api/listing-in-the-app-store/app-review-checklist) - For submitting apps to the Shopify App Store.
 
 ## Front-end Development
 
@@ -51,6 +53,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Cart.js](https://cartjs.org/) - A Javascript library to power your Shopify theme's cart.
   - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
   - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme.
+
+## Mobile
+
+You can use the iOS and Android Buy SDK to integrate Shopify checkout into your mobile application. [Learn more ›](https://docs.shopify.com/api/sdks/mobile-buy-sdk)
+
+### Android
+  - [Shopify Mobile for Android](https://apps.shopify.com/shopify-mobile-for-android)
+  - [Shopify’s Mobile Buy SDK](https://github.com/Shopify/mobile-buy-sdk-android)
+
+### iOS
+  - [Shopify Mobile for iPhone](https://apps.shopify.com/shopify-mobile)
+  - [Shopify’s Mobile Buy SDK](https://github.com/Shopify/mobile-buy-sdk-ios)
 
 ## Libraries
 
@@ -107,6 +121,21 @@ You can use official Shopify libraries or any of the third party libraries below
 ### R
   - [shopifyr](https://github.com/charliebone/shopifyr/) - Aims to provide an easy-to-use interface R
 
+## Examples
+A Open Source Projects
+
+### Ruby Examples
+  - [shopify-fulfillment-integration](https://github.com/Shopify/shopify-fulfillment-integration) - Example Fulfillment Service Integration with Shopify.
+  - [Hosted Payment Simulator](https://github.com/Shopify/hosted-payment-sim) - Example of using the [Hosted Payment SDK](https://docs.shopify.com/api/sdks/hosted-payment-sdk).
+  - [ShopifyPrintful](https://github.com/urbandictionary/shopify-printful) - A Ruby gem that synchronizes order item images between Shopify and Printful.
+  - [shopify-sim](https://github.com/urbandictionary/shopify-sim) - Sinatra app to preview a Shopify theme locally.
+  - [shopify-surge-pricing](https://github.com/kevinhughes27/shopify-surge-pricing) - A demo of surge pricing for Shopify based on cart update webhooks.
+  - [shopify-tax-receipts](https://github.com/kevinhughes27/shopify-tax-receipts) - Shopify app for automatically sending tax receipts when specified products are purchased.
+  - [partner-metrics-for-shopify](https://github.com/forsbergplustwo/partner-metrics-for-shopify) - Metrics Dashboard for Shopify Partners, on Rails.
+
+### Python Examples
+  - [shopify_django_app](https://github.com/shopify/shopify_django_app) - Shopify Django App Example.
+
 ## Tools
 
 ### Browser extensions
@@ -131,21 +160,6 @@ You can use official Shopify libraries or any of the third party libraries below
 ### Utilities
   - [Shopify Product CSVs and Images](https://github.com/levinmejia/Shopify-Product-CSVs-and-Images) - Get your Shopify development stores started with great product data.
   - [Sketch Shopify Data Populator](https://github.com/levinmejia/sketch-shopify-data-populator)
-
-## Examples
-A Open Source Projects
-
-### Ruby Examples
-  - [shopify-fulfillment-integration](https://github.com/Shopify/shopify-fulfillment-integration) - Example Fulfillment Service Integration with Shopify.
-  - [Hosted Payment Simulator](https://github.com/Shopify/hosted-payment-sim) - Example of using the [Hosted Payment SDK](https://docs.shopify.com/api/sdks/hosted-payment-sdk).
-  - [ShopifyPrintful](https://github.com/urbandictionary/shopify-printful) - A Ruby gem that synchronizes order item images between Shopify and Printful.
-  - [shopify-sim](https://github.com/urbandictionary/shopify-sim) - Sinatra app to preview a Shopify theme locally.
-  - [shopify-surge-pricing](https://github.com/kevinhughes27/shopify-surge-pricing) - A demo of surge pricing for Shopify based on cart update webhooks.
-  - [shopify-tax-receipts](https://github.com/kevinhughes27/shopify-tax-receipts) - Shopify app for automatically sending tax receipts when specified products are purchased.
-  - [partner-metrics-for-shopify](https://github.com/forsbergplustwo/partner-metrics-for-shopify) - Metrics Dashboard for Shopify Partners, on Rails.
-
-### Python Examples
-  - [shopify_django_app](https://github.com/shopify/shopify_django_app) - Shopify Django App Example.
 
 ## License
 
