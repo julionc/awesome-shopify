@@ -1,8 +1,8 @@
 # Awesome Shopify [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="http://i.imgur.com/7hWRhci.png" width="250px" align="right" alt="Shopify">](http://www.shopify.com)
+[<img src="shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/?ref=vitalogy)
 
-> A curated list of awesome [Shopify](https://www.shopify.com/) resources, libraries and open source projects.
+> A curated list of awesome [Shopify](https://www.shopify.com/?ref=vitalogy) resources, libraries and open source projects.
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
@@ -36,10 +36,10 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [/r/shopify](https://www.reddit.com/r/shopify) - The Shopify Reddit community.
 
 ## Documentation
-  - [Developer guides](https://docs.shopify.com/api/guides) - If you're new to developing apps for Shopify, take a look at the official guides to get an overview of the process.
-  - [Shopify’s OAuth flow for authentication](https://docs.shopify.com/api/guides/authentication/oauth) - This guide will walk you through the OAuth Authorization process.
-  - [Shopify Partner Account](https://www.shopify.com/partners) - If you don't have a Shopify Partner account yet head over [here](https://www.shopify.com/partners) and create one, you'll need it before you can start developing apps.
-  - [App requirements checklist](https://docs.shopify.com/api/listing-in-the-app-store/app-review-checklist) - For submitting apps to the Shopify App Store.
+  - [Developer guides](https://help.shopify.com/api/guides) - If you're new to developing apps for Shopify, take a look at the official guides to get an overview of the process.
+  - [Shopify’s OAuth flow for authentication](https://help.shopify.com/api/guides/authentication/oauth) - This guide will walk you through the OAuth Authorization process.
+  - [Shopify Partner Account](https://www.shopify.com/partners?ref=vitalogy) - If you don't have a Shopify Partner account yet head over [here](https://www.shopify.com/partners?ref=vitalogy) and create one, you'll need it before you can start developing apps.
+  - [quirements checklist](https://help.shopify.com/api/listing-in-the-app-store/app-review-checklist) - For submitting apps to the Shopify App Store.
 
 ## Front-end Development
 
@@ -155,7 +155,7 @@ A Open Source Projects
 ### Services
   - [ForwardHQ](https://forwardhq.com/) - Get a public link directly to the web project running on your computer.
   - [Ngrok](https://ngrok.com/) -  Ngrok is a tool that makes it easy to expose your development environment to Internet.  
-  - [RequestBin](http://requestb.in) -  It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://docs.shopify.com/api/reference/webhook) are.
+  - [RequestBin](http://requestb.in) -  It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/api/reference/webhook) are.
 
 ### Utilities
   - [Shopify Product CSVs and Images](https://github.com/levinmejia/Shopify-Product-CSVs-and-Images) - Get your Shopify development stores started with great product data.
