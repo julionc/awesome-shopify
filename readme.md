@@ -46,6 +46,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### CSS Frameworks
   - [Timber](https://github.com/Shopify/Timber) - A faster and easier way to build Shopify themes.
   - [Foundationify](https://github.com/lukebussey/foundationify) - A theme for Shopify based on the responsive Zurb Foundation 5 framework.
+  - [Uptown CSS](http://www.uptowncss.com/) - Uptown CSS is a semantic toolkit designed to help developers build fully-responsive Shopify Apps.
   - [Shopify Embedded App Frontend Framework](https://github.com/microapps/Shopify-Embedded-App-Frontend-Framework)
   - [preamble](https://github.com/sdn90/preamble) - A Shopify theme framework with Babel and Webpack.
 
@@ -53,6 +54,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Cart.js](https://cartjs.org/) - A Javascript library to power your Shopify theme's cart.
   - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
   - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme.
+  - [Liquid Cheat Sheet](http://shopify.com/liquid) A resource for building Shopify Themes with Liquid
 
 ## Mobile
 
