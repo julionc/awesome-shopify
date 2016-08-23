@@ -55,6 +55,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
   - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme.
   - [Liquid Cheat Sheet](http://shopify.com/liquid) A resource for building Shopify Themes with Liquid
+  - [shopify-css-import](https://github.com/Shopify/shopify-css-import) Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js
 
 ## Mobile
 
