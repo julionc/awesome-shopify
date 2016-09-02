@@ -135,6 +135,7 @@ A Open Source Projects
   - [shopify-surge-pricing](https://github.com/kevinhughes27/shopify-surge-pricing) - A demo of surge pricing for Shopify based on cart update webhooks.
   - [shopify-tax-receipts](https://github.com/kevinhughes27/shopify-tax-receipts) - Shopify app for automatically sending tax receipts when specified products are purchased.
   - [partner-metrics-for-shopify](https://github.com/forsbergplustwo/partner-metrics-for-shopify) - Metrics Dashboard for Shopify Partners, on Rails.
+  - [Parcelify](https://github.com/christianblais/parcelify) - Take control of your deliveries with custom shipping rates.
 
 ### Python Examples
   - [shopify_django_app](https://github.com/shopify/shopify_django_app) - Shopify Django App Example.
