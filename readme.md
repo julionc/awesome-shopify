@@ -101,6 +101,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Elixir
   - [shopify_elixir](https://github.com/sdn90/shopify_elixir) - A Shopify API library for Elixir.
+  - [sticksnleaves/exshopify](https://github.com/sticksnleaves/exshopify) - Elixir client for the Shopify API
 
 ### Haskell
   - [haskell-shopify](https://github.com/aaronlevin/haskell-shopify) - A type-safe Haskell client for the Shopify API.
