@@ -149,6 +149,7 @@ A Open Source Projects
 
 ### Command Line Tools
   - [Theme Kit](https://github.com/Shopify/themekit) - Theme asset interaction library and management.
+  - [Slate](https://shopify.github.io/slate/) - A theme scaffold and command line tool for developing Shopify themes.
   - [Shopify Theme](https://github.com/shopify/shopify_theme) - A console tool for interacting with Shopify Theme Assets.
   - [ziplinesFly](http://ziplines.pixelcab.in/) - Fly into Shopify development with ease workflow.
   - [grunt-shopify](https://github.com/wilr/grunt-shopify) - Grunt plug-in for publishing Shopify theme assets.
