@@ -114,6 +114,7 @@ You can use official Shopify libraries or any of the third party libraries below
   - [shoauth](https://github.com/darrenpeters/shoauth) - Shopify oauth (oauth2) middleware for Golang.
 
 ### PHP
+  - [OAuth2 Shopify](https://github.com/pizdata/oauth2-shopify-php) - Shopify Provider for the OAuth 2.0 Client.
   - [ShopifyExtras/PHP-Shopify-API-Wrapper](https://github.com/ShopifyExtras/PHP-Shopify-API-Wrapper) - Guzzle-based API client.
   - [ZfrShopify](https://github.com/zf-fr/zfr-shopify) - Guzzle client around Shopify API.
   - [Shopify API Package for Laravel](https://github.com/joshrps/laravel-shopify-API-wrapper) - A Laravel API Wrapper.
