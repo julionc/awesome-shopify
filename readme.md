@@ -43,6 +43,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Front-end Development
 
+### UI/UX
+  - [Shopify Polaris](https://polaris.shopify.com) - Polaris is a React component library designed to help developers create the best experience for merchants. [github](https://github.com/Shopify/polaris) :sunny:
+  
 ### CSS Frameworks
   - [Timber](https://github.com/Shopify/Timber) - A faster and easier way to build Shopify themes.
   - [Foundationify](https://github.com/lukebussey/foundationify) - A theme for Shopify based on the responsive Zurb Foundation 5 framework.
