@@ -26,6 +26,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Examples](#examples)
   - [Ruby](#ruby-examples)
   - [Python](#python-examples)
+- [Snippets](#code-snippets)
 - [Tools](#tools)
 
 ## Community
@@ -145,6 +146,10 @@ A Open Source Projects
 
 ### Python Examples
   - [shopify_django_app](https://github.com/shopify/shopify_django_app) - Shopify Django App Example.
+
+## Code Snippets
+  - [freakdesign/Shopify-code-snippets](https://github.com/freakdesign/shopifyFD) - Shopify code examples and tips bought.
+  - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
 
 ## Tools
 
