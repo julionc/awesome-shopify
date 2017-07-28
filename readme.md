@@ -39,7 +39,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Developer guides](https://help.shopify.com/api/guides) - If you're new to developing apps for Shopify, take a look at the official guides to get an overview of the process.
   - [Shopify’s OAuth flow for authentication](https://help.shopify.com/api/guides/authentication/oauth) - This guide will walk you through the OAuth Authorization process.
   - [Shopify Partner Account](https://www.shopify.com/partners?ref=vitalogy) - If you don't have a Shopify Partner account yet head over [here](https://www.shopify.com/partners?ref=vitalogy) and create one, you'll need it before you can start developing apps.
-  - [quirements checklist](https://help.shopify.com/api/listing-in-the-app-store/app-review-checklist) - For submitting apps to the Shopify App Store.
+  - [App requirements checklist](https://help.shopify.com/api/listing-in-the-app-store/app-review-checklist) - For submitting apps to the Shopify App Store.
 
 ## Front-end Development
 
@@ -51,7 +51,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [Foundationify](https://github.com/lukebussey/foundationify) - A theme for Shopify based on the responsive Zurb Foundation 5 framework.
   - [Uptown CSS](http://www.uptowncss.com/) - Uptown CSS is a semantic toolkit designed to help developers build fully-responsive Shopify Apps.
   - [Shopify Embedded App Frontend Framework](https://github.com/microapps/Shopify-Embedded-App-Frontend-Framework)
-  - [preamble](https://github.com/sdn90/preamble) - A Shopify theme framework with Babel and Webpack.
+  - [Preamble](https://github.com/sdn90/preamble) - A Shopify theme framework with Babel and Webpack.
 
 ### Others
   - [Cart.js](https://cartjs.org/) - A Javascript library to power your Shopify theme's cart.
