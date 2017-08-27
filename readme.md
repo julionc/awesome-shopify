@@ -170,6 +170,7 @@ A Open Source Projects
 
 - [freakdesign/Shopify-code-snippets](https://github.com/freakdesign/shopifyFD) - Shopify code examples and tips bought.
 - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
+- [vikrantnegi/shopify-code-snippets](https://github.com/vikrantnegi/shopify-code-snippets) - A compilation of code snippets for Shopify developers.
 
 ## Tools
 
