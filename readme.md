@@ -186,6 +186,8 @@ A Open Source Projects
 - [Shopify Theme](https://github.com/shopify/shopify_theme) - A console tool for interacting with Shopify Theme Assets.
 - [ziplinesFly](http://ziplines.pixelcab.in) - Fly into Shopify development with ease workflow.
 - [grunt-shopify](https://github.com/wilr/grunt-shopify) - Grunt plug-in for publishing Shopify theme assets.
+- [Boojum](http://boojum.co) - Boojum lets you run Shopify themes locally or on a CI service. (Under development)
+
 
 ### Editor
 
