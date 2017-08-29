@@ -49,7 +49,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### UI/UX
 
 - [Shopify Polaris](https://polaris.shopify.com) - Polaris is a React component library designed to help developers create the best experience for merchants. [github](https://github.com/Shopify/polaris) :sunny:
-- [Boojum](http://boojum.co) - Boojum lets you run Shopify themes locally or on a CI service. (Under development)
 
 ### CSS Frameworks
 
@@ -186,6 +185,8 @@ A Open Source Projects
 - [Shopify Theme](https://github.com/shopify/shopify_theme) - A console tool for interacting with Shopify Theme Assets.
 - [ziplinesFly](http://ziplines.pixelcab.in) - Fly into Shopify development with ease workflow.
 - [grunt-shopify](https://github.com/wilr/grunt-shopify) - Grunt plug-in for publishing Shopify theme assets.
+- [Boojum](http://boojum.co) - Boojum lets you run Shopify themes locally or on a CI service. (Under development)
+
 
 ### Editor
 
