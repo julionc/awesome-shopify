@@ -203,9 +203,10 @@ A Open Source Projects
 
 ### Utilities
 
-- [UnProduct-Shopify](https://github.com/byjord/UnProduct-Shopify) - Non-uniform test product data for the Shopify Platform. We like to think that people will spend time carefully inputing product data, or even taking consistent product photos, but that's not always the case. Use UnProduct-Shopify to simulate real world products.
-- [Shopify Product CSVs and Images](https://github.com/levinmejia/Shopify-Product-CSVs-and-Images) - Get your Shopify development stores started with great product data.
-- [Sketch Shopify Data Populator](https://github.com/levinmejia/sketch-shopify-data-populator)
+- [Shopify Product CSVs and Images](https://shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
+- [UnProduct-Shopify](https://github.com/byjord/UnProduct-Shopify) - Non-uniform test product data for the Shopify Platform. Use UnProduct-Shopify to simulate real world products.
+- [Sketch Shopify Data Populator](https://github.com/shopifypartners/sketch-shopify-data-populator)
+- [City Ecommerce UI Kit](https://github.com/shopifypartners/sketch-shopify-data-populator) - City is our free ecommerce UI kit based on a fictional fashion apparel shop. (Prototyping Shopify Store design)
 
 ## License
 
