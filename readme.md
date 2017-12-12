@@ -102,6 +102,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### JavaScript (Node)
 
 - [shopify-api-node](https://github.com/microapps/shopify-api-node) - Node Shopify connector.
+- [shopify-express](https://github.com/Shopify/shopify-express) - Get up and running quickly with Express.js and the Shopify API. :warning:
 - [Shopify API SDK for Node](https://github.com/ctalkington/node-shopify-api) - Shopify API SDK for Node.
 - [shopify-node-api](https://github.com/christophergregory/shopify-node-api) - OAuth2 Module for Shopify API.
 - [node-shopify-auth](https://github.com/jonpulice/node-shopify-auth) - Shopify Node.js + Express Auth Module
@@ -163,6 +164,10 @@ A Open Source Projects
 - [shopify-tax-receipts](https://github.com/kevinhughes27/shopify-tax-receipts) - Shopify app for automatically sending tax receipts when specified products are purchased.
 - [partner-metrics-for-shopify](https://github.com/forsbergplustwo/partner-metrics-for-shopify) - Metrics Dashboard for Shopify Partners, on Rails.
 - [Parcelify](https://github.com/christianblais/parcelify) - Take control of your deliveries with custom shipping rates.
+
+### JavaScript (Node)
+
+- [Shopify Node App](https://github.com/shopify/shopify-node-app) - A starting point for developers so that they will be able to quickly turn up an embedded Shopify app using Node and Express.js
 
 ### Python Examples
 
