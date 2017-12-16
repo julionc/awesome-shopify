@@ -43,6 +43,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Shopify’s OAuth flow for authentication](https://help.shopify.com/api/guides/authentication/oauth) - This guide will walk you through the OAuth Authorization process.
 - [Shopify Partner Account](https://www.shopify.com/partners?ref=vitalogy) - If you don't have a Shopify Partner account yet head over [here](https://www.shopify.com/partners?ref=vitalogy) and create one, you'll need it before you can start developing apps.
 - [App requirements checklist](https://help.shopify.com/api/listing-in-the-app-store/app-review-checklist) - For submitting apps to the Shopify App Store.
+- [Everything You Need to Know About Development Stores](https://www.shopify.com/partners/blog/development-stores?ref=vitalogy) - Understanding development stores.
 
 ## Front-end Development
 
