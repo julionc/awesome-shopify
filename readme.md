@@ -138,7 +138,6 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### PHP
 
-- [shopify-php](https://github.com/Shopify/shopify-php) - Official Shopify PHP SDK (WIP).
 - [OAuth2 Shopify](https://github.com/pizdata/oauth2-shopify-php) - Shopify Provider for the OAuth 2.0 Client.
 - [ShopifyExtras/PHP-Shopify-API-Wrapper](https://github.com/ShopifyExtras/PHP-Shopify-API-Wrapper) - Guzzle-based API client.
 - [ZfrShopify](https://github.com/zf-fr/zfr-shopify) - Guzzle client around Shopify API.
@@ -148,6 +147,8 @@ You can use official Shopify libraries or any of the third party libraries below
 - [donutdan4114/shopify](https://github.com/donutdan4114/shopify) - A simple Shopify PHP SDK for private apps to easily interact with the Shopify API.
 - [buy-button-wordpress](https://github.com/Shopify/buy-button-wordpress) - Wordpress plugin for the Buy Button
 - [phpclassic/php-shopify](https://github.com/phpclassic/php-shopify) - PHP SDK for Shopify API
+- [slince/shopify-api-php](https://github.com/slince/shopify-api-php) - Shopify API Client for PHP
+- [shopify-php](https://github.com/Shopify/shopify-php/issues/5#issuecomment-348097956) - ~~Official Shopify PHP SDK~~
 
 ### R
 
