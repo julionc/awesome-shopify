@@ -50,6 +50,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ### UI/UX
 
 - [Shopify Polaris](https://polaris.shopify.com) - Polaris is a React component library designed to help developers create the best experience for merchants. [github](https://github.com/Shopify/polaris) :sunny:
+- [Shopify Polaris Telescope](https://polaris.shopify.com/resources/polaris-telescope) - Access Polaris from Sketch to speed up your design or development workflow.
 
 ### CSS Frameworks
 
