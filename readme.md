@@ -188,6 +188,9 @@ A Open Source Projects
 
 ## Tools
 
+### App
+- [Shopify developer-tools](https://github.com/shopifypartners/developer-tools) - A macOS app that connects to your Shopify store(s) and allows you to make authenticated calls to the Admin API, generate dummy data, and view and customize Polaris components. [More info](https://www.shopify.com/partners/blog/developer-tools) 
+
 ### Browser extensions
 
 - [ShopifyFD Dashboard Tool](https://github.com/freakdesign/shopifyFD) - Chrome extension to provide additional functionality to the Shopify dashboard.
