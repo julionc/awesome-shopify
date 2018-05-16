@@ -54,6 +54,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### CSS Frameworks
 
+- [slate](https://github.com/Shopify/slate) - A toolkit for developing Shopify themes. It is designed to assist your workflow and speed up the process of developing, testing, and deploying themes to Shopify stores.
 - [Timber](https://github.com/Shopify/Timber) - A faster and easier way to build Shopify themes.
 - [Foundationify](https://github.com/lukebussey/foundationify) - A theme for Shopify based on the responsive Zurb Foundation 5 framework.
 - [Uptown CSS](http://www.uptowncss.com) - Uptown CSS is a semantic toolkit designed to help developers build fully-responsive Shopify Apps.
