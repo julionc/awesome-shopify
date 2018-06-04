@@ -210,6 +210,7 @@ A Open Source Projects
 
 - [Shopify Textmate Bundle](https://github.com/meeech/shopify.tmbundle) - A Textmate Bundle for interacting with Shopify Theme Assets.
 - [vim-liquid](https://github.com/tpope/vim-liquid) - Vim Liquid runtime files.
+- [VS Code Liquid Snippets Extension](https://marketplace.visualstudio.com/items?itemName=killalau.vscode-liquid-snippets) - An extension for the VS Code editor with autocomplete snippets for Shopify Liquid.
 
 ### Services
 
