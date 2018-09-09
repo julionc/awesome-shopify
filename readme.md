@@ -105,7 +105,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### JavaScript (Node)
 
 - [shopify-api-node](https://github.com/microapps/shopify-api-node) - Node Shopify connector.
-- [shopify-express](https://github.com/Shopify/shopify-express) - Get up and running quickly with Express.js and the Shopify API. :warning:
+- [shopify-express](https://github.com/Shopify/shopify-express) - ~~Get up and running quickly with Express.js and the Shopify API.~~ :warning:
 - [Shopify API SDK for Node](https://github.com/ctalkington/node-shopify-api) - Shopify API SDK for Node.
 - [shopify-node-api](https://github.com/christophergregory/shopify-node-api) - OAuth2 Module for Shopify API.
 - [node-shopify-auth](https://github.com/jonpulice/node-shopify-auth) - Shopify Node.js + Express Auth Module
