@@ -111,6 +111,8 @@ You can use official Shopify libraries or any of the third party libraries below
 - [node-shopify-auth](https://github.com/jonpulice/node-shopify-auth) - Shopify Node.js + Express Auth Module
 - [meteor-shopify](https://github.com/froatsnook/meteor-shopify) - Shopify API access for Meteor.
 - [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) - Shopify JavaScript Buy SDK
+- [@shopify/koa-shopify-auth](https://github.com/Shopify/quilt/tree/master/packages/koa-shopify-auth) - Shopify Auth for Koa HTTP middleware framework.
+- [@shopify/koa-shopify-graphql-proxy](https://github.com/Shopify/quilt/blob/master/packages/koa-shopify-graphql-proxy/README.md) - Shopify GraphQL Proxy for Koa HTTP middleware framework.
 
 ### .NET
 
