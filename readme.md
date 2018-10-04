@@ -106,9 +106,9 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### JavaScript
 
-- [shopify-api-node](https://github.com/microapps/shopify-api-node) - Node Shopify connector.
+- [shopify-api-node](https://github.com/microapps/shopify-api-node) - Node.js Shopify connector.
 - [shopify-express](https://github.com/Shopify/shopify-express) - Get up and running quickly with Express.js and the Shopify API :warning: (deprecated).
-- [Shopify API SDK for Node](https://github.com/ctalkington/node-shopify-api) - Shopify API SDK for Node.
+- [Shopify API SDK for Node.js](https://github.com/ctalkington/node-shopify-api) - Shopify API SDK for Node.js.
 - [shopify-node-api](https://github.com/christophergregory/shopify-node-api) - OAuth2 Module for Shopify API.
 - [node-shopify-auth](https://github.com/jonpulice/node-shopify-auth) - Shopify Node.js + Express Auth Module.
 - [meteor-shopify](https://github.com/froatsnook/meteor-shopify) - Shopify API access for Meteor.
@@ -167,7 +167,7 @@ A Open Source Projects
 
 ### JavaScript Examples
 
-- [Shopify Node App](https://github.com/shopify/shopify-node-app) - A starting point for developers so that they will be able to quickly turn up an embedded Shopify app using Node and Express.js.
+- [Shopify Node App](https://github.com/shopify/shopify-node-app) - A starting point for developers so that they will be able to quickly turn up an embedded Shopify app using Node.js and Express.js.
 
 ### Python Examples
 
