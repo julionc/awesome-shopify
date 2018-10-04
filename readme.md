@@ -230,9 +230,6 @@ A Open Source Projects
 
 ## License
 
-```
-Creative Commons Attribution 4.0 International License (CC BY 4.0)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-http://creativecommons.org/licenses/by/4.0/
-
-```
+To the extent possible under law, [Julio Napurí](https://github.com/julionc) has waived all copyright and related or neighboring rights to this work.  See the [LICENSE](LICENSE) file for details.
