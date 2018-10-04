@@ -1,12 +1,13 @@
-# Awesome Shopify [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Shopify [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 [<img src="shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/?ref=vitalogy)
 
 > A curated list of awesome [Shopify](https://www.shopify.com/?ref=vitalogy) resources, libraries and open source projects.
 
-If you want to contribute, please read the [contribution guidelines](contributing.md).
+If you want to contribute, please read the [contribution guidelines](https://github.com/julionc/awesome-shopify/blob/master/contributing.md).
+Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/contributors), you're awesome and wouldn't be possible without you! 
 
-## Table of Contents
+## Contents
 
 - [Community](#community)
 - [Documentation](#documentation)
@@ -15,8 +16,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Libraries](#libraries)
   - [Ruby](#ruby)
   - [Python](#python)
-  - [Javascript](#javascript-node)
-  - [.NET](#dotnet)
+  - [JavaScript](#javascript)
+  - [DotNet](#dotnet)
   - [Elixir](#elixir)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -24,9 +25,10 @@ If you want to contribute, please read the [contribution guidelines](contributin
   - [PHP](#php)
   - [R](#r)
 - [Examples](#examples)
-  - [Ruby](#ruby-examples)
-  - [Python](#python-examples)
-- [Snippets](#code-snippets)
+  - [JavaScript Examples](#javascript-examples)
+  - [Python Examples](#python-examples)
+  - [Ruby Examples](#ruby-examples)
+- [Code Snippets](#code-snippets)
 - [Tools](#tools)
 
 ## Community
@@ -49,7 +51,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### UI/UX
 
-- [Shopify Polaris](https://polaris.shopify.com) - Polaris is a React component library designed to help developers create the best experience for merchants. [github](https://github.com/Shopify/polaris) :sunny:
+- [Shopify Polaris](https://polaris.shopify.com) - Polaris is a React component library designed to help developers create the best experience for merchants. [GitHub](https://github.com/Shopify/polaris) :sunny:.
 - [Shopify Polaris Telescope](https://polaris.shopify.com/resources/polaris-telescope) - Access Polaris from Sketch to speed up your design or development workflow.
 
 ### CSS Frameworks
@@ -63,24 +65,24 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ### Others
 
-- [Cart.js](https://cartjs.org) - A Javascript library to power your Shopify theme's cart.
+- [Cart.js](https://cartjs.org) - A JavaScript library to power your Shopify theme's cart.
 - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
 - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme.
-- [Liquid Cheat Sheet](http://shopify.com/liquid) A resource for building Shopify Themes with Liquid
-- [shopify-css-import](https://github.com/Shopify/shopify-css-import) Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js
+- [Liquid Cheat Sheet](http://shopify.com/liquid) - A resource for building Shopify Themes with Liquid.
+- [shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js.
 
 ## Mobile
 
-You can use the iOS and Android Buy SDK to integrate Shopify checkout into your mobile application. [Learn more ›](https://docs.shopify.com/api/sdks/mobile-buy-sdk)
+You can use the iOS and Android Buy SDK to integrate Shopify checkout into your mobile applications in iOS and Android. This lets you sell any of your physical products through the app and track sales info in your Shopify admin. [Learn more here›](https://help.shopify.com/api/custom-storefronts/mobile-buy-sdk).
 
 ### Android
 
-- [Shopify Mobile for Android](https://apps.shopify.com/shopify-mobile-for-android)
-- [Shopify’s Mobile Buy SDK](https://github.com/Shopify/mobile-buy-sdk-android)
+- [Shopify Mobile for Android](https://www.shopify.com/install/android)
+- [Shopify’s Mobile Buy SDK](https://www.shopify.com/install/mobile)
 
 ### iOS
 
-- [Shopify Mobile for iPhone](https://apps.shopify.com/shopify-mobile)
+- [Shopify Mobile for iPhone](https://www.shopify.com/install/mobile)
 - [Shopify’s Mobile Buy SDK](https://github.com/Shopify/mobile-buy-sdk-ios)
 
 ## Libraries
@@ -94,37 +96,37 @@ You can use official Shopify libraries or any of the third party libraries below
 - [shopify-sinatra-app](https://github.com/kevinhughes27/shopify-sinatra-app) - Shopify Sinatra App.
 - [omniauth-shopify-oauth2](https://github.com/Shopify/omniauth-shopify-oauth2) - Authentication using OmniAuth.
 - [lucid_shopify](https://github.com/luciddesign/lucid_shopify) - Basic interfaces to the Shopify API.
-- [Shopify app starter kit](https://github.com/ASoftCo/shopify-app-starter-kit) – A Shopify app boilerplate written in Ruby on Rails with appropriate tools to get your Shopify app up and running quickly 🚀
+- [Shopify app starter kit](https://github.com/ASoftCo/shopify-app-starter-kit) - A Shopify app boilerplate written in Ruby on Rails with appropriate tools to get your Shopify app up and running quickly 🚀.
 
 ### Python
 
-- [shopify_python_api](https://github.com/Shopify/shopify_python_api) - Shopify Python API
+- [shopify_python_api](https://github.com/Shopify/shopify_python_api) - Shopify Python API.
 - [django-shopify-auth](https://github.com/discolabs/django-shopify-auth)
 - [Django Shopify Webhook](https://github.com/discolabs/django-shopify-webhook)
 
-### JavaScript (Node)
+### JavaScript
 
 - [shopify-api-node](https://github.com/microapps/shopify-api-node) - Node Shopify connector.
-- [shopify-express](https://github.com/Shopify/shopify-express) - ~~Get up and running quickly with Express.js and the Shopify API.~~ :warning:
+- [shopify-express](https://github.com/Shopify/shopify-express) - Get up and running quickly with Express.js and the Shopify API :warning: (deprecated).
 - [Shopify API SDK for Node](https://github.com/ctalkington/node-shopify-api) - Shopify API SDK for Node.
 - [shopify-node-api](https://github.com/christophergregory/shopify-node-api) - OAuth2 Module for Shopify API.
-- [node-shopify-auth](https://github.com/jonpulice/node-shopify-auth) - Shopify Node.js + Express Auth Module
+- [node-shopify-auth](https://github.com/jonpulice/node-shopify-auth) - Shopify Node.js + Express Auth Module.
 - [meteor-shopify](https://github.com/froatsnook/meteor-shopify) - Shopify API access for Meteor.
-- [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) - Shopify JavaScript Buy SDK
+- [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) - Shopify JavaScript Buy SDK.
 - [@shopify/koa-shopify-auth](https://github.com/Shopify/quilt/tree/master/packages/koa-shopify-auth) - Shopify Auth for Koa HTTP middleware framework.
 - [@shopify/koa-shopify-graphql-proxy](https://github.com/Shopify/quilt/blob/master/packages/koa-shopify-graphql-proxy/README.md) - Shopify GraphQL Proxy for Koa HTTP middleware framework.
 
-### .NET
+### DotNet
 
 - [nozzlegear/ShopifySharp](https://github.com/nozzlegear/ShopifySharp) - A .NET library for Shopify.
 - [cmcdonaldca/shopify.net](https://github.com/cmcdonaldca/shopify.net) - Lightweight object-oriented .NET client.
-- [teference/shopify-dotnet](https://github.com/teference/shopify-dotnet) - Shopify API C#.NET SDK
-- [agileharbor/shopifyAccess](https://github.com/agileharbor/shopifyAccess) - Shoppify API .NET wrapper
+- [teference/shopify-dotnet](https://github.com/teference/shopify-dotnet) - Shopify API C#.NET SDK :warning: (Not maintained anymore).
+- [agileharbor/shopifyAccess](https://github.com/agileharbor/shopifyAccess) - Shoppify API .NET wrapper.
 
 ### Elixir
 
 - [shopify_elixir](https://github.com/sdn90/shopify_elixir) - A Shopify API library for Elixir.
-- [sticksnleaves/exshopify](https://github.com/sticksnleaves/exshopify) - Elixir client for the Shopify API
+- [sticksnleaves/exshopify](https://github.com/sticksnleaves/exshopify) - Elixir client for the Shopify API.
 
 ### Haskell
 
@@ -138,7 +140,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 - [go-shopify](https://github.com/kiwih/go-shopify) - Golang tool for connecting to Shopify's API.
 - [shoauth](https://github.com/darrenpeters/shoauth) - Shopify oauth (oauth2) middleware for Golang.
-- [getconversio/go-shopify](https://github.com/getconversio/go-shopify) - Shopify for Golang
+- [getconversio/go-shopify](https://github.com/getconversio/go-shopify) - Shopify for Golang.
 
 ### PHP
 
@@ -150,37 +152,36 @@ You can use official Shopify libraries or any of the third party libraries below
 - [CakePHP Plugin](https://github.com/cmcdonaldca/CakePHP-Shopify-Plugin) - A simple plugin for CakePHP.
 - [tothjmt/Laravel-Shopify](https://github.com/tothjmt/Laravel-Shopify) - A Laravel / Shopify API Wrapper.
 - [donutdan4114/shopify](https://github.com/donutdan4114/shopify) - A simple Shopify PHP SDK for private apps to easily interact with the Shopify API.
-- [phpclassic/php-shopify](https://github.com/phpclassic/php-shopify) - PHP SDK for Shopify API
-- [slince/shopify-api-php](https://github.com/slince/shopify-api-php) - Shopify API Client for PHP
-- [ohmybrew/laravel-shopify](https://github.com/ohmybrew/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development
-- [shopify-php](https://github.com/Shopify/shopify-php/issues/5#issuecomment-348097956) - ~~Official Shopify PHP SDK~~
-- [buy-button-wordpress](https://github.com/Shopify/buy-button-wordpress) - Wordpress plugin for the Buy Button
+- [phpclassic/php-shopify](https://github.com/phpclassic/php-shopify) - PHP SDK for Shopify API.
+- [slince/shopify-api-php](https://github.com/slince/shopify-api-php) - Shopify API Client for PHP.
+- [ohmybrew/laravel-shopify](https://github.com/ohmybrew/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development.
+- [shopify-php](https://github.com/Shopify/shopify-php/issues/5#issuecomment-348097956) - Official Shopify PHP SDK :warning: (deprecated).
+- [buy-button-wordpress](https://github.com/Shopify/buy-button-wordpress) - Wordpress plugin for the Buy Button.
 
 ### R
 
-- [shopifyr](https://github.com/charliebone/shopifyr/) - Aims to provide an easy-to-use interface R
+- [shopifyr](https://github.com/charliebone/shopifyr/) - Aims to provide an easy-to-use interface R.
 
 ## Examples
 A Open Source Projects
+
+### JavaScript Examples
+
+- [Shopify Node App](https://github.com/shopify/shopify-node-app) - A starting point for developers so that they will be able to quickly turn up an embedded Shopify app using Node and Express.js.
+
+### Python Examples
+
+- [shopify_django_app](https://github.com/shopify/shopify_django_app) - Shopify Django App Example.
 
 ### Ruby Examples
 
 - [shopify-fulfillment-integration](https://github.com/Shopify/shopify-fulfillment-integration) - Example Fulfillment Service Integration with Shopify.
 - [Hosted Payment Simulator](https://github.com/Shopify/hosted-payment-sim) - Example of using the [Hosted Payment SDK](https://docs.shopify.com/api/sdks/hosted-payment-sdk).
-- [ShopifyPrintful](https://github.com/urbandictionary/shopify-printful) - A Ruby gem that synchronizes order item images between Shopify and Printful.
 - [shopify-sim](https://github.com/urbandictionary/shopify-sim) - Sinatra app to preview a Shopify theme locally.
 - [shopify-surge-pricing](https://github.com/kevinhughes27/shopify-surge-pricing) - A demo of surge pricing for Shopify based on cart update webhooks.
 - [shopify-tax-receipts](https://github.com/kevinhughes27/shopify-tax-receipts) - Shopify app for automatically sending tax receipts when specified products are purchased.
 - [partner-metrics-for-shopify](https://github.com/forsbergplustwo/partner-metrics-for-shopify) - Metrics Dashboard for Shopify Partners, on Rails.
-- [Parcelify](https://github.com/christianblais/parcelify) - Take control of your deliveries with custom shipping rates.
 
-### JavaScript (Node)
-
-- [Shopify Node App](https://github.com/shopify/shopify-node-app) - A starting point for developers so that they will be able to quickly turn up an embedded Shopify app using Node and Express.js
-
-### Python Examples
-
-- [shopify_django_app](https://github.com/shopify/shopify_django_app) - Shopify Django App Example.
 
 ## Code Snippets
 
@@ -191,7 +192,7 @@ A Open Source Projects
 ## Tools
 
 ### App
-- [Shopify developer-tools](https://github.com/shopifypartners/developer-tools) - A macOS app that connects to your Shopify store(s) and allows you to make authenticated calls to the Admin API, generate dummy data, and view and customize Polaris components. [More info](https://www.shopify.com/partners/blog/developer-tools) 
+- [Shopify developer-tools](https://github.com/shopifypartners/developer-tools) - A macOS app that connects to your Shopify store(s) and allows you to make authenticated calls to the Admin API, generate dummy data, and view and customize Polaris components. [More info](https://www.shopify.com/partners/blog/developer-tools).
 
 ### Browser extensions
 
