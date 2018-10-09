@@ -157,6 +157,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [ohmybrew/laravel-shopify](https://github.com/ohmybrew/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development.
 - [shopify-php](https://github.com/Shopify/shopify-php/issues/5#issuecomment-348097956) - Official Shopify PHP SDK :warning: (deprecated).
 - [buy-button-wordpress](https://github.com/Shopify/buy-button-wordpress) - Wordpress plugin for the Buy Button.
+- [bold-shopify-toolkit](https://github.com/bold-commerce/bold-shopify-toolkit) - A Symfony Based Shopify api wrapper.
 
 ### R
 
