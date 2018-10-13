@@ -52,16 +52,13 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 ### UI/UX
 
 - [Shopify Polaris](https://polaris.shopify.com) - Polaris is a React component library designed to help developers create the best experience for merchants. [GitHub](https://github.com/Shopify/polaris) :sunny:.
+- [Slate](https://github.com/Shopify/slate) - Slate is a toolkit for developing Shopify themes, designed to assist your workflow and speed up the process of developing, testing, and deploying themes.
 - [Shopify Polaris Telescope](https://polaris.shopify.com/resources/polaris-telescope) - Access Polaris from Sketch to speed up your design or development workflow.
 
 ### CSS Frameworks
 
-- [slate](https://github.com/Shopify/slate) - A toolkit for developing Shopify themes. It is designed to assist your workflow and speed up the process of developing, testing, and deploying themes to Shopify stores.
-- [Timber](https://github.com/Shopify/Timber) - A faster and easier way to build Shopify themes.
 - [Foundationify](https://github.com/lukebussey/foundationify) - A theme for Shopify based on the responsive Zurb Foundation 5 framework.
-- [Uptown CSS](http://www.uptowncss.com) - Uptown CSS is a semantic toolkit designed to help developers build fully-responsive Shopify Apps.
-- [Shopify Embedded App Frontend Framework](https://github.com/microapps/Shopify-Embedded-App-Frontend-Framework)
-- [Preamble](https://github.com/sdn90/preamble) - A Shopify theme framework with Babel and Webpack.
+- [Uptown CSS](https://github.com/shoppad/uptowncss/) - Uptown CSS is a semantic toolkit designed to help developers build fully-responsive Shopify Apps.
 
 ### Others
 
@@ -203,7 +200,6 @@ A Open Source Projects
 ### Command Line Tools
 
 - [Theme Kit](https://github.com/Shopify/themekit) - Theme asset interaction library and management.
-- [Slate](https://shopify.github.io/slate/) - A theme scaffold and command line tool for developing Shopify themes.
 - [Shopify Theme](https://github.com/shopify/shopify_theme) - A console tool for interacting with Shopify Theme Assets.
 - [ziplinesFly](http://ziplines.pixelcab.in) - Fly into Shopify development with ease workflow.
 - [grunt-shopify](https://github.com/wilr/grunt-shopify) - Grunt plug-in for publishing Shopify theme assets.
