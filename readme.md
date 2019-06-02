@@ -24,7 +24,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
   - [Golang](#golang)
   - [PHP](#php)
   - [R](#r)
-  - [R](#rust)
+  - [Rust](#rust)
 - [Examples](#examples)
   - [JavaScript Examples](#javascript-examples)
   - [Python Examples](#python-examples)
@@ -171,7 +171,7 @@ A Open Source Projects
 ### JavaScript Examples
 
 - [Shopify Node App](https://github.com/shopify/shopify-node-app) - A starting point for developers so that they will be able to quickly turn up an embedded Shopify app using Node.js and Express.js.
-- [Storefront API Examples](https://github.com/Shopify/storefront-api-examples) - Example custom storefront applications built on Shopify's Storefront API
+- [Storefront API Examples](https://github.com/Shopify/storefront-api-examples) - Example custom storefront applications built on Shopify's Storefront API.
 - [SmallAwesomeShop](https://github.com/JsssCode/SmallAwesomeShop) - An Angular 7 App example using Shopify's Storefront GraphQL API.
 
 ### Python Examples
@@ -219,7 +219,7 @@ A Open Source Projects
 
 ### Services
 
-- [ForwardHQ](https://forwardhq.com) - Get a public link directly to the web project running on your computer.
+- [ForwardHQ](https://forwardhq.com/) - Get a public link directly to the web project running on your computer.
 - [Ngrok](https://ngrok.com) -  Ngrok is a tool that makes it easy to expose your development environment to Internet.
 - [RequestBin](https://requestbin.fullcontact.com) -  It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/api/reference/webhook) are.
 
