@@ -171,6 +171,7 @@ A Open Source Projects
 ### JavaScript Examples
 
 - [Shopify Node App](https://github.com/shopify/shopify-node-app) - A starting point for developers so that they will be able to quickly turn up an embedded Shopify app using Node.js and Express.js.
+- [Shopify App with Node.js and React](https://github.com/Shopify/shopify-demo-app-node-react) - Build a Shopify Demo App with Node.js and React.
 - [Storefront API Examples](https://github.com/Shopify/storefront-api-examples) - Example custom storefront applications built on Shopify's Storefront API.
 - [SmallAwesomeShop](https://github.com/JsssCode/SmallAwesomeShop) - An Angular 7 App example using Shopify's Storefront GraphQL API.
 
