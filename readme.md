@@ -24,6 +24,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
   - [Golang](#golang)
   - [PHP](#php)
   - [R](#r)
+  - [R](#rust)
 - [Examples](#examples)
   - [JavaScript Examples](#javascript-examples)
   - [Python Examples](#python-examples)
@@ -159,6 +160,10 @@ You can use official Shopify libraries or any of the third party libraries below
 ### R
 
 - [shopifyr](https://github.com/charliebone/shopifyr/) - Aims to provide an easy-to-use interface R.
+
+### Rust
+
+- [Ventmere/shopify](https://github.com/Ventmere/shopify/) - Shopify API Client for Rust.
 
 ## Examples
 A Open Source Projects
