@@ -104,7 +104,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### JavaScript
 
-- [shopify-api-node](https://github.com/microapps/shopify-api-node) - Node.js Shopify connector.
+- [shopify-api-node](https://github.com/MONEI/Shopify-api-node) - Node.js Shopify connector.
 - [shopify-express](https://github.com/Shopify/shopify-express) - Get up and running quickly with Express.js and the Shopify API :warning: (deprecated).
 - [Shopify API SDK for Node.js](https://github.com/ctalkington/node-shopify-api) - Shopify API SDK for Node.js.
 - [shopify-node-api](https://github.com/christophergregory/shopify-node-api) - OAuth2 Module for Shopify API.
@@ -170,7 +170,7 @@ A Open Source Projects
 
 ### JavaScript Examples
 
-- [Shopify Node App](https://github.com/shopify/shopify-node-app) - A starting point for developers so that they will be able to quickly turn up an embedded Shopify app using Node.js and Express.js.
+- [Shopify Node App](https://github.com/shopify/shopify-node-app) - An example app that uses Polaris components and shopify-express :warning: (deprecated).
 - [Shopify App with Node.js and React](https://github.com/Shopify/shopify-demo-app-node-react) - Build a Shopify Demo App with Node.js and React.
 - [Storefront API Examples](https://github.com/Shopify/storefront-api-examples) - Example custom storefront applications built on Shopify's Storefront API.
 - [SmallAwesomeShop](https://github.com/JsssCode/SmallAwesomeShop) - An Angular 7 App example using Shopify's Storefront GraphQL API.
