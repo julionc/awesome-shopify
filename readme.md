@@ -207,6 +207,7 @@ A Open Source Projects
 
 ### Command Line Tools
 
+- [shopify-app-cli](https://github.com/Shopify/shopify-app-cli) - Shopify App CLI helps you build Shopify apps faster 🚀.
 - [Theme Kit](https://github.com/Shopify/themekit) - Theme asset interaction library and management.
 - [Shopify Theme](https://github.com/shopify/shopify_theme) - A console tool for interacting with Shopify Theme Assets.
 - [ziplinesFly](http://ziplines.pixelcab.in) - Fly into Shopify development with ease workflow.
