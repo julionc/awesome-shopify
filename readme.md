@@ -113,6 +113,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) - Shopify JavaScript Buy SDK.
 - [@shopify/koa-shopify-auth](https://github.com/Shopify/quilt/tree/master/packages/koa-shopify-auth) - Shopify Auth for Koa HTTP middleware framework.
 - [@shopify/koa-shopify-graphql-proxy](https://github.com/Shopify/quilt/blob/master/packages/koa-shopify-graphql-proxy/README.md) - Shopify GraphQL Proxy for Koa HTTP middleware framework.
+- [@shopify/koa-shopify-webhooks](https://github.com/Shopify/quilt/tree/master/packages/koa-shopify-webhooks) - Shopify Webhooks Middleware for Koa HTTP middleware framework.
 
 ### DotNet
 
