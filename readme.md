@@ -1,8 +1,8 @@
 # Awesome Shopify [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[<img src="shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/?ref=vitalogy)
+[<img src="shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/)
 
-> A curated list of awesome [Shopify](https://www.shopify.com/?ref=vitalogy) resources, libraries and open source projects.
+> A curated list of awesome [Shopify](https://www.shopify.com/) resources, libraries and open source projects.
 
 If you want to contribute, please read the [contribution guidelines](https://github.com/julionc/awesome-shopify/blob/master/contributing.md).
 Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/contributors), you're awesome and wouldn't be possible without you! 
@@ -44,9 +44,9 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 
 - [Developer guides](https://help.shopify.com/api/guides) - If you're new to developing apps for Shopify, take a look at the official guides to get an overview of the process.
 - [Shopify’s OAuth flow for authentication](https://help.shopify.com/api/guides/authentication/oauth) - This guide will walk you through the OAuth Authorization process.
-- [Shopify Partner Account](https://www.shopify.com/partners?ref=vitalogy) - If you don't have a Shopify Partner account yet head over [here](https://www.shopify.com/partners?ref=vitalogy) and create one, you'll need it before you can start developing apps.
+- [Shopify Partner Account](https://www.shopify.com/partners) - If you don't have a Shopify Partner account yet head over [here](https://www.shopify.com/partners) and create one, you'll need it before you can start developing apps.
 - [App requirements checklist](https://help.shopify.com/api/listing-in-the-app-store/app-review-checklist) - For submitting apps to the Shopify App Store.
-- [Everything You Need to Know About Development Stores](https://www.shopify.com/partners/blog/development-stores?ref=vitalogy) - Understanding development stores.
+- [Everything You Need to Know About Development Stores](https://www.shopify.com/partners/blog/development-stores) - Understanding development stores.
 
 ## Front-end Development
 
