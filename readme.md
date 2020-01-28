@@ -48,6 +48,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [App requirements checklist](https://help.shopify.com/api/listing-in-the-app-store/app-review-checklist) - For submitting apps to the Shopify App Store.
 - [Everything You Need to Know About Development Stores](https://www.shopify.com/partners/blog/development-stores?ref=vitalogy) - Understanding development stores.
 
+
 ## Front-end Development
 
 ### UI/UX
@@ -68,6 +69,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme.
 - [Liquid Cheat Sheet](http://shopify.com/liquid) - A resource for building Shopify Themes with Liquid.
 - [shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js.
+- [Setup and use Shopify metafields in your custom storefront](https://www.zauberware.com/en/articles/2019/setup-and-use-shopify-metafields-in-your-custom-storefront/) - Using GraphQL API to create and get Shopify Metafields
 
 ## Mobile
 
