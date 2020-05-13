@@ -38,6 +38,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [@ShopifyPartners](https://twitter.com/ShopifyPartners) - The Official Shopify Partners Twitter account.
 - [@ShopifyDevs](https://twitter.com/ShopifyDevs) - A Shopify Devs Team Twitter account.
 - [Community Discussion Forums](https://community.shopify.com/) - Discussing eCommerce best practices and how to have a successful online store.
+- [Shopify Partners](https://shopifypartners.slack.com/) - Official Shopify Partners Slack Channel. If you are a Partner, go to your resources tab and it should be linked there as well.
 - [eCommTalk](http://ecommtalk.com/) - A Slack Community created to bring Shopify lovers together.
 - [/r/shopify](https://www.reddit.com/r/shopify) - The Shopify Reddit Community.
 
