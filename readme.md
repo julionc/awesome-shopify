@@ -226,7 +226,7 @@ A Open Source Projects
 ### Services
 
 - [Ngrok](https://ngrok.com) -  Ngrok is a tool that makes it easy to expose your development environment to Internet.
-- [RequestBin](https://requestbin.fullcontact.com) -  It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/api/reference/webhook) are.
+- [RequestBin](http://requestbin.net) -  It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/api/reference/webhook) are.
 
 ### Utilities
 
