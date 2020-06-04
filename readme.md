@@ -58,7 +58,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 
 - [Shopify Polaris](https://polaris.shopify.com) - Polaris is a React component library designed to help developers create the best experience for merchants. [GitHub](https://github.com/Shopify/polaris) :sunny:.
 - [Slate](https://github.com/Shopify/slate) - Slate is a toolkit for developing Shopify themes, designed to assist your workflow and speed up the process of developing, testing, and deploying themes.
-- [Shopify Polaris Telescope](https://polaris.shopify.com/resources/polaris-telescope) - Access Polaris from Sketch to speed up your design or development workflow.
+- [Shopify Polaris UI Kit](https://polaris.shopify.com/resources/polaris-ui-kit) - The Sketch UI kit provides a set of reusable components to help you craft great products for Shopify.
 
 ### CSS Frameworks
 
@@ -120,7 +120,6 @@ You can use official Shopify libraries or any of the third party libraries below
 ### DotNet
 
 - [nozzlegear/ShopifySharp](https://github.com/nozzlegear/ShopifySharp) - A .NET library for Shopify.
-- [teference/shopify-dotnet](https://github.com/teference/shopify-dotnet) - Shopify API C#.NET SDK :warning: (Not maintained anymore).
 - [agileharbor/shopifyAccess](https://github.com/agileharbor/shopifyAccess) - Shoppify API .NET wrapper.
 
 ### Elixir
