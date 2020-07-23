@@ -65,12 +65,17 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [Foundationify](https://github.com/lukebussey/foundationify) - A theme for Shopify based on the responsive Zurb Foundation 5 framework.
 - [Uptown CSS](https://github.com/shoppad/uptowncss/) - Uptown CSS is a semantic toolkit designed to help developers build fully-responsive Shopify Apps.
 
+### Liquid Template
+
+- [Liquid](https://shopify.github.io/liquid/) - Liquid is safe, customer-facing template language for flexible web apps.
+- [Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet) - A resource for building Shopify Themes with Liquid.
+- [Liquid template language reference](https://shopify.dev/docs/themes/liquid/reference) - Liquid is the backbone of all Shopify themes, and is used to load dynamic content to the pages of online stores.
+
 ### Others
 
 - [Cart.js](https://cartjs.org) - A JavaScript library to power your Shopify theme's cart.
 - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
 - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme.
-- [Liquid Cheat Sheet](http://shopify.com/liquid) - A resource for building Shopify Themes with Liquid.
 - [shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js.
 - [Setup and use Shopify metafields in your custom storefront](https://www.zauberware.com/en/articles/2019/setup-and-use-shopify-metafields-in-your-custom-storefront/) - Using GraphQL API to create and get Shopify Metafields.
 
