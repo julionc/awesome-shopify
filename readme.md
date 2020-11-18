@@ -209,6 +209,7 @@ A Open Source Projects
 
 ### Browser extensions
 
+- [Shopify Theme Inspector for Chrome](https://chrome.google.com/webstore/detail/shopify-theme-inspector-f/fndnankcflemoafdeboboehphmiijkgp) - Profile and debug Liquid template on your Shopify store
 - [ShopifyFD Dashboard Tool](https://github.com/freakdesign/shopifyFD) - Chrome extension to provide additional functionality to the Shopify dashboard.
 - [Custom Fields for Shopify](https://github.com/freakdesign/shopify-custom-fields) - Chrome extension to navigate across the custom fields.
 
