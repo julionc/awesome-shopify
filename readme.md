@@ -59,6 +59,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [Shopify Polaris](https://polaris.shopify.com) - Polaris is a React component library designed to help developers create the best experience for merchants. [GitHub](https://github.com/Shopify/polaris) :sunny:.
 - [Slate](https://github.com/Shopify/slate) - Slate is a toolkit for developing Shopify themes, designed to assist your workflow and speed up the process of developing, testing, and deploying themes.
 - [Shopify Polaris UI Kit](https://polaris.shopify.com/resources/polaris-ui-kit) - The Sketch UI kit provides a set of reusable components to help you craft great products for Shopify.
+- [Polaris icon explorer](https://polaris-icons.shopify.com) - A collection of simple and informative icons that draw on the visual language of the Polaris design system.
 
 ### CSS Frameworks
 
@@ -209,7 +210,7 @@ A Open Source Projects
 
 ### Browser extensions
 
-- [Shopify Theme Inspector for Chrome](https://chrome.google.com/webstore/detail/shopify-theme-inspector-f/fndnankcflemoafdeboboehphmiijkgp) - Profile and debug Liquid template on your Shopify store
+- [Shopify Theme Inspector for Chrome](https://chrome.google.com/webstore/detail/shopify-theme-inspector-f/fndnankcflemoafdeboboehphmiijkgp) - Profile and debug Liquid template on your Shopify store.
 - [ShopifyFD Dashboard Tool](https://github.com/freakdesign/shopifyFD) - Chrome extension to provide additional functionality to the Shopify dashboard.
 - [Custom Fields for Shopify](https://github.com/freakdesign/shopify-custom-fields) - Chrome extension to navigate across the custom fields.
 
