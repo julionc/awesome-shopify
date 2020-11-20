@@ -2,11 +2,11 @@
 
 [<img src="shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/?ref=vitalogy)
 
-> A curated list of awesome [Shopify](https://www.shopify.com/?ref=vitalogy) resources, libraries and open source projects.
+> A curated list of awesome [Shopify](https://www.shopify.com) resources, libraries and open source projects.
 
-[Shopify](https://www.shopify.com/?ref=vitalogy) is a popular e-commerce platform that allows to build and manage online stores.
+[Shopify](https://www.shopify.com/blog/what-is-shopify?ref=vitalogy) is a popular e-commerce platform that allows to build and manage online stores.
 If you want to contribute, please read the [contribution guidelines](https://github.com/julionc/awesome-shopify/blob/master/contributing.md).
-Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/contributors), you're awesome and wouldn't be possible without you! 
+Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/contributors), you're awesome and wouldn't be possible without you!
 
 ## Contents
 
@@ -47,7 +47,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [Developer changelog](https://developers.shopify.com/changelog) - The Official Developer Changelog blog with important changes to APIs and other developer products.
 - [Developer guides](https://help.shopify.com/api/guides) - If you're new to developing apps for Shopify, take a look at the official guides to get an overview of the process.
 - [Shopify - The OAuth flow for Authentication](https://help.shopify.com/api/guides/authentication/oauth) - This guide will walk you through the OAuth Authorization process.
-- [Shopify Partner Account](https://www.shopify.com/partners?ref=vitalogy) - If you don't have a Shopify Partner account yet head over [here](https://www.shopify.com/partners?ref=vitalogy) and create one, you'll need it before you can start developing apps.
+- [Shopify Partner Account](https://www.shopify.com/partners?ref=vitalogy) - If you don't have a Shopify Partner account yet head over here and create one, you'll need it before you can start developing apps.
 - [App requirements checklist](https://help.shopify.com/api/listing-in-the-app-store/app-review-checklist) - For submitting apps to the Shopify App Store.
 - [Everything You Need to Know About Development Stores](https://www.shopify.com/partners/blog/development-stores?ref=vitalogy) - Understanding development stores.
 
@@ -75,7 +75,6 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 ### Others
 
 - [Cart.js](https://cartjs.org) - A JavaScript library to power your Shopify theme's cart.
-- [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
 - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme.
 - [shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js.
 - [Setup and use Shopify metafields in your custom storefront](https://www.zauberware.com/en/articles/2019/setup-and-use-shopify-metafields-in-your-custom-storefront/) - Using GraphQL API to create and get Shopify Metafields.
@@ -87,7 +86,7 @@ You can use the iOS and Android Buy SDK to integrate Shopify checkout into your 
 ### Android
 
 - [Shopify Mobile for Android](https://www.shopify.com/install/android)
-- [Shopify Mobile Buy SDK](https://www.shopify.com/install/mobile)
+- [Shopify Mobile Buy SDK](https://github.com/Shopify/mobile-buy-sdk-android)
 
 ### iOS
 
@@ -199,9 +198,9 @@ A Open Source Projects
 
 ## Code Snippets
 
-- [freakdesign/Shopify-code-snippets](https://github.com/freakdesign/shopifyFD) - Shopify code examples and tips bought.
-- [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
+- [freakdesign/Shopify-code-snippets](https://github.com/freakdesign/Shopify-code-snippets) - Shopify Code Snippets examples and tips.
 - [vikrantnegi/shopify-code-snippets](https://github.com/vikrantnegi/shopify-code-snippets) - A compilation of code snippets for Shopify developers.
+- [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
 
 ## Tools
 
@@ -240,10 +239,4 @@ A Open Source Projects
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
 - [UnProduct-Shopify](https://github.com/byjord/UnProduct-Shopify) - Non-uniform test product data for the Shopify Platform. Use UnProduct-Shopify to simulate real world products.
 - [Sketch Shopify Data Populator](https://github.com/shopifypartners/sketch-shopify-data-populator)
-- [City Ecommerce UI Kit](https://github.com/shopifypartners/sketch-shopify-data-populator) - City is our free ecommerce UI kit based on a fictional fashion apparel shop. (Prototyping Shopify Store design)
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, [Julio Napurí](https://github.com/julionc) has waived all copyright and related or neighboring rights to this work.  See the [LICENSE](LICENSE) file for details.
+- [City Ecommerce UI Kit](https://github.com/shopifypartners/City-Ecommerce-UI-Kit) - City is our free ecommerce UI kit based on a fictional fashion apparel shop. (Prototyping Shopify Store design)
