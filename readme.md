@@ -233,6 +233,7 @@ A Open Source Projects
 
 - [Ngrok](https://ngrok.com) -  Ngrok is a tool that makes it easy to expose your development environment to Internet.
 - [RequestBin](http://requestbin.net) -  It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/api/reference/webhook) are.
+- [Hoodeck](https://hookdeck.io) - Hoodeck is a tool to monitor your [Shopify Webhooks](https://help.shopify.com/api/reference/webhook) with custom retry logic, alerts and filtering. Useful to provide visbility and save time when working with webhooks in development and production.
 
 ### Utilities
 
