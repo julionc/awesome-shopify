@@ -60,6 +60,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [Slate](https://github.com/Shopify/slate) - Slate is a toolkit for developing Shopify themes, designed to assist your workflow and speed up the process of developing, testing, and deploying themes.
 - [Shopify Polaris UI Kit](https://polaris.shopify.com/resources/polaris-ui-kit) - The Sketch UI kit provides a set of reusable components to help you craft great products for Shopify.
 - [Polaris icon explorer](https://polaris-icons.shopify.com) - A collection of simple and informative icons that draw on the visual language of the Polaris design system.
+- [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - Customizable modular development environment for blazing-fast Shopify theme creation, bundled with Vue.js and Tailwind CSS.
 
 ### CSS Frameworks
 
