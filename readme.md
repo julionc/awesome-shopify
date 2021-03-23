@@ -61,6 +61,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [Shopify Polaris UI Kit](https://polaris.shopify.com/resources/polaris-ui-kit) - The Sketch UI kit provides a set of reusable components to help you craft great products for Shopify.
 - [Polaris icon explorer](https://polaris-icons.shopify.com) - A collection of simple and informative icons that draw on the visual language of the Polaris design system.
 - [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - Customizable modular development environment for blazing-fast Shopify theme creation, bundled with Vue.js and Tailwind CSS.
+- [Shopify Packer](https://github.com/hayes0724/shopify-packer) - Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
 
 ### CSS Frameworks
 
