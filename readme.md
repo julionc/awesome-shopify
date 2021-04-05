@@ -30,6 +30,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
   - [JavaScript Examples](#javascript-examples)
   - [Python Examples](#python-examples)
   - [Ruby Examples](#ruby-examples)
+  - [Elixir Examples](#elixir-examples)
 - [Code Snippets](#code-snippets)
 - [Tools](#tools)
 
@@ -50,7 +51,6 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [Shopify Partner Account](https://www.shopify.com/partners?ref=vitalogy) - If you don't have a Shopify Partner account yet head over here and create one, you'll need it before you can start developing apps.
 - [App requirements checklist](https://help.shopify.com/api/listing-in-the-app-store/app-review-checklist) - For submitting apps to the Shopify App Store.
 - [Everything You Need to Know About Development Stores](https://www.shopify.com/partners/blog/development-stores?ref=vitalogy) - Understanding development stores.
-
 
 ## Front-end Development
 
@@ -95,7 +95,7 @@ You can use the iOS and Android Buy SDK to integrate Shopify checkout into your 
 - [Shopify Mobile for iPhone](https://www.shopify.com/install/mobile)
 - [Shopify Mobile Buy SDK](https://github.com/Shopify/mobile-buy-sdk-ios)
 
-### 
+###
 
 ## Libraries
 
@@ -132,6 +132,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### Elixir
 
 - [sticksnleaves/exshopify](https://github.com/sticksnleaves/exshopify) - Elixir client for the Shopify API.
+- [pixelunion/elixir-shopifyapi](https://github.com/pixelunion/elixir-shopifyapi) - ShopifyAPI and Plug.ShopifyAPI Elixir client.
 - [shopify_elixir](https://github.com/sdn90/shopify_elixir) - A Shopify API library for Elixir.
 
 ### Haskell
@@ -175,11 +176,12 @@ You can use official Shopify libraries or any of the third party libraries below
 - [Ventmere/shopify](https://github.com/Ventmere/shopify/) - Shopify API Client for Rust.
 
 ## Examples
+
 A Open Source Projects
 
 ### JavaScript Examples
 
-- [Shopify App Node](https://github.com/Shopify/shopify-app-node) -  Boilerplate to create an embedded Shopify app made with Node, Next.js, Shopify-koa-auth, Polaris, and App Bridge React :sunny:.
+- [Shopify App Node](https://github.com/Shopify/shopify-app-node) - Boilerplate to create an embedded Shopify app made with Node, Next.js, Shopify-koa-auth, Polaris, and App Bridge React :sunny:.
 - [Shopify App with Node.js and React](https://github.com/Shopify/shopify-demo-app-node-react) - Build a Shopify Demo App with Node.js and React.
 - [Storefront API Examples](https://github.com/Shopify/storefront-api-examples) - Example custom storefront applications built on Shopify's Storefront API.
 - [SmallAwesomeShop](https://github.com/JsssCode/SmallAwesomeShop) - An Angular 7 App example using Shopify's Storefront GraphQL API.
@@ -198,6 +200,10 @@ A Open Source Projects
 - [partner-metrics-for-shopify](https://github.com/forsbergplustwo/partner-metrics-for-shopify) - Metrics Dashboard for Shopify Partners, on Rails.
 - [Shopify app starter kit](https://github.com/ASoftCo/shopify-app-starter-kit) - A Shopify app boilerplate written in Ruby on Rails with appropriate tools to get your Shopify app up and running quickly 🚀.
 
+### Elixir Examples
+
+- [pixelunion/elixir-shopify-app](https://github.com/pixelunion/elixir-shopify-app) - Elixir Shopify App boilerplate (Phoenix).
+
 ## Code Snippets
 
 - [freakdesign/Shopify-code-snippets](https://github.com/freakdesign/Shopify-code-snippets) - Shopify Code Snippets examples and tips.
@@ -207,6 +213,7 @@ A Open Source Projects
 ## Tools
 
 ### App
+
 - [Shopify developer-tools](https://github.com/shopifypartners/developer-tools) - A macOS app that connects to your Shopify store(s) and allows you to make authenticated calls to the Admin API, generate dummy data, and view and customize Polaris components. [More info](https://www.shopify.com/partners/blog/developer-tools).
 
 ### Browser extensions
@@ -233,8 +240,8 @@ A Open Source Projects
 
 ### Services
 
-- [Ngrok](https://ngrok.com) -  Ngrok is a tool that makes it easy to expose your development environment to Internet.
-- [RequestBin](http://requestbin.net) -  It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/en/manual/orders/notifications/webhooks) are.
+- [Ngrok](https://ngrok.com) - Ngrok is a tool that makes it easy to expose your development environment to Internet.
+- [RequestBin](http://requestbin.net) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/en/manual/orders/notifications/webhooks) are.
 - [Hoodeck](https://hookdeck.io) - Hoodeck is a tool to monitor your [Shopify Webhooks](https://help.shopify.com/api/reference/webhook) with custom retry logic, alerts and filtering. Useful to provide visbility and save time when working with webhooks in development and production.
 
 ### Utilities
