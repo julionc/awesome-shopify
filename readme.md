@@ -123,6 +123,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) - Shopify JavaScript Buy SDK.
 - [shopify-api-node](https://github.com/MONEI/Shopify-api-node) - Node.js Shopify connector.
 - [shopify-node-api](https://github.com/christophergregory/shopify-node-api) - OAuth2 Module for Shopify API.
+- [shopify-nextjs-toolbox](https://github.com/ctrlaltdylan/shopify-nextjs-toolbox) - A set of server side and client side NextJs utilities for integrating with Shopify's OAuth & App Bridge authentication
 
 ### DotNet
 
@@ -186,6 +187,7 @@ A Open Source Projects
 - [Storefront API Examples](https://github.com/Shopify/storefront-api-examples) - Example custom storefront applications built on Shopify's Storefront API.
 - [SmallAwesomeShop](https://github.com/JsssCode/SmallAwesomeShop) - An Angular 7 App example using Shopify's Storefront GraphQL API.
 - [Shopify App with Node.js, MongoDB and Next.js](https://github.com/kinngh/shopify-node-mongodb-next-app) - Boilerplate embedded app made with Node.js, MongoDB and Next.js.
+- [Next.JS App with Session Token](https://github.com/ctrlaltdylan/shopify-session-tokens-nextjs) - An example of a Shopify App powered by NextJS with Session Tokens (no custom server necessary)
 
 ### Python Examples
 
