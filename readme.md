@@ -232,6 +232,7 @@ A Open Source Projects
 - [Shopify Theme](https://github.com/shopify/shopify_theme) - A console tool for interacting with Shopify Theme Assets.
 - [ziplinesFly](http://ziplines.pixelcab.in) - Fly into Shopify development with ease workflow.
 - [grunt-shopify](https://github.com/wilr/grunt-shopify) - Grunt plug-in for publishing Shopify theme assets.
+- [Shopify Development Tools](https://github.com/ScreenStaring/shopify-dev-tools) - assists with the development/maintenance of apps and stores: manipulate metafields and webhooks, open admin pages, retrieve information about shops, etc...
 - [Shopify ID Export](https://github.com/ScreenStaring/shopify_id_export) - Dump Shopify product and variant IDs —along with other identifiers— to a CSV or JSON file.
 
 ### Editor
