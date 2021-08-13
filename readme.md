@@ -111,8 +111,8 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Python
 
-- [shopify_python_api](https://github.com/Shopify/shopify_python_api) - Shopify Python API.
-- [django-shopify-auth](https://github.com/discolabs/django-shopify-auth) - Add Shopify authentication to a Django app.
+- [shopify_python_api](https://github.com/Shopify/shopify_python_api) - ShopifyAPI library allows Python developers to programmatically access the admin section of stores.
+- [django-shopify-auth](https://github.com/discolabs/django-shopify-auth) - A package for adding Shopify authentication to a Django app.
 - [Django Shopify Webhook](https://github.com/discolabs/django-shopify-webhook) - A package for receiving Shopify Webhooks in Django.
 
 ### JavaScript
@@ -123,7 +123,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) - Shopify JavaScript Buy SDK.
 - [shopify-api-node](https://github.com/MONEI/Shopify-api-node) - Node.js Shopify connector.
 - [shopify-node-api](https://github.com/christophergregory/shopify-node-api) - OAuth2 Module for Shopify API.
-- [shopify-nextjs-toolbox](https://github.com/ctrlaltdylan/shopify-nextjs-toolbox) - A set of server side and client side NextJs utilities for integrating with Shopify's OAuth & App Bridge authentication
+- [shopify-nextjs-toolbox](https://github.com/ctrlaltdylan/shopify-nextjs-toolbox) - A set of server side and client side NextJs utilities for integrating with Shopify's OAuth & App Bridge authentication.
 
 ### DotNet
 
@@ -142,11 +142,11 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Java
 
-- [shopify-api-java-wrapper](https://github.com/SevenSpikes/shopify-api-java-wrapper) - Java wrapper for the Shopify API.
+- [shopify-api-java-wrapper](https://github.com/SevenSpikes/shopify-api-java-wrapper) - The Java wrapper for the Shopify API.
 
 ### Golang
 
-- [bold-commerce/go-shopify](https://github.com/bold-commerce/go-shopify) - Shopify for Golang.
+- [bold-commerce/go-shopify](https://github.com/bold-commerce/go-shopify) - Go client for the Shopify API.
 - [go-shopify](https://github.com/kiwih/go-shopify) - Golang tool for connecting to Shopify's API.
 - [shoauth](https://github.com/darrenpeters/shoauth) - Shopify oauth (oauth2) middleware for Golang.
 
@@ -187,7 +187,7 @@ A Open Source Projects
 - [Storefront API Examples](https://github.com/Shopify/storefront-api-examples) - Example custom storefront applications built on Shopify's Storefront API.
 - [SmallAwesomeShop](https://github.com/JsssCode/SmallAwesomeShop) - An Angular 7 App example using Shopify's Storefront GraphQL API.
 - [Shopify App with Node.js, MongoDB and Next.js](https://github.com/kinngh/shopify-node-mongodb-next-app) - Boilerplate embedded app made with Node.js, MongoDB and Next.js.
-- [Next.JS App with Session Token](https://github.com/ctrlaltdylan/shopify-session-tokens-nextjs) - An example of a Shopify App powered by NextJS with Session Tokens (no custom server necessary)
+- [Next.JS App with Session Token](https://github.com/ctrlaltdylan/shopify-session-tokens-nextjs) - An example of a Shopify App powered by NextJS with Session Tokens (no custom server necessary).
 
 ### Python Examples
 
@@ -232,7 +232,7 @@ A Open Source Projects
 - [Shopify Theme](https://github.com/shopify/shopify_theme) - A console tool for interacting with Shopify Theme Assets.
 - [ziplinesFly](http://ziplines.pixelcab.in) - Fly into Shopify development with ease workflow.
 - [grunt-shopify](https://github.com/wilr/grunt-shopify) - Grunt plug-in for publishing Shopify theme assets.
-- [Shopify Development Tools](https://github.com/ScreenStaring/shopify-dev-tools) - assists with the development/maintenance of apps and stores: manipulate metafields and webhooks, open admin pages, retrieve information about shops, etc...
+- [Shopify Development Tools](https://github.com/ScreenStaring/shopify-dev-tools) - Assists with the development/maintenance of apps and stores: manipulate metafields and webhooks, open admin pages, retrieve information about shops, etc.
 - [Shopify ID Export](https://github.com/ScreenStaring/shopify_id_export) - Dump Shopify product and variant IDs —along with other identifiers— to a CSV or JSON file.
 
 ### Editor
