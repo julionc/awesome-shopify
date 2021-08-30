@@ -39,7 +39,8 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [@ShopifyPartners](https://twitter.com/ShopifyPartners) - The Official Shopify Partners Twitter account.
 - [@ShopifyDevs](https://twitter.com/ShopifyDevs) - A Shopify Devs Team Twitter account.
 - [Community Discussion Forums](https://community.shopify.com/) - Discussing eCommerce best practices and how to have a successful online store.
-- [Shopify Partners](https://shopifypartners.slack.com/) - Official Shopify Partners Slack Channel. If you are a Partner, go to your resources tab and it should be linked there as well.
+- [Shopify Partners Slack Community](https://shopifypartners.slack.com/) - Official Shopify Partners Slack Channel. If you are a Partner, go to your resources tab and it should be linked there as well.
+- [Shopify Devs Discord Community](https://discord.gg/mdyHp6km2B) - Official Shopify Devs Discord Channel.
 - [eCommTalk](http://ecommtalk.com/) - A Slack Community created to bring Shopify lovers together.
 - [/r/shopify](https://www.reddit.com/r/shopify) - The Shopify Reddit Community.
 
@@ -76,6 +77,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 
 ### Others
 
+- [Shopify Dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 - [Cart.js](https://cartjs.org) - A JavaScript library to power your Shopify theme's cart.
 - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme.
 - [shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js.
@@ -161,7 +163,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [donutdan4114/shopify](https://github.com/donutdan4114/shopify) - A simple Shopify PHP SDK for private apps to easily interact with the Shopify API.
 - [slince/shopify-api-php](https://github.com/slince/shopify-api-php) - Shopify API Client for PHP.
 - [ohmybrew/Basic-Shopify-API](https://github.com/ohmybrew/Basic-Shopify-API) - A simple, tested, API wrapper for Shopify using Guzzle for REST and GraphQL.
-- [ohmybrew/laravel-shopify](https://github.com/ohmybrew/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development.
+- [osiset/laravel-shopify](https://github.com/osiset/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development.
 - [buy-button-wordpress](https://github.com/Shopify/buy-button-wordpress) - Wordpress plugin for the Buy Button.
 - [bold-shopify-toolkit](https://github.com/bold-commerce/bold-shopify-toolkit) - A Symfony Based Shopify api wrapper.
 - [oseintow/laravel-shopify](https://github.com/oseintow/laravel-shopify) - Laravel Shopify is a simple package which helps to build robust integration into Shopify.
@@ -230,9 +232,10 @@ A Open Source Projects
 
 ### Command Line Tools
 
-- [shopify-app-cli](https://github.com/Shopify/shopify-app-cli) - Shopify App CLI helps you build Shopify apps faster 🚀.
+- [Shopify CLI](https://github.com/Shopify/shopify-cli) - Shopify CLI helps you build against the Shopify platform faster 🚀.
 - [Theme Kit](https://github.com/Shopify/themekit) - Theme asset interaction library and management.
-- [Shopify Theme](https://github.com/shopify/shopify_theme) - A console tool for interacting with Shopify Theme Assets.
+- [Shopify Theme Kit](https://github.com/Shopify/themekit) - Shopify theme development command line tool.
+- [Shopify Theme Check](https://github.com/Shopify/theme-check) - The Ultimate Shopify Theme Linter.
 - [ziplinesFly](http://ziplines.pixelcab.in) - Fly into Shopify development with ease workflow.
 - [grunt-shopify](https://github.com/wilr/grunt-shopify) - Grunt plug-in for publishing Shopify theme assets.
 - [Shopify Development Tools](https://github.com/ScreenStaring/shopify-dev-tools) - Assists with the development/maintenance of apps and stores: manipulate metafields and webhooks, open admin pages, retrieve information about shops, etc.
