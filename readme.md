@@ -75,9 +75,12 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet) - A resource for building Shopify Themes with Liquid.
 - [Liquid template language reference](https://shopify.dev/docs/themes/liquid/reference) - Liquid is the backbone of all Shopify themes, and is used to load dynamic content to the pages of online stores.
 
-### Others
+### Shopify Online Store 2.0
 
 - [Shopify Dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
+- [Figma - Shopify's Dawn Theme - Online Store 2.0](https://www.figma.com/community/file/1017615468313501249) - If you're designing themes for the new Shopify online store 2.0 and you wished you had the Dawn theme as a nicely put together Figma file.
+### Others
+
 - [Cart.js](https://cartjs.org) - A JavaScript library to power your Shopify theme's cart.
 - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme.
 - [shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js.
@@ -233,7 +236,6 @@ A Open Source Projects
 ### Command Line Tools
 
 - [Shopify CLI](https://github.com/Shopify/shopify-cli) - Shopify CLI helps you build against the Shopify platform faster 🚀.
-- [Theme Kit](https://github.com/Shopify/themekit) - Theme asset interaction library and management.
 - [Shopify Theme Kit](https://github.com/Shopify/themekit) - Shopify theme development command line tool.
 - [Shopify Theme Check](https://github.com/Shopify/theme-check) - The Ultimate Shopify Theme Linter.
 - [ziplinesFly](http://ziplines.pixelcab.in) - Fly into Shopify development with ease workflow.
