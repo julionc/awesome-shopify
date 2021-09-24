@@ -28,6 +28,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
   - [Rust](#rust)
 - [Examples](#examples)
   - [JavaScript Examples](#javascript-examples)
+  - [PHP Examples](#php-examples)
   - [Python Examples](#python-examples)
   - [Ruby Examples](#ruby-examples)
   - [Elixir Examples](#elixir-examples)
@@ -157,6 +158,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### PHP
 
+- [Shopify API Library for PHP](https://github.com/Shopify/shopify-php-api) - Official library provides support for PHP Shopify apps to access the Shopify Admin API 🚀.
 - [pizdata/oauth2-shopify-php](https://github.com/pizdata/oauth2-shopify-php) - Shopify Provider for the OAuth 2.0 Client.
 - [multidimension-al/oauth2-shopify](https://github.com/multidimension-al/oauth2-shopify) - Shopify's OAuth 2.0 support for the PHP League's OAuth 2.0 Client.
 - [ShopifyExtras/PHP-Shopify-API-Wrapper](https://github.com/ShopifyExtras/PHP-Shopify-API-Wrapper) - Guzzle-based API client.
@@ -194,6 +196,10 @@ A Open Source Projects
 - [Shopify App with Node.js, MongoDB and Next.js](https://github.com/kinngh/shopify-node-mongodb-next-app) - Boilerplate embedded app made with Node.js, MongoDB and Next.js.
 - [Next.JS App with Session Token](https://github.com/ctrlaltdylan/shopify-session-tokens-nextjs) - An example of a Shopify App powered by NextJS with Session Tokens (no custom server necessary).
 - [Vue Storefront 2](https://github.com/vuestorefront/shopify) - Vue Storefront 2 integration for Shopify.
+
+### PHP Examples
+
+- [shopify-app-php](https://github.com/Shopify/shopify-app-php) - Example Shopify PHP app (Laravel).
 
 ### Python Examples
 
