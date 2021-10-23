@@ -82,7 +82,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [Figma - Shopify's Dawn Theme - Online Store 2.0](https://www.figma.com/community/file/1017615468313501249) - If you're designing themes for the new Shopify online store 2.0 and you wished you had the Dawn theme as a nicely put together Figma file.
 ### Others
 
-- [Liquid Ajax Cart](https://liquid-ajax-cart.js.org) - A Javascript library for building Shopify Ajax-carts using Liquid templates.
+- [Liquid Ajax Cart](https://liquid-ajax-cart.js.org) - A JavaScript library for building Shopify Ajax-carts using Liquid templates.
 - [Cart.js](https://cartjs.org) - A JavaScript library to power your Shopify theme's cart.
 - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme.
 - [shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js.
