@@ -153,6 +153,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Golang
 
+- [gopify](https://github.com/oussama4/gopify) - A simple package for developing Shopify applications in Go.
 - [bold-commerce/go-shopify](https://github.com/bold-commerce/go-shopify) - Go client for the Shopify API.
 - [go-shopify](https://github.com/kiwih/go-shopify) - Golang tool for connecting to Shopify's API.
 - [shoauth](https://github.com/darrenpeters/shoauth) - Shopify oauth (oauth2) middleware for Golang.
