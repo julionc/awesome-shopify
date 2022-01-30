@@ -80,6 +80,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 
 - [Shopify Dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 - [Figma - Shopify's Dawn Theme - Online Store 2.0](https://www.figma.com/community/file/1017615468313501249) - If you're designing themes for the new Shopify online store 2.0 and you wished you had the Dawn theme as a nicely put together Figma file.
+- [Helium](https://github.com/idbakkasse/helium) - A Shopify theme environment from scratch ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind, has hot Module Reloading on SASS/ES6 file changes for rapid development and many more other features out of the box...
 ### Others
 
 - [Liquid Ajax Cart](https://liquid-ajax-cart.js.org) - A JavaScript library for building Shopify Ajax-carts using Liquid templates.
