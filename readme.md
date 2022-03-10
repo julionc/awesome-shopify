@@ -272,3 +272,5 @@ A Open Source Projects
 - [UnProduct-Shopify](https://github.com/byjord/UnProduct-Shopify) - Non-uniform test product data for the Shopify Platform. Use UnProduct-Shopify to simulate real world products.
 - [Sketch Shopify Data Populator](https://github.com/shopifypartners/sketch-shopify-data-populator)
 - [City Ecommerce UI Kit](https://github.com/shopifypartners/City-Ecommerce-UI-Kit) - City is our free ecommerce UI kit based on a fictional fashion apparel shop. (Prototyping Shopify Store design)
+- [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connects with Shopify, Google & Facebook Ads, Postgres, Redshift, Snowflake, etc. 
+
