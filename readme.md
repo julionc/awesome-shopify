@@ -199,6 +199,7 @@ A Open Source Projects
 - [Shopify App with Node.js, MongoDB and Next.js](https://github.com/kinngh/shopify-node-mongodb-next-app) - Boilerplate embedded app made with Node.js, MongoDB and Next.js.
 - [Next.JS App with Session Token](https://github.com/ctrlaltdylan/shopify-session-tokens-nextjs) - An example of a Shopify App powered by NextJS with Session Tokens (no custom server necessary).
 - [Vue Storefront 2](https://github.com/vuestorefront/shopify) - Vue Storefront 2 integration for Shopify.
+- [Shopify app with Node.js, MongoDB, React.js and Express](https://github.com/kinngh/shopify-express-mongodb-app) - Boilerplate embedded app made with Express.js, MongoDB and React.js with webhooks, GDPR routes, monetization and more hooked up and ready to go.
 
 ### PHP Examples
 
