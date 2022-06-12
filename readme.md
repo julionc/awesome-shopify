@@ -1,11 +1,11 @@
 # Awesome Shopify [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[<img src="shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/?ref=vitalogy)
+[<img src="shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/free-trial?ref=vitalogy)
 
 > A curated list of awesome [Shopify](https://www.shopify.com) resources, libraries and open source projects.
 
 [Shopify](https://www.shopify.com/blog/what-is-shopify?ref=vitalogy) is a popular e-commerce platform that allows to build and manage online stores.
-If you want to contribute, please read the [contribution guidelines](https://github.com/julionc/awesome-shopify/blob/master/contributing.md).
+If you want to contribute, please read the [contribution guidelines](https://github.com/julionc/awesome-shopify/blob/main/contributing.md).
 Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/contributors), you're awesome and wouldn't be possible without you!
 
 ## Contents
@@ -41,9 +41,9 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [@ShopifyDevs](https://twitter.com/ShopifyDevs) - A Shopify Devs Team Twitter account.
 - [Community Discussion Forums](https://community.shopify.com/) - Discussing eCommerce best practices and how to have a successful online store.
 - [Shopify Partners Slack Community](https://shopifypartners.slack.com/) - Official Shopify Partners Slack Channel. If you are a Partner, go to your resources tab and it should be linked there as well.
-- [Shopify Devs Discord Community](https://discord.gg/mdyHp6km2B) - Official Shopify Devs Discord Channel.
-- [eCommTalk](http://ecommtalk.com/) - A Slack Community created to bring Shopify lovers together.
-- [/r/shopify](https://www.reddit.com/r/shopify) - The Shopify Reddit Community.
+- [Shopify Devs Discord Community](https://discord.com/invite/mdyHp6km2B) - Official Shopify Devs Discord Channel.
+- [eCommTalk](https://ecommtalk.com/) - A Slack Community created to bring Shopify lovers together.
+- [/r/shopify](https://www.reddit.com/r/shopify/) - The Shopify Reddit Community.
 
 ## Documentation
 
@@ -73,7 +73,7 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 
 - [Liquid](https://shopify.github.io/liquid/) - Liquid is safe, customer-facing template language for flexible web apps.
 - [Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet) - A resource for building Shopify Themes with Liquid.
-- [Liquid template language reference](https://shopify.dev/docs/themes/liquid/reference) - Liquid is the backbone of all Shopify themes, and is used to load dynamic content to the pages of online stores.
+- [Liquid template language reference](https://shopify.dev/api/liquid) - Liquid is the backbone of all Shopify themes, and is used to load dynamic content to the pages of online stores.
 
 ### Others
 
@@ -85,8 +85,6 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [Setup and use Shopify metafields in your custom storefront](https://www.zauberware.com/en/articles/2019/setup-and-use-shopify-metafields-in-your-custom-storefront/) - Using GraphQL API to create and get Shopify Metafields.
 - [Foundationify](https://github.com/lukebussey/foundationify) - A theme for Shopify based on the responsive Zurb Foundation 5 framework.
 - [Uptown CSS](https://github.com/shoppad/uptowncss/) - Uptown CSS is a semantic toolkit designed to help developers build fully-responsive Shopify Apps.
-
-### Deprecation warning ⚠️
 - [Slate](https://github.com/Shopify/slate) - Slate is a toolkit for developing Shopify themes, designed to assist your workflow and speed up the process of developing, testing, and deploying themes. ⚠️
 - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme. ⚠️
 - [shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js. ⚠️
@@ -117,7 +115,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [shopify_app](https://github.com/Shopify/shopify_app) - A Ruby on Rails Engine.
 - [omniauth-shopify-oauth2](https://github.com/Shopify/omniauth-shopify-oauth2) - Authentication using OmniAuth.
 - [shopify-sinatra-app](https://github.com/kevinhughes27/shopify-sinatra-app) - Shopify Sinatra App.
-- [lucid_shopify](https://github.com/luciddesign/lucid_shopify) - Basic interfaces to the Shopify API.
+- [lucid_shopify](https://github.com/lucidnz/lib-ruby-lucid-shopify) - Basic interfaces to the Shopify API.
 
 ### Python
 
@@ -128,8 +126,8 @@ You can use official Shopify libraries or any of the third party libraries below
 ### JavaScript
 
 - [@shopify/koa-shopify-auth](https://github.com/Shopify/koa-shopify-auth) - Shopify Auth for Koa HTTP middleware framework.
-- [@shopify/koa-shopify-graphql-proxy](https://github.com/Shopify/quilt/blob/master/packages/koa-shopify-graphql-proxy/README.md) - Shopify GraphQL Proxy for Koa HTTP middleware framework.
-- [@shopify/koa-shopify-webhooks](https://github.com/Shopify/quilt/tree/master/packages/koa-shopify-webhooks) - Shopify Webhooks Middleware for Koa HTTP middleware framework.
+- [@shopify/koa-shopify-graphql-proxy](https://github.com/Shopify/quilt/blob/main/packages/koa-shopify-graphql-proxy/README.md) - Shopify GraphQL Proxy for Koa HTTP middleware framework.
+- [@shopify/koa-shopify-webhooks](https://github.com/Shopify/quilt/tree/main/packages/koa-shopify-webhooks) - Shopify Webhooks Middleware for Koa HTTP middleware framework.
 - [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) - Shopify JavaScript Buy SDK.
 - [shopify-api-node](https://github.com/MONEI/Shopify-api-node) - Node.js Shopify connector.
 - [shopify-node-api](https://github.com/christophergregory/shopify-node-api) - OAuth2 Module for Shopify API.
@@ -138,13 +136,12 @@ You can use official Shopify libraries or any of the third party libraries below
 ### DotNet
 
 - [nozzlegear/ShopifySharp](https://github.com/nozzlegear/ShopifySharp) - A .NET library for Shopify.
-- [agileharbor/shopifyAccess](https://github.com/agileharbor/shopifyAccess) - Shoppify API .NET wrapper.
+- [agileharbor/shopifyAccess](https://github.com/skuvault-integrations/shopifyAccess) - Shoppify API .NET wrapper.
 
 ### Elixir
 
 - [sticksnleaves/exshopify](https://github.com/sticksnleaves/exshopify) - Elixir client for the Shopify API.
-- [pixelunion/elixir-shopifyapi](https://github.com/pixelunion/elixir-shopifyapi) - ShopifyAPI and Plug.ShopifyAPI Elixir client.
-- [shopify_elixir](https://github.com/sdn90/shopify_elixir) - A Shopify API library for Elixir.
+- [orbit-apps/elixir-shopifyapi](https://github.com/orbit-apps/elixir-shopifyapi) - ShopifyAPI and Plug.ShopifyAPI Elixir client.
 
 ### Haskell
 
@@ -172,7 +169,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [Shopify API Package for Laravel](https://github.com/joshrps/laravel-shopify-API-wrapper) - A Laravel API Wrapper.
 - [donutdan4114/shopify](https://github.com/donutdan4114/shopify) - A simple Shopify PHP SDK for private apps to easily interact with the Shopify API.
 - [slince/shopify-api-php](https://github.com/slince/shopify-api-php) - Shopify API Client for PHP.
-- [ohmybrew/Basic-Shopify-API](https://github.com/ohmybrew/Basic-Shopify-API) - A simple, tested, API wrapper for Shopify using Guzzle for REST and GraphQL.
+- [ohmybrew/Basic-Shopify-API](https://github.com/osiset/Basic-Shopify-API) - A simple, tested, API wrapper for Shopify using Guzzle for REST and GraphQL.
 - [osiset/laravel-shopify](https://github.com/osiset/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development.
 - [buy-button-wordpress](https://github.com/Shopify/buy-button-wordpress) - Wordpress plugin for the Buy Button.
 - [bold-shopify-toolkit](https://github.com/bold-commerce/bold-shopify-toolkit) - A Symfony Based Shopify api wrapper.
@@ -194,7 +191,7 @@ A Open Source Projects
 
 ### JavaScript Examples
 
-- [Shopify App Node](https://github.com/Shopify/shopify-app-node) - Boilerplate to create an embedded Shopify app made with Node, Next.js, Shopify-koa-auth, Polaris, and App Bridge React :sunny:.
+- [Shopify App Node](https://github.com/Shopify/shopify-app-template-node) - Boilerplate to create an embedded Shopify app made with Node, Next.js, Shopify-koa-auth, Polaris, and App Bridge React :sunny:.
 - [Storefront API Examples](https://github.com/Shopify/storefront-api-examples) - Example custom storefront applications built on Shopify's Storefront API.
 - [Product Reviews Sample App](https://github.com/Shopify/product-reviews-sample-app) - Sample app was built as a reference for how Shopify Developer tools can be used together to create a fully functional application.
 - [SmallAwesomeShop](https://github.com/JsssCode/SmallAwesomeShop) - An Angular 7 App example using Shopify's Storefront GraphQL API.
@@ -205,7 +202,7 @@ A Open Source Projects
 
 ### PHP Examples
 
-- [shopify-app-php](https://github.com/Shopify/shopify-app-php) - Example Shopify PHP app (Laravel).
+- [shopify-app-php](https://github.com/Shopify/shopify-app-template-php) - Example Shopify PHP app (Laravel).
 
 ### Python Examples
 
@@ -214,7 +211,7 @@ A Open Source Projects
 ### Ruby Examples
 
 - [shopify-fulfillment-integration](https://github.com/Shopify/shopify-fulfillment-integration) - Example Fulfillment Service Integration with Shopify.
-- [Hosted Payment Simulator](https://github.com/Shopify/hosted-payment-sim) - Example of using the [Hosted Payment SDK](https://docs.shopify.com/api/sdks/hosted-payment-sdk).
+- [Hosted Payment Simulator](https://github.com/Shopify/hosted-payment-sim) - Example of using the [Hosted Payment SDK](https://shopify.dev/apps/payments/hosted-payment-sdk).
 - [shopify-sim](https://github.com/urbandictionary/shopify-sim) - Sinatra app to preview a Shopify theme locally.
 - [shopify-surge-pricing](https://github.com/kevinhughes27/shopify-surge-pricing) - A demo of surge pricing for Shopify based on cart update webhooks.
 - [shopify-tax-receipts](https://github.com/kevinhughes27/shopify-tax-receipts) - Shopify app for automatically sending tax receipts when specified products are purchased.
@@ -223,7 +220,7 @@ A Open Source Projects
 
 ### Elixir Examples
 
-- [pixelunion/elixir-shopify-app](https://github.com/pixelunion/elixir-shopify-app) - Elixir Shopify App boilerplate (Phoenix).
+- [orbit-apps/elixir-shopify-app](https://github.com/orbit-apps/elixir-shopify-app) - Elixir Shopify App boilerplate (Phoenix).
 
 ## Code Snippets
 
@@ -233,17 +230,11 @@ A Open Source Projects
 
 ## Tools
 
-### App
-
-- [Shopify developer-tools](https://github.com/shopifypartners/developer-tools) - A macOS app that connects to your Shopify store(s) and allows you to make authenticated calls to the Admin API, generate dummy data, and view and customize Polaris components. [More info](https://www.shopify.com/partners/blog/developer-tools).
-
 ### Browser extensions
 
 - [Shopify Theme Inspector for Chrome](https://chrome.google.com/webstore/detail/shopify-theme-inspector-f/fndnankcflemoafdeboboehphmiijkgp) - Profile and debug Liquid template on your Shopify store.
-- [ShopifyFD Dashboard Tool](https://github.com/freakdesign/shopifyFD) - Chrome extension to provide additional functionality to the Shopify dashboard. ⚠️
-- [Custom Fields for Shopify](https://github.com/freakdesign/shopify-custom-fields) - Chrome extension to navigate across the custom fields. ⚠️
 - [Shopify App Detector](https://chrome.google.com/webstore/detail/shopify-app-detector-by-f/lhfdhjladfcmghahdbcmlceajdlbkale) - Detect which apps and what theme a Shopify store is using. [GitHub](https://github.com/feracommerce/shopify_app_detector)
-- [Shopify Theme Wizard](https://chrome.google.com/webstore/detail/shopify-theme-wizard-by-e/fhkelfkhcaokghlkckfgjoejhanelped) - Detect which theme a Shopify store is using.
+- [Shopify Theme Wizard](https://chrome.google.com/webstore/detail/shopify-app-detector-by-e/fhkelfkhcaokghlkckfgjoejhanelped) - Detect which theme a Shopify store is using.
 
 ### Command Line Tools
 
@@ -257,7 +248,7 @@ A Open Source Projects
 - [Shopify Email Template Sync Client](https://github.com/mash/shync) - Shync can checkout/download the Shopify email templates from your Shopify store admin to your local machine, and push/sync your email templates on your local machine to Shopify.
 
 ### Editor
-
+- [Shopify Liquid](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode) - Official VS Code extension for Shopify Liquid powered by Theme Check the Liquid linter and language server for online store themes. ([Source Code](https://github.com/shopify/theme-check-vscode)) `liquid`
 - [VS Code Liquid](https://github.com/panoply/vscode-liquid) - Liquid VS Code extension that supports formatting, syntax highlighting and more.
 - [Shopify Textmate Bundle](https://github.com/meeech/shopify.tmbundle) - A Textmate Bundle for interacting with Shopify Theme Assets.
 - [vim-liquid](https://github.com/tpope/vim-liquid) - Vim Liquid runtime files.
@@ -266,13 +257,12 @@ A Open Source Projects
 ### Services
 
 - [Ngrok](https://ngrok.com) - Ngrok is a tool that makes it easy to expose your development environment to Internet.
-- [RequestBin](http://requestbin.net) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/en/manual/orders/notifications/webhooks) are.
-- [Hookdeck](https://hookdeck.io) - Hookdeck is a tool to monitor your [Shopify Webhooks](https://help.shopify.com/api/reference/webhook) with custom retry logic, alerts and filtering.
+- [RequestBin](https://requestbin.net/) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/en/manual/orders/notifications/webhooks) are.
+- [Hookdeck](https://hookdeck.com/) - Hookdeck is a tool to monitor your [Shopify Webhooks](https://shopify.dev/api/admin/rest/reference/events/webhook) with custom retry logic, alerts and filtering.
+- [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connects with Shopify, Google & Facebook Ads, Postgres, Redshift, Snowflake, etc. `Python`
 
 ### Utilities
 
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
 - [Sketch Shopify Data Populator](https://github.com/shopifypartners/sketch-shopify-data-populator) - A Sketch App plugin to populate your designs with meaningful ecommerce data.
 - [City Ecommerce UI Kit](https://github.com/shopifypartners/City-Ecommerce-UI-Kit) - City is our free ecommerce UI kit based on a fictional fashion apparel shop. (Prototyping Shopify Store design)
-- [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connects with Shopify, Google & Facebook Ads, Postgres, Redshift, Snowflake, etc. 
-
