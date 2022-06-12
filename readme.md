@@ -47,28 +47,27 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 
 ## Documentation
 
-- [Developer changelog](https://developers.shopify.com/changelog) - The Official Developer Changelog blog with important changes to APIs and other developer products.
-- [Developer guides](https://help.shopify.com/api/guides) - If you're new to developing apps for Shopify, take a look at the official guides to get an overview of the process.
-- [Shopify - The OAuth flow for Authentication](https://help.shopify.com/api/guides/authentication/oauth) - This guide will walk you through the OAuth Authorization process.
+- [Developer changelog](https://shopify.dev/changelog) - The Official Developer Changelog blog with important changes to APIs and other developer products.
+- [Developer guides](https://shopify.dev) - If you're new to developing apps for Shopify, take a look at the official guides to get an overview of the process.
+- [Shopify - The OAuth flow for Authentication](https://shopify.dev/apps/auth/oauth) - This guide introduces the OAuth flow for public apps and custom apps that are created in the Partner Dashboard.
 - [Shopify Partner Account](https://www.shopify.com/partners?ref=vitalogy) - If you don't have a Shopify Partner account yet head over here and create one, you'll need it before you can start developing apps.
-- [App requirements checklist](https://help.shopify.com/api/listing-in-the-app-store/app-review-checklist) - For submitting apps to the Shopify App Store.
-- [Everything You Need to Know About Development Stores](https://www.shopify.com/partners/blog/development-stores?ref=vitalogy) - Understanding development stores.
+- [Requirements for apps in the Shopify App Store](https://shopify.dev/apps/store/requirements) - For submitting apps to the Shopify App Store.
+- [Everything You Need to Know About Development Stores](https://www.shopify.com/partners/blog/development-stores?ref=vitalogy) - You need to be familiar with development stores. They are used for testing and installing your apps, providing example stores running your app, and for signing up clients to Shopify. .
 
 ## Front-end Development
 
 ### UI/UX
 
 - [Shopify Polaris](https://polaris.shopify.com) - Polaris is a React component library designed to help developers create the best experience for merchants. [GitHub](https://github.com/Shopify/polaris) :sunny:.
-- [Slate](https://github.com/Shopify/slate) - Slate is a toolkit for developing Shopify themes, designed to assist your workflow and speed up the process of developing, testing, and deploying themes.
 - [Shopify Polaris UI Kit](https://polaris.shopify.com/resources/polaris-ui-kit) - The Sketch UI kit provides a set of reusable components to help you craft great products for Shopify.
 - [Polaris icon explorer](https://polaris-icons.shopify.com) - A collection of simple and informative icons that draw on the visual language of the Polaris design system.
-- [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - Customizable modular development environment for blazing-fast Shopify theme creation, bundled with Vue.js and Tailwind CSS.
-- [Shopify Packer](https://github.com/hayes0724/shopify-packer) - Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
 
-### CSS Frameworks
+### Dawn
 
-- [Foundationify](https://github.com/lukebussey/foundationify) - A theme for Shopify based on the responsive Zurb Foundation 5 framework.
-- [Uptown CSS](https://github.com/shoppad/uptowncss/) - Uptown CSS is a semantic toolkit designed to help developers build fully-responsive Shopify Apps.
+[Dawn](https://shopify.dev/themes/tools/dawn) is Shopify's reference theme, which is built for performance, flexibility, and ease of use. It uses [Online Store 2.0](https://shopify.dev/themes/os20) features
+
+- [Shopify Dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
+- [Figma - Shopify's Dawn Theme - Online Store 2.0](https://www.figma.com/community/file/1017615468313501249) - If you're designing themes for the new Shopify online store 2.0 and you wished you had the Dawn theme as a nicely put together Figma file.
 
 ### Liquid Template
 
@@ -76,22 +75,25 @@ Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/c
 - [Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet) - A resource for building Shopify Themes with Liquid.
 - [Liquid template language reference](https://shopify.dev/docs/themes/liquid/reference) - Liquid is the backbone of all Shopify themes, and is used to load dynamic content to the pages of online stores.
 
-### Shopify Online Store 2.0
-
-- [Shopify Dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
-- [Figma - Shopify's Dawn Theme - Online Store 2.0](https://www.figma.com/community/file/1017615468313501249) - If you're designing themes for the new Shopify online store 2.0 and you wished you had the Dawn theme as a nicely put together Figma file.
-- [Helium](https://github.com/idbakkasse/helium) - A Shopify theme environment from scratch ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind, has hot Module Reloading on SASS/ES6 file changes for rapid development and many more other features out of the box.
 ### Others
 
 - [Liquid Ajax Cart](https://liquid-ajax-cart.js.org) - A JavaScript library for building Shopify Ajax-carts using Liquid templates.
 - [Cart.js](https://cartjs.org) - A JavaScript library to power your Shopify theme's cart.
-- [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme.
-- [shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js.
+- [Helium](https://github.com/idbakkasse/helium) - A Shopify theme environment from scratch ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind, has hot Module Reloading on SASS/ES6 file changes for rapid development and many more other features out of the box.
+- [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - Customizable modular development environment for blazing-fast Shopify theme creation, bundled with Vue.js and Tailwind CSS.
+- [Shopify Packer](https://github.com/hayes0724/shopify-packer) - Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
 - [Setup and use Shopify metafields in your custom storefront](https://www.zauberware.com/en/articles/2019/setup-and-use-shopify-metafields-in-your-custom-storefront/) - Using GraphQL API to create and get Shopify Metafields.
+- [Foundationify](https://github.com/lukebussey/foundationify) - A theme for Shopify based on the responsive Zurb Foundation 5 framework.
+- [Uptown CSS](https://github.com/shoppad/uptowncss/) - Uptown CSS is a semantic toolkit designed to help developers build fully-responsive Shopify Apps.
+
+### Deprecation warning ⚠️
+- [Slate](https://github.com/Shopify/slate) - Slate is a toolkit for developing Shopify themes, designed to assist your workflow and speed up the process of developing, testing, and deploying themes. ⚠️
+- [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme. ⚠️
+- [shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js. ⚠️
 
 ## Mobile
 
-You can use the iOS and Android Buy SDK to integrate Shopify checkout into your mobile applications. This lets you sell any of your physical products through the app and track sales info in your Shopify Admin. [Learn more here›](https://help.shopify.com/en/api/storefront-api/tools).
+You can use the iOS and Android Buy SDK to integrate Shopify checkout into your mobile applications. This lets you sell any of your physical products through the app and track sales info in your Shopify Admin. [Learn more here›](https://shopify.dev/custom-storefronts/tools).
 
 ### Android
 
@@ -238,8 +240,8 @@ A Open Source Projects
 ### Browser extensions
 
 - [Shopify Theme Inspector for Chrome](https://chrome.google.com/webstore/detail/shopify-theme-inspector-f/fndnankcflemoafdeboboehphmiijkgp) - Profile and debug Liquid template on your Shopify store.
-- [ShopifyFD Dashboard Tool](https://github.com/freakdesign/shopifyFD) - Chrome extension to provide additional functionality to the Shopify dashboard.
-- [Custom Fields for Shopify](https://github.com/freakdesign/shopify-custom-fields) - Chrome extension to navigate across the custom fields.
+- [ShopifyFD Dashboard Tool](https://github.com/freakdesign/shopifyFD) - Chrome extension to provide additional functionality to the Shopify dashboard. ⚠️
+- [Custom Fields for Shopify](https://github.com/freakdesign/shopify-custom-fields) - Chrome extension to navigate across the custom fields. ⚠️
 - [Shopify App Detector](https://chrome.google.com/webstore/detail/shopify-app-detector-by-f/lhfdhjladfcmghahdbcmlceajdlbkale) - Detect which apps and what theme a Shopify store is using. [GitHub](https://github.com/feracommerce/shopify_app_detector)
 - [Shopify Theme Wizard](https://chrome.google.com/webstore/detail/shopify-theme-wizard-by-e/fhkelfkhcaokghlkckfgjoejhanelped) - Detect which theme a Shopify store is using.
 
@@ -265,11 +267,10 @@ A Open Source Projects
 
 - [Ngrok](https://ngrok.com) - Ngrok is a tool that makes it easy to expose your development environment to Internet.
 - [RequestBin](http://requestbin.net) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/en/manual/orders/notifications/webhooks) are.
-- [Hookdeck](https://hookdeck.io) - Hookdeck is a tool to monitor your [Shopify Webhooks](https://help.shopify.com/api/reference/webhook) with custom retry logic, alerts and filtering. Useful to provide visbility and save time when working with webhooks in development and production.
+- [Hookdeck](https://hookdeck.io) - Hookdeck is a tool to monitor your [Shopify Webhooks](https://help.shopify.com/api/reference/webhook) with custom retry logic, alerts and filtering.
 
 ### Utilities
 
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
-- [UnProduct-Shopify](https://github.com/byjord/UnProduct-Shopify) - Non-uniform test product data for the Shopify Platform. Use UnProduct-Shopify to simulate real world products.
-- [Sketch Shopify Data Populator](https://github.com/shopifypartners/sketch-shopify-data-populator)
+- [Sketch Shopify Data Populator](https://github.com/shopifypartners/sketch-shopify-data-populator) - A Sketch App plugin to populate your designs with meaningful ecommerce data.
 - [City Ecommerce UI Kit](https://github.com/shopifypartners/City-Ecommerce-UI-Kit) - City is our free ecommerce UI kit based on a fictional fashion apparel shop. (Prototyping Shopify Store design)
