@@ -3,6 +3,7 @@
 		"test": "awesome-lint"
 	},
 	"devDependencies": {
-		"awesome-lint": "^0.18.0"
+		"awesome-lint": "^0.18.0",
+		"markdown-link-check": "^3.10.2"
 	}
 }
