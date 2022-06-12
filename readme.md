@@ -248,7 +248,7 @@ A Open Source Projects
 - [Shopify Email Template Sync Client](https://github.com/mash/shync) - Shync can checkout/download the Shopify email templates from your Shopify store admin to your local machine, and push/sync your email templates on your local machine to Shopify.
 
 ### Editor
-- [Shopify Liquid](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode) - Official VS Code extension for Shopify Liquid powered by Theme Check the Liquid linter and language server for online store themes. ([Source Code](https://github.com/shopify/theme-check-vscode)) `liquid`
+- [Shopify Liquid](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode) - Official VS Code extension for Shopify Liquid powered by Theme Check the Liquid linter and language server for online store themes ([Source Code](https://github.com/shopify/theme-check-vscode)).
 - [VS Code Liquid](https://github.com/panoply/vscode-liquid) - Liquid VS Code extension that supports formatting, syntax highlighting and more.
 - [Shopify Textmate Bundle](https://github.com/meeech/shopify.tmbundle) - A Textmate Bundle for interacting with Shopify Theme Assets.
 - [vim-liquid](https://github.com/tpope/vim-liquid) - Vim Liquid runtime files.
@@ -259,7 +259,7 @@ A Open Source Projects
 - [Ngrok](https://ngrok.com) - Ngrok is a tool that makes it easy to expose your development environment to Internet.
 - [RequestBin](https://requestbin.net/) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/en/manual/orders/notifications/webhooks) are.
 - [Hookdeck](https://hookdeck.com/) - Hookdeck is a tool to monitor your [Shopify Webhooks](https://shopify.dev/api/admin/rest/reference/events/webhook) with custom retry logic, alerts and filtering.
-- [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connects with Shopify, Google & Facebook Ads, Postgres, Redshift, Snowflake, etc. `Python`
+- [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connects with Shopify, Google & Facebook Ads, Postgres, Redshift, Snowflake, etc.
 
 ### Utilities
 
