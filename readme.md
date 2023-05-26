@@ -260,6 +260,7 @@ A Open Source Projects
 - [RequestBin](https://requestbin.net/) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/en/manual/orders/notifications/webhooks) are.
 - [Hookdeck](https://hookdeck.com/) - Hookdeck is a tool to monitor your [Shopify Webhooks](https://shopify.dev/api/admin/rest/reference/events/webhook) with custom retry logic, alerts and filtering.
 - [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connects with Shopify, Google & Facebook Ads, Postgres, Redshift, Snowflake, etc.
+- [DeployBot](https://deploybot.com/) - Shopify integration in DeployBot is a great way to streamline the development, review, and deployment of your store themes.
 
 ### Utilities
 
