@@ -132,6 +132,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [shopify-api-node](https://github.com/MONEI/Shopify-api-node) - Node.js Shopify connector.
 - [shopify-node-api](https://github.com/christophergregory/shopify-node-api) - OAuth2 Module for Shopify API.
 - [shopify-nextjs-toolbox](https://github.com/ctrlaltdylan/shopify-nextjs-toolbox) - A set of server side and client side NextJs utilities for integrating with Shopify's OAuth & App Bridge authentication.
+- [nestjs-shopify](https://github.com/nestjs-shopify/nestjs-shopify) - Packages to develop Shopify application using NestJS.
 
 ### DotNet
 
