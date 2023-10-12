@@ -8,6 +8,8 @@
 If you want to contribute, please read the [contribution guidelines](https://github.com/julionc/awesome-shopify/blob/main/contributing.md).
 Thanks to all [contributors](https://github.com/julionc/awesome-shopify/graphs/contributors), you're awesome and wouldn't be possible without you!
 
+Note: Are You A Merchant? - [Bring your ideas to life for $1/month](https://shopify.pxf.io/ZQJOkq)
+
 ## Contents
 
 - [Community](#community)
