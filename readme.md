@@ -274,5 +274,5 @@ A Open Source Projects
 - [City Ecommerce UI Kit](https://github.com/shopifypartners/City-Ecommerce-UI-Kit) - City is our free ecommerce UI kit based on a fictional fashion apparel shop. (Prototyping Shopify Store design)
 
 ### Raycast Extension
-- [Search Shopify Liquid Documentation](https://www.raycast.com/maximedaraize/search-shopify-liquid-documentation) - Raycast extension to preview and access Shopify documentation
-- [Shopify Developer Changelog](https://www.raycast.com/sandypockets/shopify-developer-changelog) - Raycast extension listing the Shopify changlog
+- [Search Shopify Liquid Documentation](https://www.raycast.com/maximedaraize/search-shopify-liquid-documentation) - Raycast extension to preview and access Shopify documentation.
+- [Shopify Developer Changelog](https://www.raycast.com/sandypockets/shopify-developer-changelog) - Raycast extension listing the Shopify changlog.
