@@ -61,8 +61,9 @@ Note: Are You A Merchant? - [Bring your ideas to life for $1/month](https://shop
 ### UI/UX
 
 - [Shopify Polaris](https://polaris.shopify.com) - Polaris is a React component library designed to help developers create the best experience for merchants. [GitHub](https://github.com/Shopify/polaris) :sunny:.
-- [Shopify Polaris UI Kit](https://polaris.shopify.com/resources/polaris-ui-kit) - The Sketch UI kit provides a set of reusable components to help you craft great products for Shopify.
-- [Polaris icon explorer](https://polaris-icons.shopify.com) - A collection of simple and informative icons that draw on the visual language of the Polaris design system.
+- [Shopify Polaris for Admin Figma UI kit](https://www.figma.com/@shopify) - Polaris for Admin Web UI kit is now available in Figma. You can access the full kit in Figma with reusable components and up-to-date Polaris guidelines, icons, and color palette.
+- [Polaris icon explorer](https://polaris.shopify.com/icons) - A collection of simple and informative icons that draw on the visual language of the Polaris design system.
+- [Shopify Polaris design system for Vue JS](https://github.com/ownego/polaris-vue) - Polaris Vue based on Shopify Polaris style guide, built especially for Vue 3.
 
 ### Dawn
 
