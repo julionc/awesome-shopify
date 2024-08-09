@@ -205,6 +205,7 @@ A Open Source Projects
 - [Shopify App Starter (Typescript, Mongo, Express, React)](https://github.com/yoMerce/shopify-app-starter) - A shopify app starter written in Typescript. It uses Mongodb, Express and React.
 - [Shopify Discount App Components)](https://github.com/Shopify/discount-app-components) - A library of discounts-focused React components to help in building Shopify apps.
 - [Shopify App Template Remix](https://github.com/Shopify/shopify-app-template-remix) - A template for building a Shopify app using the Remix framework.
+- [Shopify App Vue Template](https://github.com/Mini-Sylar/shopify-app-vue-template) - Create a Shopify App with node and vue 3.
 
 ### PHP Examples
 
