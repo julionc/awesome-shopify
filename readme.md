@@ -255,7 +255,7 @@ A Open Source Projects
 - [Shopify Email Template Sync Client](https://github.com/mash/shync) - Shync can checkout/download the Shopify email templates from your Shopify store admin to your local machine, and push/sync your email templates on your local machine to Shopify.
 
 ### Editor
-- [Shopify Liquid](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode) - Official VS Code extension for Shopify Liquid powered by Theme Check the Liquid linter and language server for online store themes ([Source Code](https://github.com/shopify/theme-check-vscode)).
+- [Shopify Liquid](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode) - Official VS Code extension for Shopify Liquid powered by Theme Check the Liquid linter and language server for online store themes ([Source Code](https://github.com/Shopify/theme-tools/tree/main/packages/vscode-extension)).
 - [VS Code Liquid](https://github.com/panoply/vscode-liquid) - Liquid VS Code extension that supports formatting, syntax highlighting and more.
 - [Shopify Textmate Bundle](https://github.com/meeech/shopify.tmbundle) - A Textmate Bundle for interacting with Shopify Theme Assets.
 - [vim-liquid](https://github.com/tpope/vim-liquid) - Vim Liquid runtime files.
