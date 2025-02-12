@@ -247,7 +247,7 @@ A Open Source Projects
 ### Command Line Tools
 
 - [Shopify CLI](https://github.com/Shopify/shopify-cli) - Shopify CLI helps you build against the Shopify platform faster 🚀.
-- [Shopify Theme Kit](https://github.com/Shopify/themekit) - Shopify theme development command line tool.
+- [Shopify Theme Kit](https://github.com/Shopify/themekit) - Shopify theme development command line tool. ⚠️
 - [Shopify Theme Check](https://github.com/Shopify/theme-check) - The Ultimate Shopify Theme Linter.
 - [ziplinesFly](http://ziplines.pixelcab.in) - Fly into Shopify development with ease workflow.
 - [grunt-shopify](https://github.com/wilr/grunt-shopify) - Grunt plug-in for publishing Shopify theme assets.
