@@ -39,11 +39,11 @@ Note: Are You A Merchant? - [Bring your ideas to life for $1/month](https://shop
 
 ## Community
 
-- [@ShopifyPartners](https://twitter.com/ShopifyPartners) - The Official Shopify Partners Twitter account.
 - [@ShopifyDevs](https://twitter.com/ShopifyDevs) - A Shopify Devs Team Twitter account.
 - [Community Discussion Forums](https://community.shopify.com/) - Discussing eCommerce best practices and how to have a successful online store.
+- [Shopify community for partners and developers](https://community.shopify.dev) - The Official Shopify Partners And Developers Forum.
 - [Shopify Partners Slack Community](https://shopifypartners.slack.com/) - Official Shopify Partners Slack Channel. If you are a Partner, go to your resources tab and it should be linked there as well.
-- [Shopify Devs Discord Community](https://discord.com/invite/mdyHp6km2B) - Official Shopify Devs Discord Channel.
+- [Shopify Devs Discord Community](https://discord.com/invite/shopify-developers-597504637167468564) - Official Shopify Devs Discord Channel.
 - [eCommTalk](https://ecommtalk.com/) - A Slack Community created to bring Shopify lovers together.
 - [/r/shopify](https://www.reddit.com/r/shopify/) - The Shopify Reddit Community.
 
