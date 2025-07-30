@@ -66,7 +66,7 @@ Note: Are You A Merchant? - [Bring your ideas to life for $1/month](https://shop
 - [Shopify Polaris design system for Vue JS](https://github.com/ownego/polaris-vue) - Polaris Vue based on Shopify Polaris style guide, built especially for Vue 3.
 
 ### Hydrogen
-[Hydrogen](https://hydrogen.shopify.dev) - Shopify’s headless stack that’s engineered for performance and productivity. Build performant ecommerce faster with Shopify's React-based framework for developing custom storefronts.
+[Hydrogen](https://hydrogen.shopify.dev) - Shopify's headless stack that's engineered for performance and productivity. Build performant ecommerce faster with Shopify's React-based framework for developing custom storefronts.
 [Fluid](https://github.com/frontvibe/fluid) - Fluid is a Hydrogen theme that lets you easily build Shopify headless storefronts by organizing your content with Sanity.
 
 ### Dawn
