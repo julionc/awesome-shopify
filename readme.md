@@ -65,6 +65,9 @@ Note: Are You A Merchant? - [Bring your ideas to life for $1/month](https://shop
 - [Polaris icon explorer](https://polaris.shopify.com/icons) - A collection of simple and informative icons that draw on the visual language of the Polaris design system.
 - [Shopify Polaris design system for Vue JS](https://github.com/ownego/polaris-vue) - Polaris Vue based on Shopify Polaris style guide, built especially for Vue 3.
 
+### Horizon
+[Shopify Horizon](https://github.com/Shopify/horizon) - Horizon is the flagship of a new generation of first party Shopify themes.
+
 ### Hydrogen
 [Hydrogen](https://hydrogen.shopify.dev) - Shopify's headless stack that's engineered for performance and productivity. Build performant ecommerce faster with Shopify's React-based framework for developing custom storefronts.
 [Fluid](https://github.com/frontvibe/fluid) - Fluid is a Hydrogen theme that lets you easily build Shopify headless storefronts by organizing your content with Sanity.
