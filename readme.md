@@ -71,11 +71,14 @@
 
 ### Polaris React (Deprecated ⚠️)
 - [Polaris React](https://polaris-react.shopify.com/) - Legacy React component library. [GitHub](https://github.com/Shopify/polaris-react)
+- [Polaris Design Guidelines](https://polaris-react.shopify.com/design)
 - [Polaris Icon Explorer](https://polaris-react.shopify.com/icons)
+- [Polaris Components](https://github.com/RAAbbott/polaris-components) - Open-source collection of copy/paste UI components built using Shopify’s Polaris design system. 💡
 - [Polaris Vue](https://github.com/ownego/polaris-vue) - Vue 3 implementation.
 
 ### Hydrogen (Headless)
 - [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts. [Source code](https://github.com/Shopify/hydrogen).
+- [Hydrogen Demo Store](https://github.com/Shopify/hydrogen-demo-store) - Official Hydrogen + Remix template, with full setup of components, queries and tooling for building a headless Shopify storefront. Deployed at hydrogen.shop. 🚀
 - [Fluid](https://github.com/frontvibe/fluid) - Hydrogen + Sanity for structured content management.
 - [Pilot (Weaverse Hydrogen Theme)](https://github.com/Weaverse/pilot) - Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀
 
@@ -101,8 +104,11 @@ You can use the iOS and Android Buy SDK to integrate Shopify checkout into your 
 
 ### Checkout Sheet Kit
 
-- [Shopify Checkout Sheet Kit (React Native)](https://github.com/Shopify/checkout-sheet-kit-react-native) - Native module for embedding Shopify checkout in React Native apps. 🧰
-- [Shopify Checkout Sheet Kit (Swift)](https://github.com/Shopify/checkout-sheet-kit-swift) - Native Swift SDK for embedding Shopify’s one-page checkout UI directly into iOS apps. 🧰
+Native SDKs for embedding Shopify’s one-page checkout UI directly into mobile apps — supporting styling, lifecycle events, and full checkout integration.
+
+- [Shopify Checkout Sheet Kit (Android)](https://github.com/Shopify/checkout-sheet-kit-android)
+- [Shopify Checkout Sheet Kit (Swift)](https://github.com/Shopify/checkout-sheet-kit-swift)
+- [Shopify Checkout Sheet Kit (React Native)](https://github.com/Shopify/checkout-sheet-kit-react-native)
 
 ## Libraries
 
@@ -203,6 +209,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Ruby Examples
 
+- [Shopify App Template (Ruby)](https://github.com/Shopify/shopify-app-template-ruby) - A Rails + React template for building Shopify apps with OAuth, GraphQL & REST APIs, webhooks, and embedded support. 🧰
 - [Shopify Fulfillment Integration](https://github.com/Shopify/shopify-fulfillment-integration) - Example Fulfillment Service Integration with Shopify. ⚠️
 - [Hosted Payment Simulator](https://github.com/Shopify/hosted-payment-sim) - Example of using the [Hosted Payment SDK](https://shopify.dev/apps/payments/hosted-payment-sdk). ⚠️
 - [Shopify Surge Pricing](https://github.com/kevinhughes27/shopify-surge-pricing) - A demo of surge pricing for Shopify based on cart update webhooks. ⚠️
