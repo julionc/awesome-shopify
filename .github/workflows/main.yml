@@ -5,7 +5,7 @@ on:
   - pull_request
 
 jobs:
-  cache-and-install:
+  build:
     runs-on: ubuntu-latest
 
     steps:

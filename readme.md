@@ -90,9 +90,8 @@
 
 Integrate Shopify checkout with native apps using Buy SDKs.
 
-- [Shopify Mobile for Android](https://www.shopify.com/install/android)
+- [Shopify Mobile Apps](https://www.shopify.com/install)
 - [Shopify Mobile Buy SDK (Android)](https://github.com/Shopify/mobile-buy-sdk-android)
-- [Shopify Mobile for iPhone](https://www.shopify.com/install/mobile)
 - [Shopify Mobile Buy SDK (iOS)](https://github.com/Shopify/mobile-buy-sdk-ios)
 - [Learn more ›](https://shopify.dev/docs/storefronts/mobile)
 
@@ -129,10 +128,6 @@ You can use official Shopify libraries or any of the third party libraries below
 - [orbit-apps/elixir-shopifyapi](https://github.com/orbit-apps/elixir-shopifyapi) - ShopifyAPI and Plug.ShopifyAPI Elixir client.
 - [sticksnleaves/exshopify](https://github.com/sticksnleaves/exshopify) - Elixir client for the Shopify API. ⚠️
 
-### Haskell
-
-- [haskell-shopify](https://github.com/aaronlevin/haskell-shopify) - A type-safe Haskell client for the Shopify API. ⚠️
-
 ### Java
 
 - [ShopifyJavaSDK](https://github.com/smolloy/ShopifyJavaSDK) - Resteasy-based java client for the Shopify API.
@@ -147,19 +142,19 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### PHP
 
-- [Shopify API Library for PHP](https://github.com/Shopify/shopify-php-api) - Official library provides support for PHP Shopify apps to access the Shopify Admin API 🚀.
-- [pizdata/oauth2-shopify-php](https://github.com/pizdata/oauth2-shopify-php) - Shopify Provider for the OAuth 2.0 Client. ⏱
-- [multidimension-al/oauth2-shopify](https://github.com/multidimension-al/oauth2-shopify) - Shopify's OAuth 2.0 support for the PHP League's OAuth 2.0 Client. ⏱
-- [ShopifyExtras/PHP-Shopify-API-Wrapper](https://github.com/ShopifyExtras/PHP-Shopify-API-Wrapper) - Guzzle-based API client.⏱
+- [Shopify API Library for PHP](https://github.com/Shopify/shopify-api-php) - Official library provides support for PHP Shopify apps to access the Shopify Admin API 🚀.
 - [phpclassic/php-shopify](https://github.com/phpclassic/php-shopify) - PHP SDK for Shopify API.
-- [ZfrShopify](https://github.com/zf-fr/zfr-shopify) - Guzzle client around Shopify API.
-- [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development.
-- [donutdan4114/shopify](https://github.com/donutdan4114/shopify) - A simple Shopify PHP SDK for private apps to easily interact with the Shopify API. ⏱
-- [slince/shopify-api-php](https://github.com/slince/shopify-api-php) - Shopify API Client for PHP. ⏱
 - [ohmybrew/Basic-Shopify-API](https://github.com/osiset/Basic-Shopify-API) - A simple, tested, API wrapper for Shopify using Guzzle for REST and GraphQL.
 - [bold-shopify-toolkit](https://github.com/bold-commerce/bold-shopify-toolkit) - A Symfony Based Shopify api wrapper.
-- [oseintow/laravel-shopify](https://github.com/oseintow/laravel-shopify) - Laravel Shopify is a simple package which helps to build robust integration into Shopify. ⏱
-- [tothjmt/Laravel-Shopify](https://github.com/tothjmt/Laravel-Shopify) - A Laravel / Shopify API Wrapper. ⏱
+- [pizdata/oauth2-shopify-php](https://github.com/pizdata/oauth2-shopify-php) - Shopify Provider for the OAuth 2.0 Client. ⏱
+- [Kyon147/laravel-shopify](https://github.com/Kyon147/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development. ⏱
+- [multidimension-al/oauth2-shopify](https://github.com/multidimension-al/oauth2-shopify) - Shopify's OAuth 2.0 support for the PHP League's OAuth 2.0 Client. ⏱
+- [ShopifyExtras/PHP-Shopify-API-Wrapper](https://github.com/ShopifyExtras/PHP-Shopify-API-Wrapper) - Guzzle-based API client. ⏱
+- [ZfrShopify](https://github.com/zf-fr/zfr-shopify) - Guzzle client around Shopify API.
+- [slince/shopify-api-php](https://github.com/slince/shopify-api-php) - Shopify API Client for PHP. ⏱
+- [oseintow/laravel-shopify](https://github.com/oseintow/laravel-shopify) - Laravel Shopify is a simple package which helps to build robust integration into Shopify. ⚠️
+- [tothjmt/Laravel-Shopify](https://github.com/tothjmt/Laravel-Shopify) - A Laravel / Shopify API Wrapper. ⚠️
+- [donutdan4114/shopify](https://github.com/donutdan4114/shopify) - A simple Shopify PHP SDK for private apps to easily interact with the Shopify API. ⚠️
 
 ### R
 
@@ -176,18 +171,18 @@ You can use official Shopify libraries or any of the third party libraries below
 ### JavaScript Examples
 
 - [Shopify App Node](https://github.com/Shopify/shopify-app-template-node) - Boilerplate to create an embedded Shopify app made with Node, Next.js, Shopify-koa-auth, Polaris, and App Bridge React :sunny:.
-- [Storefront API Examples](https://github.com/Shopify/storefront-api-examples) - Example custom storefront applications built on Shopify's Storefront API.
-- [Product Reviews Sample App](https://github.com/Shopify/product-reviews-sample-app) - Sample app was built as a reference for how Shopify Developer tools can be used together to create a fully functional application.
-- [SmallAwesomeShop](https://github.com/JsssCode/SmallAwesomeShop) - An Angular 7 App example using Shopify's Storefront GraphQL API.
-- [Next.js App with Session Token](https://github.com/ctrlaltdylan/shopify-session-tokens-nextjs) - An example of a Shopify App powered by Next.js with Session Tokens (no custom server necessary).
-- [Vue Storefront 2](https://github.com/vuestorefront/shopify) - Frontend platform for headless commerce. ⚠️
-- [Shopify app with Node.js, MongoDB, React.js and Express](https://github.com/kinngh/shopify-node-express-mongodb-app) - Boilerplate embedded app made with Express.js, MongoDB and React.js with webhooks, GDPR routes, monetization and more hooked up and ready to go.
-- [Shopify App Starter (TypeScript, Mongo, Express, React)](https://github.com/yoMerce/shopify-app-starter) - A shopify app starter written in TypeScript. It uses MongoDB, Express and React.
-- [Shopify Discount App Components)](https://github.com/Shopify/discount-app-components) - A library of discounts-focused React components to help in building Shopify apps.
 - [Shopify App Template Remix](https://github.com/Shopify/shopify-app-template-remix) - A template for building a Shopify app using the Remix framework.
+- [Product Reviews Sample App](https://github.com/Shopify/product-reviews-sample-app) - Sample app was built as a reference for how Shopify Developer tools can be used together to create a fully functional application.
+- [Shopify Discount App Components)](https://github.com/Shopify/discount-app-components) - A library of discounts-focused React components to help in building Shopify apps.
+- [Storefront API Examples](https://github.com/Shopify/storefront-api-examples) - Example custom storefront applications built on Shopify's Storefront API. ⚠️
+- [Shopify app with Node.js, MongoDB, React.js and Express](https://github.com/kinngh/shopify-node-express-mongodb-app) - Boilerplate embedded app made with Express.js, MongoDB and React.js with webhooks, GDPR routes, monetization and more hooked up and ready to go.
+- [Shopify app with Next.js and Prisma ORM](https://github.com/kinngh/shopify-nextjs-prisma-app) - Starter template for building embedded Shopify apps using Next.js and Prisma ORM, preconfigured with essential integrations.
 - [Shopify App Vue Template](https://github.com/Mini-Sylar/shopify-app-vue-template) - Create a Shopify App with node and vue 3.
 - [VienDinhCom/next-shopify-storefront](https://github.com/VienDinhCom/next-shopify-storefront) - A shopping cart using TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Hydrogen, and GraphQL API.
-
+- [SmallAwesomeShop](https://github.com/JsssCode/SmallAwesomeShop) - An Angular 7 App example using Shopify's Storefront GraphQL API. ⚠️
+- [Next.js App with Session Token](https://github.com/ctrlaltdylan/shopify-session-tokens-nextjs) - An example of a Shopify App powered by Next.js with Session Tokens (no custom server necessary). ⚠️
+- [Vue Storefront 2](https://github.com/vuestorefront/shopify) - Frontend platform for headless commerce. ⚠️
+- [Shopify App Starter (TypeScript, Mongo, Express, React)](https://github.com/yoMerce/shopify-app-starter) - A shopify app starter written in TypeScript. It uses MongoDB, Express and React. ⚠️
 
 ### PHP Examples
 
@@ -222,6 +217,9 @@ You can use official Shopify libraries or any of the third party libraries below
 - [Shopify CLI](https://github.com/Shopify/cli) - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀. 
 - [Theme Kit](https://github.com/Shopify/themekit) - Shopify theme development command line tool. ⚠️
 - [Theme Check](https://github.com/Shopify/theme-check) - The Ultimate Shopify Theme Linter. ⚠️
+
+### CI/CD & Deployment
+- [Shopify Online Store (GitHub Marketplace)](https://github.com/marketplace/shopify-online-store) – Automates Shopify theme deployments from GitHub pushes, streamlining your CI/CD workflow.
 
 ### Editors
 - [Shopify Liquid for VS Code](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode)
