@@ -10,8 +10,7 @@
 > 💡 **Note for merchants:** [Bring your ideas to life for $1/month](https://shopify.pxf.io/ZQJOkq)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/julionc/awesome-shopify)
-![GitHub stars](https://img.shields.io/github/stars/julionc/awesome-shopify?style=social)
-![Get Shopify](https://img.shields.io/badge/get-shopify-green)
+![GitHub Repo stars](https://img.shields.io/github/stars/julionc/awesome-shopify)
 
 ## Contents
 
@@ -218,7 +217,8 @@ You can use official Shopify libraries or any of the third party libraries below
 - [Theme Check](https://github.com/Shopify/theme-check) - The Ultimate Shopify Theme Linter. ⚠️
 
 ### CI/CD & Deployment
-- [Shopify Online Store (GitHub Marketplace)](https://github.com/marketplace/shopify-online-store) – Automates Shopify theme deployments from GitHub pushes, streamlining your CI/CD workflow.
+
+- [Shopify Online Store (GitHub Marketplace)](https://github.com/marketplace/shopify-online-store) - Automates Shopify theme deployments from GitHub pushes, streamlining your CI/CD workflow.
 
 ### Editors
 - [Shopify Liquid for VS Code](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode)
