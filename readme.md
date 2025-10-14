@@ -75,14 +75,19 @@
 - [Polaris Vue](https://github.com/ownego/polaris-vue) - Vue 3 implementation.
 
 ### Hydrogen (Headless)
-- [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts.
+- [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts. [Source code](https://github.com/Shopify/hydrogen).
 - [Fluid](https://github.com/frontvibe/fluid) - Hydrogen + Sanity for structured content management.
+- [Pilot (Weaverse Hydrogen Theme)](https://github.com/Weaverse/pilot) - Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀
 
 ### Liquid Template
 
 - [Liquid](https://shopify.github.io/liquid/) - Template language created by Shopify.
 - [Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet) - A resource for building Shopify Themes with Liquid.
 - [Liquid template language reference](https://shopify.dev/docs/api/liquid) - Liquid is the backbone of all Shopify themes, and is used to load dynamic content to the pages of online stores.
+
+### Others
+
+- [Shopify UI Extensions](https://github.com/Shopify/ui-extensions) – Repo for the public definition of Shopify’s UI extension APIs. Developers use this to build strongly-typed UI extensions for Shopify surfaces. 🧰
 
 ## Mobile
 
