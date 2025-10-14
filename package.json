@@ -1,7 +1,7 @@
 {
 	"scripts": {
 		"lint": "npx awesome-lint readme.md",
-		"links": "npx markdown-link-check --progress --config config.json readme.md"
+		"links": "npx markdown-link-check --quiet --config config.json readme.md"
 	},
 	"devDependencies": {
 		"awesome-lint": "^2.2.2",

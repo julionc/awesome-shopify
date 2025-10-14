@@ -3,6 +3,9 @@
   "ignorePatterns": [
     {
       "pattern": "^https://www\\.figma\\.com"
+    },
+    {
+      "pattern": "^https://(www\\.)?reddit\\.com"
     }
   ],
   "replacementPatterns": [],
