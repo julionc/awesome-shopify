@@ -1,6 +1,7 @@
 {
 	"scripts": {
-		"lint": "awesome-lint"
+		"lint": "awesome-lint",
+		"check-links": "npx markdown-link-check -p -c config.json readme.md"
 	},
 	"devDependencies": {
 		"awesome-lint": "^2.2.2",
