@@ -1,6 +1,6 @@
 # Awesome Shopify [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[<img src="shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/free-trial?ref=vitalogy)
+[<img src="media/shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/free-trial?ref=vitalogy)
 
 > A curated list of awesome [Shopify](https://www.shopify.com) resources, libraries and open source projects.
 
@@ -12,7 +12,7 @@ Note: Are You A Merchant? - [Bring your ideas to life for $1/month](https://shop
 
 ## Contents
 
-- [Community](#community)
+- [Official](#official)
 - [Documentation](#documentation)
 - [Front-end Development](#front-end-development)
 - [Mobile](#mobile)
@@ -36,46 +36,37 @@ Note: Are You A Merchant? - [Bring your ideas to life for $1/month](https://shop
   - [Elixir Examples](#elixir-examples)
 - [Code Snippets](#code-snippets)
 - [Tools](#tools)
+- [Community](#community)
 
-## Community
 
-- [@ShopifyDevs](https://twitter.com/ShopifyDevs) - A Shopify Devs Team Twitter account.
-- [Community Discussion Forums](https://community.shopify.com/) - Discussing eCommerce best practices and how to have a successful online store.
-- [Shopify community for partners and developers](https://community.shopify.dev) - The Official Shopify Partners And Developers Forum.
-- [Shopify Partners Slack Community](https://shopifypartners.slack.com/) - Official Shopify Partners Slack Channel. If you are a Partner, go to your resources tab and it should be linked there as well.
-- [Shopify Devs Discord Community](https://discord.com/invite/shopify-developers-597504637167468564) - Official Shopify Devs Discord Channel.
-- [eCommTalk](https://ecommtalk.com/) - A Slack Community created to bring Shopify lovers together.
-- [/r/shopify](https://www.reddit.com/r/shopify/) - The Shopify Reddit Community.
-
-## Documentation
+## Official
 
 - [Developer changelog](https://shopify.dev/changelog) - The Official Developer Changelog blog with important changes to APIs and other developer products.
 - [Developer guides](https://shopify.dev) - If you're new to developing apps for Shopify, take a look at the official guides to get an overview of the process.
-- [Shopify - The OAuth flow for Authentication](https://shopify.dev/apps/auth/oauth) - This guide introduces the OAuth flow for public apps and custom apps that are created in the Partner Dashboard.
 - [Shopify Partner Account](https://www.shopify.com/partners?ref=vitalogy) - If you don't have a Shopify Partner account yet head over here and create one, you'll need it before you can start developing apps.
-- [Requirements for apps in the Shopify App Store](https://shopify.dev/apps/store/requirements) - For submitting apps to the Shopify App Store.
+
+## Documentation
+
+- [Shopify - The OAuth flow for Authentication](https://shopify.dev/docs/apps/build/authentication-authorization/access-tokens/authorization-code-grant) - This guide introduces the OAuth flow for public apps and custom apps that are created in the Partner Dashboard.
+- [Requirements for apps in the Shopify App Store](https://shopify.dev/docs/apps/launch/app-requirements-checklist) - For submitting apps to the Shopify App Store.
 - [Everything You Need to Know About Development Stores](https://www.shopify.com/partners/blog/development-stores?ref=vitalogy) - You need to be familiar with development stores. They are used for testing and installing your apps, providing example stores running your app, and for signing up clients to Shopify. .
 
 ## Front-end Development
 
-### UI/UX
-
-- [Shopify Polaris](https://polaris.shopify.com) - Polaris is a React component library designed to help developers create the best experience for merchants. [GitHub](https://github.com/Shopify/polaris) :sunny:.
-- [Shopify Polaris for Admin Figma UI kit](https://www.figma.com/@shopify) - Polaris for Admin Web UI kit is now available in Figma. You can access the full kit in Figma with reusable components and up-to-date Polaris guidelines, icons, and color palette.
-- [Polaris icon explorer](https://polaris.shopify.com/icons) - A collection of simple and informative icons that draw on the visual language of the Polaris design system.
+### React (deprecated ⚠️)
+- [Polaris Design System for React](https://polaris-react.shopify.com/) - Polaris is a React component library designed to help developers create the best experience for merchants. [GitHub](https://github.com/Shopify/polaris-react) ⚠️.
+- [Shopify Polaris for Figma UI kit](https://www.figma.com/@shopify) - Polaris for Admin Web UI kit is now available in Figma. You can access the full kit in Figma with reusable components and up-to-date Polaris guidelines, icons, and color palette.
+- [Polaris icon explorer](https://polaris-react.shopify.com/icons) - A collection of simple and informative icons that draw on the visual language of the Polaris design system.
 - [Shopify Polaris design system for Vue JS](https://github.com/ownego/polaris-vue) - Polaris Vue based on Shopify Polaris style guide, built especially for Vue 3.
 
 ### Horizon
-[Shopify Horizon](https://github.com/Shopify/horizon) - Horizon is the flagship of a new generation of first party Shopify themes.
+- [Shopify Horizon](https://github.com/Shopify/horizon) - Horizon is the flagship of a new generation of first party Shopify themes.
 
 ### Hydrogen
-[Hydrogen](https://hydrogen.shopify.dev) - Shopify's headless stack that's engineered for performance and productivity. Build performant ecommerce faster with Shopify's React-based framework for developing custom storefronts.
-[Fluid](https://github.com/frontvibe/fluid) - Fluid is a Hydrogen theme that lets you easily build Shopify headless storefronts by organizing your content with Sanity.
+- [Hydrogen](https://hydrogen.shopify.dev) - Shopify's headless stack that's engineered for performance and productivity. Build performant ecommerce faster with Shopify's React-based framework for developing custom storefronts.
+- [Fluid](https://github.com/frontvibe/fluid) - Hydrogen theme for building Shopify headless storefronts powered by Sanity for structured content management.
 
 ### Dawn
-
-[Dawn](https://shopify.dev/themes/tools/dawn) is Shopify's reference theme, which is built for performance, flexibility, and ease of use. It uses [Online Store 2.0](https://shopify.dev/themes/os20) features
-
 - [Shopify Dawn](https://github.com/Shopify/dawn) - Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.
 - [Figma - Shopify's Dawn Theme - Online Store 2.0](https://www.figma.com/community/file/1017615468313501249) - If you're designing themes for the new Shopify online store 2.0 and you wished you had the Dawn theme as a nicely put together Figma file.
 
@@ -85,24 +76,9 @@ Note: Are You A Merchant? - [Bring your ideas to life for $1/month](https://shop
 - [Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet) - A resource for building Shopify Themes with Liquid.
 - [Liquid template language reference](https://shopify.dev/docs/api/liquid) - Liquid is the backbone of all Shopify themes, and is used to load dynamic content to the pages of online stores.
 
-### Others
+## Mobile 
 
-- [Liquid Ajax Cart](https://liquid-ajax-cart.js.org) - A JavaScript library for building Shopify Ajax-carts using Liquid templates.
-- [Cart.js](https://cartjs.org) - A JavaScript library to power your Shopify theme's cart.
-- [Helium](https://github.com/idbakkasse/helium) - A Shopify theme environment from scratch ⚙️, with Online Store 2.0 features. Built with performance ⚡️ and best practices in mind, has hot Module Reloading on SASS/ES6 file changes for rapid development and many more other features out of the box.
-- [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab) - Customizable modular development environment for blazing-fast Shopify theme creation, bundled with Vue.js and Tailwind CSS.
-- [Shopify Packer](https://github.com/hayes0724/shopify-packer) - Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
-- [Setup and use Shopify metafields in your custom storefront](https://www.zauberware.com/en/articles/2019/setup-and-use-shopify-metafields-in-your-custom-storefront/) - Using GraphQL API to create and get Shopify Metafields.
-- [Foundationify](https://github.com/lukebussey/foundationify) - A theme for Shopify based on the responsive Zurb Foundation 5 framework.
-- [Uptown CSS](https://github.com/shoppad/uptowncss/) - A semantic toolkit designed to help developers build fully-responsive Shopify Apps.
-- [ks-bootshop](https://github.com/kondasoft/ks-bootshop) - Free Shopify Theme focused on simplicity, speed, and user experience. Based Bootstrap v5.
-- [Slate](https://github.com/Shopify/slate) - Toolkit for developing Shopify themes. ⚠️
-- [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme. ⚠️
-- [shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js. ⚠️
-
-## Mobile
-
-You can use the iOS and Android Buy SDK to integrate Shopify checkout into your mobile applications. This lets you sell any of your physical products through the app and track sales info in your Shopify Admin. [Learn more here›](https://shopify.dev/custom-storefronts/tools).
+You can use the iOS and Android Buy SDK to integrate Shopify checkout into your mobile applications. This lets you sell any of your physical products through the app and track sales info in your Shopify Admin. [Learn more here›](https://shopify.dev/docs/storefronts/mobile).
 
 ### Android
 
@@ -282,10 +258,19 @@ A Open Source Projects
 
 ### Utilities
 
+- [Shopify Product CSVs](https://github.com/shopifypartners/product-csvs) - Get your Shopify development stores started with great product data.
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
 - [Sketch Shopify Data Populator](https://github.com/shopifypartners/sketch-shopify-data-populator) - A Sketch App plugin to populate your designs with meaningful ecommerce data.
-- [City Ecommerce UI Kit](https://github.com/shopifypartners/City-Ecommerce-UI-Kit) - City is our free ecommerce UI kit based on a fictional fashion apparel shop. (Prototyping Shopify Store design)
+- [City Ecommerce UI Kit](https://github.com/shopifypartners/City-Ecommerce-UI-Kit) - Free eCommerce UI kit for Sketch, designed for prototyping Shopify stores based on a fictional fashion brand.
 
 ### Raycast Extension
-- [Search Shopify Liquid Documentation](https://www.raycast.com/maximedaraize/search-shopify-liquid-documentation) - Raycast extension to preview and access Shopify documentation.
-- [Shopify Developer Changelog](https://www.raycast.com/sandypockets/shopify-developer-changelog) - Raycast extension listing the Shopify changlog.
+- [Search Shopify Liquid Documentation](https://www.raycast.com/maximedaraize/search-shopify-liquid-documentation) - Search and preview Shopify Liquid docs in Raycast.
+- [Shopify Developer Changelog](https://www.raycast.com/sandypockets/shopify-developer-changelog) - View the latest Shopify developer changelog directly from Raycast.
+
+## Community
+
+- [X](https://x.com/ShopifyDevs)
+- [Reddit](https://www.reddit.com/r/shopify/)
+- [Dev Community](https://community.shopify.dev) - Shopify Developer Community Forums.
+- [Dev Discord](https://discord.com/invite/shopify-developers-597504637167468564) - Official Shopify Developers Discord server.
+- [Merchants Community](https://community.shopify.com/) - Discussing eCommerce best practices and how to have a successful online store.
