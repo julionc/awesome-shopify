@@ -4,6 +4,6 @@
 	},
 	"devDependencies": {
 		"awesome-lint": "^1.2.0",
-		"markdown-link-check": "^3.13.7"
+		"markdown-link-check": "^3.14.1"
 	}
 }
