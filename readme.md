@@ -91,12 +91,18 @@
 
 ## Mobile
 
-Integrate Shopify checkout with native apps using Buy SDKs.
+### Buy SDK
 
-- [Shopify Mobile Apps](https://www.shopify.com/install)
-- [Shopify Mobile Buy SDK (Android)](https://github.com/Shopify/mobile-buy-sdk-android)
-- [Shopify Mobile Buy SDK (iOS)](https://github.com/Shopify/mobile-buy-sdk-ios)
-- [Learn more ›](https://shopify.dev/docs/storefronts/mobile)
+You can use the iOS and Android Buy SDK to integrate Shopify checkout into your mobile applications. This lets you sell physical products directly through your app and track sales in your Shopify Admin. [Learn more ›](https://shopify.dev/docs/storefronts/mobile)
+
+- [Shopify Mobile Apps](https://www.shopify.com/install) - Official Shopify mobile app for merchants.
+- [Shopify Mobile Buy SDK (Android)](https://github.com/Shopify/mobile-buy-sdk-android) - Android SDK to integrate Shopify checkout within native apps. 🧰
+- [Shopify Mobile Buy SDK (iOS)](https://github.com/Shopify/mobile-buy-sdk-ios) - iOS SDK to integrate Shopify checkout within native apps. 🧰
+
+### Checkout Sheet Kit
+
+- [Shopify Checkout Sheet Kit (React Native)](https://github.com/Shopify/checkout-sheet-kit-react-native) - Native module for embedding Shopify checkout in React Native apps. 🧰
+- [Shopify Checkout Sheet Kit (Swift)](https://github.com/Shopify/checkout-sheet-kit-swift) - Native Swift SDK for embedding Shopify’s one-page checkout UI directly into iOS apps. 🧰
 
 ## Libraries
 
