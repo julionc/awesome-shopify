@@ -1,7 +1,7 @@
 # Awesome Shopify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-[<img src="shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/free-trial?ref=vitalogy)
+[<img src="media/shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/free-trial?ref=vitalogy)
 
 > A curated list of awesome [Shopify](https://www.shopify.com) resources, libraries and open source projects.
 
@@ -87,7 +87,7 @@ Note: Are You A Merchant? - [Bring your ideas to life for $1/month](https://shop
 - [Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet) - A resource for building Shopify Themes with Liquid.
 - [Liquid template language reference](https://shopify.dev/docs/api/liquid) - Liquid is the backbone of all Shopify themes, and is used to load dynamic content to the pages of online stores.
 
-## Mobile 
+## Mobile
 
 You can use the iOS and Android Buy SDK to integrate Shopify checkout into your mobile applications. This lets you sell any of your physical products through the app and track sales info in your Shopify Admin. [Learn more here›](https://shopify.dev/docs/storefronts/mobile).
 
@@ -167,7 +167,6 @@ You can use official Shopify libraries or any of the third party libraries below
 - [slince/shopify-api-php](https://github.com/slince/shopify-api-php) - Shopify API Client for PHP.
 - [ohmybrew/Basic-Shopify-API](https://github.com/osiset/Basic-Shopify-API) - A simple, tested, API wrapper for Shopify using Guzzle for REST and GraphQL.
 - [osiset/laravel-shopify](https://github.com/osiset/laravel-shopify) - A full-featured Laravel package for aiding in Shopify App development.
-- [buy-button-wordpress](https://github.com/Shopify/buy-button-wordpress) - Wordpress plugin for the Buy Button.
 - [bold-shopify-toolkit](https://github.com/bold-commerce/bold-shopify-toolkit) - A Symfony Based Shopify api wrapper.
 - [oseintow/laravel-shopify](https://github.com/oseintow/laravel-shopify) - Laravel Shopify is a simple package which helps to build robust integration into Shopify.
 - [tothjmt/Laravel-Shopify](https://github.com/tothjmt/Laravel-Shopify) - A Laravel / Shopify API Wrapper.
@@ -259,7 +258,7 @@ A Open Source Projects
 
 - [Ngrok](https://ngrok.com) - A tool that makes it easy to expose your development environment to Internet.
 - [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) - The Cloudflare Tunnel to configure local server using cloudflare.
-- [RequestBin](https://requestbin.net/) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/en/manual/fulfillment/setup/notifications/webhooks) are.
+- [RequestBin](https://requestbin.net/) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://shopify.dev/docs/api/webhooks) are.
 - [Hookdeck](https://hookdeck.com/) - Tool for monitoring, managing and debugging Shopify Webhooks with custom retry logic, alerts, and filtering.
 - [DeployHQ](https://www.deployhq.com/shopify) - Shopify integration in DeployHQ is a great way to streamline the development, review, and deployment of your store themes.
 
