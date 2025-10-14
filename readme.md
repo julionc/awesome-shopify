@@ -26,7 +26,6 @@
   - [JavaScript](#javascript)
   - [DotNet](#dotnet)
   - [Elixir](#elixir)
-  - [Haskell](#haskell)
   - [Java](#java)
   - [Golang](#golang)
   - [PHP](#php)
