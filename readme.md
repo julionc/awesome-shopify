@@ -81,9 +81,9 @@ Note: Are You A Merchant? - [Bring your ideas to life for $1/month](https://shop
 
 ### Liquid Template
 
-- [Liquid](https://shopify.github.io/liquid/) - Liquid is safe, customer-facing template language for flexible web apps.
+- [Liquid](https://shopify.github.io/liquid/) - Template language created by Shopify. Is safe, customer-facing template language for flexible web apps.
 - [Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet) - A resource for building Shopify Themes with Liquid.
-- [Liquid template language reference](https://shopify.dev/api/liquid) - Liquid is the backbone of all Shopify themes, and is used to load dynamic content to the pages of online stores.
+- [Liquid template language reference](https://shopify.dev/docs/api/liquid) - Liquid is the backbone of all Shopify themes, and is used to load dynamic content to the pages of online stores.
 
 ### Others
 
@@ -94,9 +94,9 @@ Note: Are You A Merchant? - [Bring your ideas to life for $1/month](https://shop
 - [Shopify Packer](https://github.com/hayes0724/shopify-packer) - Modern development tool for Shopify using Webpack 5. Easy to extend and customize, zero build config, compatible with Slate and existing websites.
 - [Setup and use Shopify metafields in your custom storefront](https://www.zauberware.com/en/articles/2019/setup-and-use-shopify-metafields-in-your-custom-storefront/) - Using GraphQL API to create and get Shopify Metafields.
 - [Foundationify](https://github.com/lukebussey/foundationify) - A theme for Shopify based on the responsive Zurb Foundation 5 framework.
-- [Uptown CSS](https://github.com/shoppad/uptowncss/) - Uptown CSS is a semantic toolkit designed to help developers build fully-responsive Shopify Apps.
+- [Uptown CSS](https://github.com/shoppad/uptowncss/) - A semantic toolkit designed to help developers build fully-responsive Shopify Apps.
 - [ks-bootshop](https://github.com/kondasoft/ks-bootshop) - Free Shopify Theme focused on simplicity, speed, and user experience. Based Bootstrap v5.
-- [Slate](https://github.com/Shopify/slate) - Slate is a toolkit for developing Shopify themes, designed to assist your workflow and speed up the process of developing, testing, and deploying themes. ⚠️
+- [Slate](https://github.com/Shopify/slate) - Toolkit for developing Shopify themes. ⚠️
 - [Shopify Skeleton theme](https://github.com/Shopify/skeleton-theme) - A simplified Shopify theme. ⚠️
 - [shopify-css-import](https://github.com/Shopify/shopify-css-import) - Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js. ⚠️
 
@@ -142,7 +142,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) - Shopify JavaScript Buy SDK.
 - [shopify-api-node](https://github.com/MONEI/Shopify-api-node) - Node.js Shopify connector.
 - [shopify-node-api](https://github.com/christophergregory/shopify-node-api) - OAuth2 Module for Shopify API.
-- [shopify-nextjs-toolbox](https://github.com/ctrlaltdylan/shopify-nextjs-toolbox) - A set of server side and client side NextJs utilities for integrating with Shopify's OAuth & App Bridge authentication.
+- [shopify-nextjs-toolbox](https://github.com/ctrlaltdylan/shopify-nextjs-toolbox) - A set of server side and client side Next.js utilities for integrating with Shopify's OAuth & App Bridge authentication.
 - [nestjs-shopify](https://github.com/nestjs-shopify/nestjs-shopify) - Packages to develop Shopify application using NestJS.
 
 ### DotNet
@@ -208,10 +208,10 @@ A Open Source Projects
 - [Storefront API Examples](https://github.com/Shopify/storefront-api-examples) - Example custom storefront applications built on Shopify's Storefront API.
 - [Product Reviews Sample App](https://github.com/Shopify/product-reviews-sample-app) - Sample app was built as a reference for how Shopify Developer tools can be used together to create a fully functional application.
 - [SmallAwesomeShop](https://github.com/JsssCode/SmallAwesomeShop) - An Angular 7 App example using Shopify's Storefront GraphQL API.
-- [Next.JS App with Session Token](https://github.com/ctrlaltdylan/shopify-session-tokens-nextjs) - An example of a Shopify App powered by NextJS with Session Tokens (no custom server necessary).
-- [Vue Storefront 2](https://github.com/vuestorefront/shopify) - Vue Storefront 2 integration for Shopify.
+- [Next.js App with Session Token](https://github.com/ctrlaltdylan/shopify-session-tokens-nextjs) - An example of a Shopify App powered by Next.js with Session Tokens (no custom server necessary).
+- [Vue Storefront 2](https://github.com/vuestorefront/shopify) - Frontend platform for headless commerce. ⚠️
 - [Shopify app with Node.js, MongoDB, React.js and Express](https://github.com/kinngh/shopify-node-express-mongodb-app) - Boilerplate embedded app made with Express.js, MongoDB and React.js with webhooks, GDPR routes, monetization and more hooked up and ready to go.
-- [Shopify App Starter (Typescript, Mongo, Express, React)](https://github.com/yoMerce/shopify-app-starter) - A shopify app starter written in Typescript. It uses Mongodb, Express and React.
+- [Shopify App Starter (TypeScript, Mongo, Express, React)](https://github.com/yoMerce/shopify-app-starter) - A shopify app starter written in TypeScript. It uses MongoDB, Express and React.
 - [Shopify Discount App Components)](https://github.com/Shopify/discount-app-components) - A library of discounts-focused React components to help in building Shopify apps.
 - [Shopify App Template Remix](https://github.com/Shopify/shopify-app-template-remix) - A template for building a Shopify app using the Remix framework.
 - [Shopify App Vue Template](https://github.com/Mini-Sylar/shopify-app-vue-template) - Create a Shopify App with node and vue 3.
@@ -255,7 +255,7 @@ A Open Source Projects
 
 ### Command Line Tools
 
-- [Shopify CLI](https://github.com/Shopify/shopify-cli) - Shopify CLI helps you build against the Shopify platform faster 🚀.
+- [Shopify CLI](https://github.com/Shopify/cli) - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀. 
 - [Shopify Theme Kit](https://github.com/Shopify/themekit) - Shopify theme development command line tool. ⚠️
 - [Shopify Theme Check](https://github.com/Shopify/theme-check) - The Ultimate Shopify Theme Linter. ⚠️
 - [ziplinesFly](http://ziplines.pixelcab.in) - Fly into Shopify development with ease workflow.
@@ -273,11 +273,11 @@ A Open Source Projects
 
 ### Services
 
-- [Ngrok](https://ngrok.com) - Ngrok is a tool that makes it easy to expose your development environment to Internet.
-- [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) - Cloudflare Tunnel to configure local server using cloudflare.
+- [Ngrok](https://ngrok.com) - A tool that makes it easy to expose your development environment to Internet.
+- [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/) - The Cloudflare Tunnel to configure local server using cloudflare.
 - [RequestBin](https://requestbin.net/) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://help.shopify.com/en/manual/orders/notifications/webhooks) are.
-- [Hookdeck](https://hookdeck.com/) - Hookdeck is a tool to monitor your [Shopify Webhooks](https://shopify.dev/api/admin/rest/reference/events/webhook) with custom retry logic, alerts and filtering.
-- [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connects with Shopify, Google & Facebook Ads, Postgres, Redshift, Snowflake, etc.
+- [Hookdeck](https://hookdeck.com/) - The Hookdeck is a tool to monitor your [Shopify Webhooks](https://shopify.dev/api/admin/rest/reference/events/webhook) with custom retry logic, alerts and filtering.
+- [Chaos Genius](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connects with Shopify, Google & Facebook Ads, PostgreSQL, Redshift, Snowflake, etc.
 - [DeployBot](https://deploybot.com/) - Shopify integration in DeployBot is a great way to streamline the development, review, and deployment of your store themes.
 
 ### Utilities
