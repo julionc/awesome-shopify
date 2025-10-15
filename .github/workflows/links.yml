@@ -27,7 +27,8 @@ jobs:
         with:
           node-version: '24'
           cache: 'pnpm'
-      - run: pnpm install
+          cache-dependency-path: './pnpm-lock.yaml'
+      - run: pnpm install --frozen-lockfile
       - name: Check Markdown Links
         run: pnpm run links
         continue-on-error: true

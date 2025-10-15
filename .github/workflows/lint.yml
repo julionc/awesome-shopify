@@ -27,6 +27,7 @@ jobs:
         with:
           node-version: '24'
           cache: 'pnpm'
-      - run: pnpm install
+          cache-dependency-path: './pnpm-lock.yaml'
+      - run: pnpm install --frozen-lockfile
       - name: Run Awesome Lint
         run: pnpm run lint
