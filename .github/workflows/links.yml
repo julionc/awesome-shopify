@@ -20,8 +20,16 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
       - name: Check Markdown Links
-        run: |
-          echo "🔗 Running markdown-link-check..."
-          npx markdown-link-check --quiet --config config.json readme.md || echo "⚠️ Some links might be broken, please review manually."
+        run: pnpm run links
         continue-on-error: true
