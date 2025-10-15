@@ -31,6 +31,7 @@
   - [R](#r)
   - [Rust](#rust)
 - [Example Apps](#example-apps)
+  - [Shopify App Templates](#shopify-app-templates)
   - [JavaScript Examples](#javascript-examples)
   - [PHP Examples](#php-examples)
   - [Python Examples](#python-examples)
