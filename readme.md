@@ -183,6 +183,14 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ## Example Apps
 
+### Shopify App Templates
+
+- [Shopify Payments App Template (Remix)](https://github.com/Shopify/example-app--payments-app-template--remix) - Remix template for building Shopify apps with payments integration (Payments App API support). 🚀
+- [Shopify Credit Card Payments Template (Remix)](https://github.com/Shopify/example-app--credit-card-payments-app-template--remix) - Remix example showing Credit Card Payments integration using Shopify’s Payments API. 🏦
+- [Shopify App Template (React Router)](https://github.com/Shopify/shopify-app-template-react-router) - Template for Shopify apps using React Router for routing instead of Next.js or Remix.
+- [Shopify Optional Scopes Example (Remix)](https://github.com/Shopify/example-app--optional-scopes--remix) - Example showing how to request optional API scopes during app installation, built with Remix.
+- [Shopify Address Autocomplete Example (Preact)](https://github.com/Shopify/example-checkout--address-autocomplete--preact) - Checkout example using Preact to demonstrate address autocomplete enhancements on Shopify checkout.
+
 ### JavaScript Examples
 
 - [Shopify App Node](https://github.com/Shopify/shopify-app-template-node) - Boilerplate to create an embedded Shopify app made with Node, Next.js, Shopify-koa-auth, Polaris, and App Bridge React :sunny:.
