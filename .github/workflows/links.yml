@@ -1,0 +1,27 @@
+name: Check Markdown Links
+
+on:
+  schedule:
+    # Run on Mondays at 9:00 UTC, every 2 weeks
+    - cron: '0 9 */14 * *'
+  workflow_dispatch: # Allows manual execution
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  link-check:
+    name: Check Markdown Links
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Check Markdown Links
+        run: |
+          echo "🔗 Running markdown-link-check..."
+          npx markdown-link-check --quiet --config config.json readme.md || echo "⚠️ Some links might be broken, please review manually."
+        continue-on-error: true
