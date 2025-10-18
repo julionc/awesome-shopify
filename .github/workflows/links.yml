@@ -11,21 +11,11 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  link-check:
-    name: Check Markdown Links
-    permissions:
-      contents: read
+  markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
-        with:
-          fetch-depth: 1
-      - uses: actions/setup-node@v6
-        with:
-          node-version: '24'
-          cache: 'npm'
-          cache-dependency-path: './package-lock.json'
-      - run: npm ci
-      - name: Check Markdown Links
-        run: npm run links
-        continue-on-error: true
+    - uses: actions/checkout@v4
+    - uses: tcort/github-action-markdown-link-check@v1
+      with:
+        use-quiet-mode: 'yes'
+        config-file: 'config.json'
