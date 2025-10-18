@@ -6,15 +6,33 @@ on:
     - cron: '0 9 */14 * *'
   workflow_dispatch: # Allows manual execution
 
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
+  concurrency:
+    group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
-jobs:
-  markdown-link-check:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v4
-    - uses: tcort/github-action-markdown-link-check@v1
-      with:
-        use-quiet-mode: 'yes'
+  jobs:
+    markdown-link-check:
+      name: Markdown Link Check
+      runs-on: ubuntu-latest
+      permissions:
+        contents: read
+
+      steps:
+        - uses: actions/checkout@v5
+          with:
+            fetch-depth: 0
+
+        - uses: pnpm/action-setup@v4
+          with:
+            version: 10
+
+        - uses: actions/setup-node@v6
+          with:
+            node-version: '20'
+            cache: 'pnpm'
+
+        - name: Install dependencies
+          run: pnpm install --frozen-lockfile
+
+        - name: Run Links
+          run: pnpm run links
