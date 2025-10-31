@@ -146,7 +146,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Java
 
-- [ShopifyJavaSDK](https://github.com/smolloy/ShopifyJavaSDK) - Resteasy-based java client for the Shopify API.
+- [Shopify Java SDK](https://github.com/ChannelApe/shopify-sdk) - Java SDK for Shopify REST APIs.
 - [shopify-api-java-wrapper](https://github.com/SevenSpikes/shopify-api-java-wrapper) - The Java wrapper for the Shopify API. ⚠️
 
 ### Golang
