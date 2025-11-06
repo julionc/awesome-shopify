@@ -280,6 +280,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 - [Shopify Devs on X](https://x.com/ShopifyDevs)
 - [Reddit – /r/shopify](https://www.reddit.com/r/shopify/)
+- [Reddit – /r/shopifyDev](https://www.reddit.com/r/shopifyDev/)
 - [Shopify Figma Community](https://www.figma.com/@Shopify)
 - [Developer Forums](https://community.shopify.dev) - Shopify Developer Community Forums.
 - [Developers Discord](https://discord.com/invite/shopify-developers-597504637167468564) - Official Shopify Developers Discord server.
