@@ -137,7 +137,6 @@ You can use official Shopify libraries or any of the third party libraries below
 ### DotNet
 
 - [nozzlegear/ShopifySharp](https://github.com/nozzlegear/ShopifySharp) - A .NET library for Shopify.
-- [agileharbor/shopifyAccess](https://github.com/skuvault-integrations/shopifyAccess) - Shoppify API .NET wrapper.
 
 ### Elixir
 
