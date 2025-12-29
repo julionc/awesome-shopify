@@ -255,7 +255,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### Services
 
 - [Ngrok](https://ngrok.com) - A tool that makes it easy to expose your development environment to Internet.
-- [Calcmatic](https://calcmatic.app) - Free online calculators for ecommerce profit, payment processing fees, shipping costs, and personal finance.
+- [Calcmatic Shopify Payment Calculator](https://calcmatic.app/calculators/ecommerce/shopify-payments) - Calculate your Shopify payment processing fees instantly.
 - [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) - To configure local server using cloudflare.
 - [RequestBin](https://requestbin.net/) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://shopify.dev/docs/api/webhooks) are.
 - [Hookdeck](https://hookdeck.com/) - Tool for monitoring, managing and debugging Shopify Webhooks with custom retry logic, alerts, and filtering.
