@@ -265,7 +265,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [Shopify Theme Inspector for Chrome](https://chrome.google.com/webstore/detail/shopify-theme-inspector-f/fndnankcflemoafdeboboehphmiijkgp) - Profile and debug Liquid template on your Shopify store.
 - [Shopify App Detector](https://chrome.google.com/webstore/detail/shopify-app-detector-by-f/lhfdhjladfcmghahdbcmlceajdlbkale) - Detect which apps and what theme a Shopify store is using. [GitHub](https://github.com/feracommerce/shopify_app_detector)
 - [Shopify Theme Wizard](https://chrome.google.com/webstore/detail/shopify-app-detector-by-e/fhkelfkhcaokghlkckfgjoejhanelped) - Detect which theme a Shopify store is using.
-- [Shopify Theme Detector](https://podifai.com/tools/shopify-theme-detector/) - Free web-based tool to detect which Shopify theme any store is using. Supports batch detection. No extension install required.
+- [Shopify Theme Detector](https://shopifythemedetector.com) - Free tool to identify what Shopify theme any store is using, including theme version, customizations, and technology stack.
 
 ### Raycast Extension
 
