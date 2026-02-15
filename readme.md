@@ -222,7 +222,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [Hosted Payment Simulator](https://github.com/Shopify/hosted-payment-sim) - Example of using the [Hosted Payment SDK](https://shopify.dev/apps/payments/hosted-payment-sdk). ⚠️
 - [Shopify Surge Pricing](https://github.com/kevinhughes27/shopify-surge-pricing) - A demo of surge pricing for Shopify based on cart update webhooks. ⚠️
 - [shopify-tax-receipts](https://github.com/kevinhughes27/shopify-tax-receipts) - Shopify app for automatically sending tax receipts when specified products are purchased. ⚠️
-- [partner-metrics-for-shopify](https://github.com/forsbergplustwo/partner-metrics-for-shopify) - Metrics Dashboard for Shopify Partners, on Rails. ⚠️
+- [partner-metrics](https://github.com/forsbergplustwo/partner-metrics) - Metrics Dashboard for Shopify Partners, on Rails. ⚠️
 - [Shopify app starter kit](https://github.com/ASoftCo/shopify-app-starter-kit) - A Shopify app boilerplate written in Ruby on Rails with appropriate tools to get your Shopify app up and running quickly. ⚠️
 
 ### Elixir Examples
