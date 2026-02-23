@@ -82,6 +82,7 @@
 - [Hydrogen Demo Store](https://github.com/Shopify/hydrogen-demo-store) - Official Hydrogen + Remix template, with full setup of components, queries and tooling for building a headless Shopify storefront. Deployed at hydrogen.shop. 🚀
 - [Fluid](https://github.com/frontvibe/fluid) - Hydrogen + Sanity for structured content management.
 - [Pilot (Weaverse Hydrogen Theme)](https://github.com/Weaverse/pilot) - Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀
+- [montalvomiguelo/hydrogen-theme](https://github.com/montalvomiguelo/hydrogen-theme) - A port of Hydrogen's default template to Shopify OS 2.0.
 
 ### Liquid Template
 
