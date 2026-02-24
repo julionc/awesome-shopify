@@ -93,6 +93,7 @@
 ### Others
 
 - [Shopify UI Extensions](https://github.com/Shopify/ui-extensions) – Repo for the public definition of Shopify’s UI extension APIs. Developers use this to build strongly-typed UI extensions for Shopify surfaces. 🧰
+- [Shopify Vite](https://github.com/barrel/shopify-vite) - Modern frontend tooling for Shopify theme development using Vite for a best-in-class DX.
 
 ## Mobile
 
