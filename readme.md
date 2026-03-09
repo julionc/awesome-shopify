@@ -83,6 +83,7 @@
 - [Fluid](https://github.com/frontvibe/fluid) - Hydrogen + Sanity for structured content management.
 - [Pilot (Weaverse Hydrogen Theme)](https://github.com/Weaverse/pilot) - Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀
 - [montalvomiguelo/hydrogen-theme](https://github.com/montalvomiguelo/hydrogen-theme) - A port of Hydrogen's default template to Shopify OS 2.0.
+- [packdigital/pack-hydrogen-theme-blueprint](https://github.com/packdigital/pack-hydrogen-theme-blueprint) - A fully-featured Shopify Hydrogen starter theme packed with versatile components designed to seamlessly integrate with Pack and Shopify Hydrogen.
 
 ### Liquid Template
 
