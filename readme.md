@@ -66,7 +66,7 @@
 
 ### Polaris Web Components ✨🚀
 
-- [Polaris Web Components](https://shopify.dev/docs/api/app-home/using-polaris-components) - Shopify's UI toolkit for building interfaces that match the Shopify Admin design system.
+- [Polaris Web Components](https://shopify.dev/docs/api/app-home/web-components) - Shopify's UI toolkit for building interfaces that match the Shopify Admin design system.
    [Polaris UI Kit - Community](https://www.figma.com/community/file/1554895871000783188/polaris-ui-kit-community) - This UI Kit gives you Figma components that match the Polaris Web Components library.
 - [App Bridge Web Components](https://shopify.dev/docs/api/app-home/app-bridge-web-components)
 
