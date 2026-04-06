@@ -12,6 +12,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/julionc/awesome-shopify)
 ![GitHub Repo stars](https://img.shields.io/github/stars/julionc/awesome-shopify)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Shopify store workflow orchestration, automated e-commerce management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Official Resources](#official-resources)
