@@ -80,6 +80,7 @@
 ### Hydrogen (Headless)
 - [Hydrogen](https://hydrogen.shopify.dev) - Headless stack for custom storefronts. [Source code](https://github.com/Shopify/hydrogen).
 - [Hydrogen Demo Store](https://github.com/Shopify/hydrogen-demo-store) - Official Hydrogen + Remix template, with full setup of components, queries and tooling for building a headless Shopify storefront. Deployed at hydrogen.shop. 🚀
+- [AEOrank](https://github.com/vinpatel/aeorank/tree/main/packages/shopify) - Hydrogen plugin that generates AI-readable files (llms.txt, ai.txt, CLAUDE.md, schema.json) so ChatGPT and Perplexity can find and cite your products.
 - [Fluid](https://github.com/frontvibe/fluid) - Hydrogen + Sanity for structured content management.
 - [Pilot (Weaverse Hydrogen Theme)](https://github.com/Weaverse/pilot) - Fully featured Shopify Hydrogen theme crafted for launching modern, high-performance headless storefronts. Includes TypeScript, Tailwind CSS, GraphQL code generation, React Router, Oxygen deployment, and customization via Weaverse Studio. 🚀
 - [montalvomiguelo/hydrogen-theme](https://github.com/montalvomiguelo/hydrogen-theme) - A port of Hydrogen's default template to Shopify OS 2.0.
