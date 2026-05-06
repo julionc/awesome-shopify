@@ -264,6 +264,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [RequestBin](https://requestbin.net/) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://shopify.dev/docs/api/webhooks) are.
 - [Hookdeck](https://hookdeck.com/) - Tool for monitoring, managing and debugging Shopify Webhooks with custom retry logic, alerts, and filtering.
 - [DeployHQ](https://www.deployhq.com/shopify) - Shopify integration in DeployHQ is a great way to streamline the development, review, and deployment of your store themes.
+- [Agentprobe](https://agentprobe.fly.dev/) - Free agentic commerce readiness scorer. Check if your Shopify store can be discovered, quoted, and purchased by AI shopping agents. Probes 13 signals (llms.txt, OpenAPI, catalog/quote/checkout APIs, payment rail declarations) and returns a 0–110 score with a CERTIFIED badge.
 
 ### Browser Extensions
 
