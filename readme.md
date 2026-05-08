@@ -243,6 +243,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ## Developer Tools
 
 ### CLI Tools
+
 - [Shopify CLI](https://github.com/Shopify/cli) - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀. 
 - [Theme Kit](https://github.com/Shopify/themekit) - Shopify theme development command line tool. ⚠️
 - [Theme Check](https://github.com/Shopify/theme-check) - The Ultimate Shopify Theme Linter. ⚠️
@@ -252,19 +253,24 @@ You can use official Shopify libraries or any of the third party libraries below
 - [Shopify Online Store (GitHub Marketplace)](https://github.com/marketplace/shopify-online-store) - Automates Shopify theme deployments from GitHub pushes, streamlining your CI/CD workflow.
 
 ### Editors
+
 - [Shopify Liquid for VS Code](https://marketplace.visualstudio.com/items?itemName=Shopify.theme-check-vscode)
 - [vim-liquid](https://github.com/tpope/vim-liquid)
 - [zed-shopify-liquid](https://github.com/TheBeyondGroup/zed-shopify-liquid)
 
+### AI tools
+
+- [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit)
+
 ### Services
 
 - [Ngrok](https://ngrok.com) - A tool that makes it easy to expose your development environment to Internet.
-- [Calcmatic Shopify Payment Calculator](https://calcmatic.app/calculators/ecommerce/shopify-payments) - Calculate your Shopify payment processing fees instantly.
-- [ShopSavvy](https://github.com/shopsavvy/shopify-shopsavvy) - Shopify app for competitor price monitoring and real-time price comparison across thousands of retailers.
 - [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) - To configure local server using cloudflare.
 - [RequestBin](https://requestbin.net/) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://shopify.dev/docs/api/webhooks) are.
 - [Hookdeck](https://hookdeck.com/) - Tool for monitoring, managing and debugging Shopify Webhooks with custom retry logic, alerts, and filtering.
 - [DeployHQ](https://www.deployhq.com/shopify) - Shopify integration in DeployHQ is a great way to streamline the development, review, and deployment of your store themes.
+- [Calcmatic Shopify Payment Calculator](https://calcmatic.app/calculators/ecommerce/shopify-payments) - Calculate your Shopify payment processing fees instantly.
+- [ShopSavvy](https://github.com/shopsavvy/shopify-shopsavvy) - Shopify app for competitor price monitoring and real-time price comparison across thousands of retailers.
 
 ### Browser Extensions
 
