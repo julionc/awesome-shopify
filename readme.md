@@ -288,6 +288,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 - [Shopify Product CSVs](https://github.com/shopifypartners/product-csvs) - Get your Shopify development stores started with great product data.
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
+- [Packrift Packaging Tools](https://packrift.com/pages/tools) - Free Shopify merchant tools for dimensional weight, box fit, poly bag thickness, tape yield, and packaging planning.
 - [Shopify Schema Validator](https://podifai.com/tools/shopify-schema-validator) - Free tool to validate Shopify theme schema JSON (settings_schema.json, section schemas) with real-time error detection and fix suggestions.
 
 ## Community
