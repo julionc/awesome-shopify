@@ -181,9 +181,11 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Rust
 
-- [Ventmere/shopify](https://github.com/Ventmere/shopify/) - Shopify API Client for Rust. ⏱
-- [A Shopify API Client for Rust](https://github.com/0xtlt/shopify_api)
+- [Shopify API Client for Rust](https://github.com/0xtlt/shopify_api)
+- [Shopify Rust Client](https://github.com/sinha-sahil/shopify-rust-client) - A type-safe, async Rust client for the Shopify Admin API.
+- [shopify-api-rust](https://github.com/saschabratton/shopify-api-rust) - Rust SDK for the Shopify API.
 - [Shopify Function Rust](https://github.com/Shopify/shopify-function-rust)
+- [Ventmere/shopify](https://github.com/Ventmere/shopify/) - Shopify API Client for Rust. ⏱⚠️
 
 ## Example Apps
 
