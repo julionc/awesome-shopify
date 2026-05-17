@@ -273,6 +273,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [DeployHQ](https://www.deployhq.com/shopify) - Shopify integration in DeployHQ is a great way to streamline the development, review, and deployment of your store themes.
 - [Calcmatic Shopify Payment Calculator](https://calcmatic.app/calculators/ecommerce/shopify-payments) - Calculate your Shopify payment processing fees instantly.
 - [ShopSavvy](https://github.com/shopsavvy/shopify-shopsavvy) - Shopify app for competitor price monitoring and real-time price comparison across thousands of retailers.
+- [Chargeback Scan](https://chargeback-scan.vercel.app) - Scan a Shopify Orders CSV export in the browser to flag repeat chargeback-abuse customers and view your VAMP dispute ratio against the Visa threshold. No signup; runs fully client-side.
 
 ### Browser Extensions
 
