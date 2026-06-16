@@ -263,6 +263,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### AI tools
 
 - [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit)
+- [Superhighway](https://superhighway.walls.sh/guides/retail-research-agent) - Build a Python agent that researches retail categories, e-commerce channel dynamics, digital shelf position, and DTC brand intelligence using live web search. Pay-per-call with USDC via x402.
 
 ### Services
 
