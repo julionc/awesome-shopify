@@ -235,6 +235,10 @@ You can use official Shopify libraries or any of the third party libraries below
 
 - [Elixir Shopify App (Phoenix)](https://github.com/orbit-apps/elixir-shopify-app)
 
+### Make.com Blueprints
+
+- [Shopify Automation Blueprints](https://github.com/lsb11/shopify-automation-blueprints) - Open-source Make.com scenario blueprints that add server-side tracking (TikTok Events API, Meta & Google Conversions API) and inventory automation to Shopify with no apps or code. Free importable TikTok blueprint included. 🧰
+
 ## Code Snippets
 
 - [freakdesign/shopify-code-snippets](https://github.com/freakdesign/Shopify-code-snippets) - Shopify Code Snippets examples and tips.
