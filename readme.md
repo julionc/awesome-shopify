@@ -263,6 +263,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### AI tools
 
 - [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit)
+- [Awesome Agentic Commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated list of agentic commerce resources: protocols (UCP, ACP, AP2, MCP), MCP servers, agent readiness tools and apps for AI-driven shopping.
 
 ### Services
 
