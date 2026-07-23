@@ -26,9 +26,9 @@ Examples of unacceptable behavior by participants include:
 advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing others' private information, such as a physical or electronic
+* Publishing others' private information, such as physical or electronic
   address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
+* Other conduct that could reasonably be considered inappropriate in a
   professional setting
 
 ## Our Responsibilities
@@ -68,7 +68,7 @@ members of the project's leadership.
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at [http://contributor-covenant.org/version/1/4][version]
+available at [https://contributor-covenant.org/version/1/4][version]
 
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+[homepage]: https://contributor-covenant.org
+[version]: https://contributor-covenant.org/version/1/4/
