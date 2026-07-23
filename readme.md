@@ -1,13 +1,16 @@
 # Awesome Shopify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
-[<img src="media/shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/free-trial?ref=vitalogy)
+[<img src="shopify-logo.svg" align="right" width="200">](https://www.shopify.com/)
 
 > Curated list of awesome [Shopify](https://www.shopify.com) resources, libraries, and open-source projects for developers and designers.
 
-[Shopify](https://www.shopify.com/blog/what-is-shopify?ref=vitalogy) is a leading e-commerce platform that allows you to build and manage online stores.
+# Awesome Shopify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 💡 **Note for merchants:** [Bring your ideas to life for $1/month](https://shopify.pxf.io/ZQJOkq)
+[<img src="media/shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/)
+
+> Curated list of awesome [Shopify](https://www.shopify.com) resources, libraries, and open-source projects for developers and designers.
+
+[Shopify](https://www.shopify.com/blog/what-is-shopify) is a leading e-commerce platform that allows you to build and manage online stores.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/julionc/awesome-shopify)
 ![GitHub Repo stars](https://img.shields.io/github/stars/julionc/awesome-shopify)

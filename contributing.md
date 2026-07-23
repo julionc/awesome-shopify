@@ -34,7 +34,7 @@ Thank you for your suggestions!
 - in case of addition or removal, make an assessment of
   awesomeness of the entry.
 
-  ## Updating your PR
+## Updating your PR
 
 If the maintainers notice anything that we'd like changed, we'll ask you to
 edit your PR before we merge it. There's no need to open a new PR, just edit
@@ -45,7 +45,7 @@ the existing one.
 To run tests locally:
 
     # using node.js
-    npm install -g awesome-lint
-    awesome-lint readme.md
+    npm install
+    npm run lint
 
 Thanks!
