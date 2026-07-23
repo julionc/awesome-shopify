@@ -1,12 +1,6 @@
 # Awesome Shopify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="shopify-logo.svg" align="right" width="200">](https://www.shopify.com/)
-
-> Curated list of awesome [Shopify](https://www.shopify.com) resources, libraries, and open-source projects for developers and designers.
-
-# Awesome Shopify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-[<img src="media/shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/)
+[<img src="shopify-logo.svg" align="right" width="100">](https://www.shopify.com/)
 
 > Curated list of awesome [Shopify](https://www.shopify.com) resources, libraries, and open-source projects for developers and designers.
 
