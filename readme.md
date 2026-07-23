@@ -1,8 +1,8 @@
 # Awesome Shopify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="shopify-logo.svg" align="right" width="100">](https://www.shopify.com/)
+[<img src="shopify-logo.svg" align="right" width="150">](https://www.shopify.com/)
 
-> Curated list of awesome [Shopify](https://www.shopify.com) resources, libraries, and open-source projects for developers and designers.
+> Curated list of awesome Shopify resources, libraries, and open-source projects for developers and designers.
 
 [Shopify](https://www.shopify.com/blog/what-is-shopify) is a leading e-commerce platform that allows you to build and manage online stores.
 
