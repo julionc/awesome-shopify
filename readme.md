@@ -272,6 +272,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [Hookdeck](https://hookdeck.com/) - Tool for monitoring, managing and debugging Shopify Webhooks with custom retry logic, alerts, and filtering.
 - [DeployHQ](https://www.deployhq.com/shopify) - Shopify integration in DeployHQ is a great way to streamline the development, review, and deployment of your store themes.
 - [Calcmatic Shopify Payment Calculator](https://calcmatic.app/calculators/ecommerce/shopify-payments) - Calculate your Shopify payment processing fees instantly.
+- [Calcrux Shopify Fee Calculator](https://calcrux.com/tools/ecommerce/shopify-profit-calculator) - Free calculator for Shopify profit after plan fee, processing and ads — and when to upgrade.
 - [ShopSavvy](https://github.com/shopsavvy/shopify-shopsavvy) - Shopify app for competitor price monitoring and real-time price comparison across thousands of retailers.
 
 ### Browser Extensions
