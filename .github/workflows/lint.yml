@@ -18,12 +18,15 @@ jobs:
       contents: read
 
     steps:
-      - uses: actions/checkout@v5
+      - name: Checkout repository
+        uses: actions/checkout@v7
 
-      - uses: actions/setup-node@v6
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
         with:
           node-version: 24
           cache: 'npm'
+          cache-dependency-path: "**/package-lock.json"
 
       - name: Install dependencies
         run: npm ci
