@@ -286,6 +286,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Utilities
 
+- [Review Triage Worksheet](https://alfredtech2026.github.io/shopify-app-review-brief/tools/review-triage-worksheet.html?utm_source=awesome-shopify&utm_medium=resource-directory&utm_campaign=inbound-validation) - Free, open-source browser worksheet that locally sorts pasted Shopify App Store reviews into incident risk, repeated friction, pricing confusion, and feature requests.
 - [Shopify Product CSVs](https://github.com/shopifypartners/product-csvs) - Get your Shopify development stores started with great product data.
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
 
