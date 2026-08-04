@@ -1,6 +1,6 @@
 # Awesome Shopify [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="shopify-logo.svg" align="right" width="150">](https://www.shopify.com/)
+[<img src="shopify-logo.svg" align="right" width="120">](https://www.shopify.com/)
 
 > Curated list of awesome Shopify resources, libraries, and open-source projects for developers and designers.
 
@@ -188,12 +188,12 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Shopify App Templates
 
-- [create-shopify-firebase-app](https://github.com/mksd0398/create-shopify-firebase-app) - CLI that scaffolds an embedded Shopify app on Firebase Hosting, Cloud Functions and Firestore, as an alternative to the Remix and React Router templates.
 - [Shopify Payments App Template (Remix)](https://github.com/Shopify/example-app--payments-app-template--remix) - Remix template for building Shopify apps with payments integration (Payments App API support). 🚀
 - [Shopify Credit Card Payments Template (Remix)](https://github.com/Shopify/example-app--credit-card-payments-app-template--remix) - Remix example showing Credit Card Payments integration using Shopify’s Payments API. 🏦
 - [Shopify App Template (React Router)](https://github.com/Shopify/shopify-app-template-react-router) - Template for Shopify apps using React Router for routing instead of Next.js or Remix.
 - [Shopify Optional Scopes Example (Remix)](https://github.com/Shopify/example-app--optional-scopes--remix) - Example showing how to request optional API scopes during app installation, built with Remix.
 - [Shopify Address Autocomplete Example (Preact)](https://github.com/Shopify/example-checkout--address-autocomplete--preact) - Checkout example using Preact to demonstrate address autocomplete enhancements on Shopify checkout.
+- [Shopify Firebase App](https://github.com/mksd0398/create-shopify-firebase-app) - CLI that scaffolds an embedded Shopify app on Firebase Hosting, Cloud Functions and Firestore, as an alternative to the Remix and React Router templates.
 
 ### JavaScript Examples
 
