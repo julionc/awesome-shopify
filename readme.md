@@ -236,6 +236,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ## Code Snippets
 
 - [freakdesign/shopify-code-snippets](https://github.com/freakdesign/Shopify-code-snippets) - Shopify Code Snippets examples and tips.
+- [revertcreations/shopify-packing-slip-personalization](https://github.com/revertcreations/shopify-packing-slip-personalization) - A validated Liquid snippet for printing public line-item personalization properties on Shopify packing slips.
 - [vikrantnegi/shopify-code-snippets](https://github.com/vikrantnegi/shopify-code-snippets) - A compilation of code snippets for Shopify developers.
 - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
 - [PROPS!](http://props.tools/) - Copy-paste customizable, theme-agnostic* custom liquid sections.
