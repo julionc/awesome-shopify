@@ -63,15 +63,16 @@
 
 ### Polaris Web Components ✨🚀
 
+- [Polaris Reference](https://shopify.dev/docs/api/polaris)
 - [Polaris Web Components](https://shopify.dev/docs/api/app-home/web-components) - Shopify's UI toolkit for building interfaces that match the Shopify Admin design system.
    [Polaris UI Kit - Community](https://www.figma.com/community/file/1554895871000783188/polaris-ui-kit-community) - This UI Kit gives you Figma components that match the Polaris Web Components library.
 - [App Bridge Web Components](https://shopify.dev/docs/api/app-home/app-bridge-web-components)
 
 ### Polaris React (Deprecated ⚠️)
-- [Polaris React](https://polaris-react.shopify.com/) - Legacy React component library. [GitHub](https://github.com/Shopify/polaris-react)
-- [Polaris Design Guidelines](https://polaris-react.shopify.com/design)
-- [Polaris Icon Explorer](https://polaris-react.shopify.com/icons)
-- [Polaris Components](https://github.com/RAAbbott/polaris-components) - Open-source collection of copy/paste UI components built using Shopify’s Polaris design system. 💡
+- [Polaris React](https://polaris-react.shopify.com/) - Legacy React component library. [GitHub](https://github.com/Shopify/polaris-react-archive)
+- [Polaris Design Guidelines](https://shopify.github.io/polaris-react-archive/design)
+- [Polaris Icon Explorer](https://shopify.github.io/polaris-react-archive/icons)
+- [Polaris Components](https://shopify.github.io/polaris-react-archive/components) - Open-source collection of copy/paste UI components built using Shopify’s Polaris design system. 💡
 - [Polaris Vue](https://github.com/ownego/polaris-vue) - Vue 3 implementation.
 
 ### Hydrogen (Headless)
