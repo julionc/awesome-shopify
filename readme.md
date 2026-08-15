@@ -262,6 +262,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### AI tools
 
 - [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit)
+- [Yappi](https://chau.ai) - AI chatbot for Shopify stores that solves support tickets, tracks orders, recovers carts, and provides intelligent product recommendations.
 
 ### Services
 
