@@ -289,6 +289,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 - [Shopify Product CSVs](https://github.com/shopifypartners/product-csvs) - Get your Shopify development stores started with great product data.
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
+- [multichannel-settlement](https://github.com/actorlee007-cmyk/multichannel-settlement) - Reconciles order export CSVs from Shopify and other channels; handles blank order-level fields on extra line items and unit-vs-line prices. Standard library Python, runs locally.
 
 ## Community
 
