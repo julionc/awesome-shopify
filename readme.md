@@ -281,6 +281,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [Shopify App Detector](https://chrome.google.com/webstore/detail/shopify-app-detector-by-f/lhfdhjladfcmghahdbcmlceajdlbkale) - Detect which apps and what theme a Shopify store is using. [GitHub](https://github.com/feracommerce/shopify_app_detector)
 - [Shopify Theme Wizard](https://chrome.google.com/webstore/detail/shopify-app-detector-by-e/fhkelfkhcaokghlkckfgjoejhanelped) - Detect which theme a Shopify store is using.
 - [Shopify Theme Detector](https://podifai.com/tools/shopify-theme-detector/) - Free tool to identify what Shopify theme any store is using, including theme version, customizations, and technology stack.
+- [StackPeek](https://stackpeek.app) - Detect the theme, installed apps and tracking pixels on any Shopify storefront, matched against a server-side fingerprint database. Free MV3 side-panel extension, no account required. [GitHub](https://github.com/tonic20/stackpeek-extension)
 
 ### Raycast Extension
 
