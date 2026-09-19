@@ -274,6 +274,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [DeployHQ](https://www.deployhq.com/shopify) - Shopify integration in DeployHQ is a great way to streamline the development, review, and deployment of your store themes.
 - [Calcmatic Shopify Payment Calculator](https://calcmatic.app/calculators/ecommerce/shopify-payments) - Calculate your Shopify payment processing fees instantly.
 - [ShopSavvy](https://github.com/shopsavvy/shopify-shopsavvy) - Shopify app for competitor price monitoring and real-time price comparison across thousands of retailers.
+- [Exantrix](https://exantrix.com/en/extensions/shopify) - Sell Shopify products on a French marketplace for 3D printing, DTF transfers and custom textile, through a custom app and webhooks (no public app to install).
 
 ### Browser Extensions
 
