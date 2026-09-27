@@ -195,7 +195,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [Shopify App Template (React Router)](https://github.com/Shopify/shopify-app-template-react-router) - Template for Shopify apps using React Router for routing instead of Next.js or Remix.
 - [Shopify Optional Scopes Example (Remix)](https://github.com/Shopify/example-app--optional-scopes--remix) - Example showing how to request optional API scopes during app installation, built with Remix.
 - [Shopify Address Autocomplete Example (Preact)](https://github.com/Shopify/example-checkout--address-autocomplete--preact) - Checkout example using Preact to demonstrate address autocomplete enhancements on Shopify checkout.
-- [Shopify Firebase App](https://github.com/mksd0398/create-shopify-firebase-app) - CLI that scaffolds an embedded Shopify app on Firebase Hosting, Cloud Functions and Firestore, as an alternative to the Remix and React Router templates.
+- [Nitrogen](https://github.com/mksd0398/nitrogen) - CLI that scaffolds an embedded Shopify app on Firebase Hosting, Cloud Functions and Firestore, as an alternative to the Remix and React Router templates.
 
 ### JavaScript Examples
 
