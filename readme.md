@@ -291,6 +291,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 - [Shopify Product CSVs](https://github.com/shopifypartners/product-csvs) - Get your Shopify development stores started with great product data.
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
+- [WooCommerce to Shopify Plugin Map](https://github.com/mufa-tech/woocommerce-shopify-plugin-map) - Open dataset and CLI that maps 88 WooCommerce plugins to their Shopify equivalent with a migration risk level.
 
 ## Community
 
