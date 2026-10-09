@@ -6,9 +6,6 @@
     },
     {
       "pattern": "^https://(www\\.)?reddit\\.com"
-    },
-    {
-      "pattern": "^https://calcmatic\\.app"
     }
   ],
   "replacementPatterns": [],
