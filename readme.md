@@ -69,10 +69,8 @@
 - [App Bridge Web Components](https://shopify.dev/docs/api/app-home/app-bridge-web-components)
 
 ### Polaris React (Deprecated ⚠️)
-- [Polaris React](https://polaris-react.shopify.com/) - Legacy React component library. [GitHub](https://github.com/Shopify/polaris-react-archive)
-- [Polaris Design Guidelines](https://shopify.github.io/polaris-react-archive/design)
-- [Polaris Icon Explorer](https://shopify.github.io/polaris-react-archive/icons)
-- [Polaris Components](https://shopify.github.io/polaris-react-archive/components) - Open-source collection of copy/paste UI components built using Shopify’s Polaris design system. 💡
+- [Polaris React](https://github.com/Shopify/polaris-react-archive) - Legacy React component library.
+- [Storybook for Polaris React](https://storybook.polaris.shopify.dev)
 - [Polaris Vue](https://github.com/ownego/polaris-vue) - Vue 3 implementation.
 
 ### Hydrogen (Headless)
