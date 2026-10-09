@@ -235,6 +235,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ## Code Snippets
 
+- [Archer-Works/shopify-sale-price-json-ld](https://github.com/Archer-Works/shopify-sale-price-json-ld) - Liquid snippet supplying the `StrikethroughPrice` a sale price needs in product JSON-LD, which Shopify's `structured_data` filter omits.
 - [freakdesign/shopify-code-snippets](https://github.com/freakdesign/Shopify-code-snippets) - Shopify Code Snippets examples and tips.
 - [vikrantnegi/shopify-code-snippets](https://github.com/vikrantnegi/shopify-code-snippets) - A compilation of code snippets for Shopify developers.
 - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
