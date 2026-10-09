@@ -287,6 +287,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Utilities
 
+- [price-match](https://github.com/staxs78/price-match) - Deterministic competitor price matching for Shopify catalogs: SKU, title-signature and fuzzy ladders with a confidence score and review flagging per row, reading only the public `/products.json` feeds.
 - [Shopify Product CSVs](https://github.com/shopifypartners/product-csvs) - Get your Shopify development stores started with great product data.
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
 
