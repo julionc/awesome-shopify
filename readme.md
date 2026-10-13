@@ -289,6 +289,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 - [Shopify Product CSVs](https://github.com/shopifypartners/product-csvs) - Get your Shopify development stores started with great product data.
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
+- [Shopify Products Scraper](https://github.com/jeremyam/shopify-products-scraper) - Open-source Node.js tool that exports a Shopify store's products, prices, variants and stock from its public products.json feed.
 
 ## Community
 
