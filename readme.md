@@ -131,6 +131,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### JavaScript
 
 - [Shopify API and app tools for JavaScript](https://github.com/Shopify/shopify-app-js)
+- [expiring-token-guard](https://github.com/yomachichi/expiring-token-guard) - Helpers to migrate existing installs to expiring offline access tokens and refresh them safely (dry-run migration, single-flight refresh, uninstall-safe webhooks).
 - [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) - Shopify JavaScript Buy SDK. (Check Cart API ⚠️)
 - [shopify-api-node](https://github.com/MONEI/Shopify-api-node) - Node.js Shopify connector.
 - [nestjs-shopify](https://github.com/nestjs-shopify/nestjs-shopify) - Packages to develop Shopify application using NestJS.
