@@ -93,6 +93,7 @@
 
 - [Shopify UI Extensions](https://github.com/Shopify/ui-extensions) – Repo for the public definition of Shopify’s UI extension APIs. Developers use this to build strongly-typed UI extensions for Shopify surfaces. 🧰
 - [Shopify Vite](https://github.com/barrel/shopify-vite) - Modern frontend tooling for Shopify theme development using Vite for a best-in-class DX.
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## Mobile
 
