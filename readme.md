@@ -279,6 +279,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [Shopify App Detector](https://chrome.google.com/webstore/detail/shopify-app-detector-by-f/lhfdhjladfcmghahdbcmlceajdlbkale) - Detect which apps and what theme a Shopify store is using. [GitHub](https://github.com/feracommerce/shopify_app_detector)
 - [Shopify Theme Wizard](https://chrome.google.com/webstore/detail/shopify-app-detector-by-e/fhkelfkhcaokghlkckfgjoejhanelped) - Detect which theme a Shopify store is using.
 - [Shopify Theme Detector](https://podifai.com/tools/shopify-theme-detector/) - Free tool to identify what Shopify theme any store is using, including theme version, customizations, and technology stack.
+- [Store Page Check](https://github.com/kimheesoo-inventor/store-page-check) - Open-source bookmarklet that checks policy links, policy page status, contact details and product structured data on a Shopify store page before a Google Merchant Center review.
 
 ### Raycast Extension
 
