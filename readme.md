@@ -245,6 +245,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### CLI Tools
 
+- [LocalCSV Shopify Supplier Audit](https://github.com/livastic-vm3-primary-tmp-260920/localcsv-shopify-supplier-audit) - Open-source, browser-local and Node.js CLI review of current Shopify, supplier SKU/cost, and optional proposed-product CSVs; explicit header mapping and downloadable comparison reports, without store login or file uploads.
 - [Shopify CLI](https://github.com/Shopify/cli) - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀. 
 - [Theme Kit](https://github.com/Shopify/themekit) - Shopify theme development command line tool. ⚠️
 - [Theme Check](https://github.com/Shopify/theme-check) - The Ultimate Shopify Theme Linter. ⚠️
