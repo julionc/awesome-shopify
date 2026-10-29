@@ -262,6 +262,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### AI tools
 
 - [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit)
+- [Luria MCP](https://github.com/baneets/luria-mcp) - Remote MCP server that lets Claude, Cursor or Codex split test a Shopify storefront: start A/B tests, read heatmaps and get the winner.
 
 ### Services
 
