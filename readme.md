@@ -13,6 +13,7 @@
 
 - [Official Resources](#official-resources)
 - [Documentation](#documentation)
+- - [CitedCart](https://citedcart.com/?utm_source=awesome_shopify&utm_medium=github&utm_campaign=free_start_us&utm_content=readme) - Free audit and validation of Shopify product structured data (JSON-LD), return policies, and AI search crawler readiness.
 - [Themes & Design](#themes--design)
 - [Frontend Development](#frontend-development)
 - [Mobile](#mobile)
