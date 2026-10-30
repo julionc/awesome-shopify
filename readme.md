@@ -268,6 +268,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [mock.shop](https://mock.shop) - Public Storefront API backed by 100+ fictional stores, for building and testing storefronts and agents without a Shopify store or token. Store directory at [mock.shop/llms.txt](https://mock.shop/llms.txt).
 - [Ngrok](https://ngrok.com) - A tool that makes it easy to expose your development environment to Internet.
 - [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) - To configure local server using cloudflare.
+- [DTCify](https://dtcify.com) - A curated directory of direct-to-consumer brands, ecommerce tools, and growth resources.
 - [RequestBin](https://requestbin.net/) - It gives you a bucket to capture external requests. This is useful for seeing what the content of a [Shopify Webhook](https://shopify.dev/docs/api/webhooks) are.
 - [Hookdeck](https://hookdeck.com/) - Tool for monitoring, managing and debugging Shopify Webhooks with custom retry logic, alerts, and filtering.
 - [DeployHQ](https://www.deployhq.com/shopify) - Shopify integration in DeployHQ is a great way to streamline the development, review, and deployment of your store themes.
