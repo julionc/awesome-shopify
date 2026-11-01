@@ -246,8 +246,9 @@ You can use official Shopify libraries or any of the third party libraries below
 ### CLI Tools
 
 - [Shopify CLI](https://github.com/Shopify/cli) - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀. 
-- [Theme Kit](https://github.com/Shopify/themekit) - Shopify theme development command line tool. ⚠️
+- [Shopify Upgrade Guard](https://github.com/efegokdemir/shopify-upgrade-guard) - Offline CLI and GitHub Action for detecting documented Shopify API upgrade and deprecation risks.
 - [Theme Check](https://github.com/Shopify/theme-check) - The Ultimate Shopify Theme Linter. ⚠️
+- [Theme Kit](https://github.com/Shopify/themekit) - Shopify theme development command line tool. ⚠️
 
 ### CI/CD & Deployment
 
