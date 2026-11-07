@@ -251,6 +251,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### CI/CD & Deployment
 
+- [MarketCart CI](https://github.com/paolomangiadev/marketcart-ci) - Open-source GitHub Action and CLI that fails a Shopify theme release when the Dawn cart drawer shows something other than the stored cart (variant, quantity, price, market currency).
 - [Shopify Online Store (GitHub Marketplace)](https://github.com/marketplace/shopify-online-store) - Automates Shopify theme deployments from GitHub pushes, streamlining your CI/CD workflow.
 
 ### Editors
