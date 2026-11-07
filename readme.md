@@ -262,6 +262,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### AI tools
 
 - [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit)
+- [shopify-store-teardown](https://github.com/harrison-ming/chuhai-skills/tree/main/skills/shopify-store-teardown) - Open-source Agent Skill that analyses any public Shopify store from its public pages and JSON endpoints (theme, apps, Markets, catalog and price stats), with an evidence label on each finding. MIT, Python standard library, no API key.
 
 ### Services
 
