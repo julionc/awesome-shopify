@@ -287,6 +287,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Utilities
 
+- [product-csv-to-shopify-woocommerce](https://github.com/dylancaponi/product-csv-to-shopify-woocommerce) - Convert Etsy, Wix, Squarespace, WooCommerce, BigCommerce, Square and Magento 2 product CSV exports into a Shopify product import CSV, with a Shopify product CSV checker.
 - [Shopify Product CSVs](https://github.com/shopifypartners/product-csvs) - Get your Shopify development stores started with great product data.
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
 
