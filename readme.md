@@ -261,6 +261,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### AI tools
 
+- [AdVariq](https://advariq.com/) - AI commercial ad creative and product marketing visual generator for Shopify stores and DTC brands.
 - [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit)
 
 ### Services
