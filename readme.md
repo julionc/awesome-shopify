@@ -238,6 +238,7 @@ You can use official Shopify libraries or any of the third party libraries below
 - [freakdesign/shopify-code-snippets](https://github.com/freakdesign/Shopify-code-snippets) - Shopify Code Snippets examples and tips.
 - [vikrantnegi/shopify-code-snippets](https://github.com/vikrantnegi/shopify-code-snippets) - A compilation of code snippets for Shopify developers.
 - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
+- [kingadow/blog-md](https://github.com/kingadow/blog-md/tree/main/shopify) - Upcoming posts theme section, metaobject definition and Admin GraphQL for scheduling Shopify blog posts, plus a publish-day email workflow.
 - [oleharch/dawn-sections](https://github.com/oleharch/dawn-sections) - Drop-in sections for Dawn and Online Store 2.0 themes: age gate, sticky add to cart, FAQ, upsell modal, free shipping bar. No apps, no jQuery.
 - [PROPS!](http://props.tools/) - Copy-paste customizable, theme-agnostic* custom liquid sections.
 
