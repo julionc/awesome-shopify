@@ -245,6 +245,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### CLI Tools
 
+- [catalog-csv-lint](https://github.com/ericcheng0904-pixel/product-csv-lint) - Command-line checker for documented import problems in a Shopify product CSV, with a safe --fix and a GitHub Action.
 - [Shopify CLI](https://github.com/Shopify/cli) - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀. 
 - [Theme Kit](https://github.com/Shopify/themekit) - Shopify theme development command line tool. ⚠️
 - [Theme Check](https://github.com/Shopify/theme-check) - The Ultimate Shopify Theme Linter. ⚠️
