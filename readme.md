@@ -262,6 +262,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### AI tools
 
 - [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit)
+- [Shopify Theme Check Fix](https://github.com/AaronOptimus/shopify-theme-check-fix-skill) - Agent skill for Claude Code (should also load in Cursor) that runs Theme Check, fixes the safe offenses and asks before changing the risky ones.
 
 ### Services
 
