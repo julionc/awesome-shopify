@@ -262,6 +262,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### AI tools
 
 - [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit)
+- [Shopify Theme Audit Skill](https://auditskill.tanujrajput.com) - Open-source Claude Code skill that audits Online Store 2.0 themes for performance, accessibility, SEO and AEO, with file-and-line Liquid fixes.
 
 ### Services
 
