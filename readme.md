@@ -265,6 +265,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### Services
 
+- [BestAppify](https://bestappify.com) - Neutral App Store Optimization, listing audit, keyword and review intelligence for Shopify app vendors. Named founder, no own Shopify app. Includes a 59-tool MCP server (works in Claude, ChatGPT, Cursor), REST API, and a free tier.
 - [mock.shop](https://mock.shop) - Public Storefront API backed by 100+ fictional stores, for building and testing storefronts and agents without a Shopify store or token. Store directory at [mock.shop/llms.txt](https://mock.shop/llms.txt).
 - [Ngrok](https://ngrok.com) - A tool that makes it easy to expose your development environment to Internet.
 - [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) - To configure local server using cloudflare.
