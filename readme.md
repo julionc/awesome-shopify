@@ -245,6 +245,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ### CLI Tools
 
+- [Embedport](https://github.com/beingRealFrank/embedport) - Free checker (browser and one-file Python CLI) that lists a store's script tags and maps each to its app embed or web pixel replacement before Shopify stops running them on March 1, 2027.
 - [Shopify CLI](https://github.com/Shopify/cli) - CLI to build apps, themes, and hydrogen storefronts for Shopify 🚀. 
 - [Theme Kit](https://github.com/Shopify/themekit) - Shopify theme development command line tool. ⚠️
 - [Theme Check](https://github.com/Shopify/theme-check) - The Ultimate Shopify Theme Linter. ⚠️
