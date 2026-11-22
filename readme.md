@@ -67,6 +67,7 @@
 - [Polaris Web Components](https://shopify.dev/docs/api/app-home/web-components) - Shopify's UI toolkit for building interfaces that match the Shopify Admin design system.
    [Polaris UI Kit - Community](https://www.figma.com/community/file/1554895871000783188/polaris-ui-kit-community) - This UI Kit gives you Figma components that match the Polaris Web Components library.
 - [App Bridge Web Components](https://shopify.dev/docs/api/app-home/app-bridge-web-components)
+- [Corex UI](https://github.com/XCO-Agency/Corex-ui) - React component library that mirrors the legacy `@shopify/polaris` API while rendering Polaris web components. ([Docs](https://corex-ui.xco.agency/))
 
 ### Polaris React (Deprecated ⚠️)
 - [Polaris React](https://github.com/Shopify/polaris-react-archive) - Legacy React component library.
