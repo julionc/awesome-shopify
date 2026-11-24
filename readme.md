@@ -50,6 +50,7 @@
 - [App Store Requirements](https://shopify.dev/docs/apps/launch/app-requirements-checklist)
 - [Development Stores](https://www.shopify.com/partners/blog/development-stores?ref=vitalogy)
 - [App Design Guidelines](https://shopify.dev/docs/apps/design)
+- [Swavent Guides](https://swavent.com/en/guides) - Shopify guides on store costs, Figma-to-Shopify conversion, store speed, migration, and hiring a Shopify developer.
 
 ## Themes & Design
 
