@@ -262,6 +262,7 @@ You can use official Shopify libraries or any of the third party libraries below
 ### AI tools
 
 - [Agent plugins/extensions for CLIs and IDEs](https://github.com/shopify/shopify-ai-toolkit)
+- [shopify-bughunter](https://github.com/ambduu/shopify-bughunter) - Claude Code plugin and CLI that finds bugs in Shopify themes (Liquid errors, leaked tokens, leftover app code) and explains why a store is slow using PageSpeed Insights.
 
 ### Services
 
