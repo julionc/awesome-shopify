@@ -235,6 +235,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 ## Code Snippets
 
+- [ambduu/shopify-blocks](https://github.com/ambduu/shopify-blocks) - Copy-paste sections for Online Store 2.0 themes, added with a one-command CLI, with live previews. No apps, no subscription.
 - [freakdesign/shopify-code-snippets](https://github.com/freakdesign/Shopify-code-snippets) - Shopify Code Snippets examples and tips.
 - [vikrantnegi/shopify-code-snippets](https://github.com/vikrantnegi/shopify-code-snippets) - A compilation of code snippets for Shopify developers.
 - [gocomet/snippets](https://github.com/gocomet/snippets) - A collection of code snippets, generally for use with Shopify.
