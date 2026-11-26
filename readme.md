@@ -289,6 +289,7 @@ You can use official Shopify libraries or any of the third party libraries below
 
 - [Shopify Product CSVs](https://github.com/shopifypartners/product-csvs) - Get your Shopify development stores started with great product data.
 - [Shopify Product CSVs and Images](https://github.com/shopifypartners/shopify-product-csvs-and-images) - Get your Shopify development stores started with great product data.
+- [Shopify Merchant Diagnostics](https://github.com/star119055/shopify-merchant-diagnostics) - Browser-local diagnostic tools for Google Merchant Center shipping currency mismatches, GA4/Google Ads purchase event verification, and German EN 16931 (ZUGFeRD/XRechnung) XML checks.
 
 ## Community
 
